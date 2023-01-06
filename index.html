@@ -14,7 +14,7 @@
 
 
 
-<h1>Greeting</h1>
+<h1>Salute</h1>
 
 <p>If you have an IT task that nobody could cope with then hey, you've found the right place and the right man!
 <p>It is what offered here: solving problems. And what I do is developing non-typical projects that need ingenuity, persistence and learning.
@@ -49,8 +49,11 @@ Check up my <a href='#testimonials'>testimonials</a>.
 
 <h1>Public Projects</h1>
 
-https://github.com/sergeystoyan/
-https://sourceforge.net/u/cliversoft/profile/
+My open source projects:
+
+<p><a href='https://github.com/sergeystoyan/'>github.com<a>
+<p><a href='https://sourceforge.net/u/cliversoft/profile/'>sourceforge.net<a>
+
 
 <h2>PdfDocumentParser</h2>
 I deliver PDF parsers that find and extract data from invoices, tickets, orders etc. Even irregular documents can be parsed. To do such projects fast, I've developed my own framework <a href='https://sergeystoyan.github.io/PdfDocumentParser'>PdfDocumentParser</a>.
@@ -68,14 +71,16 @@ https://www.codeproject.com/Articles/Sergey-Stoyan#Article
 
 <h2>Upwork</h2>
 
-<a href='https://www.upwork.com/freelancers/~01d25285e0792b94ed'>upwork.com</a>
+<a href='https://www.upwork.com/freelancers/~01d25285e0792b94ed'>My profile</a>
 
-<br><a href=''>page 1</a>
-<br><a href=''>page 2</a>
-<br><a href=''>page 3</a>
-<br><a href=''>page 4</a>
-<br><a href=''>page 5</a>
-<br><a href=''>page 6</a>
+<p>Feedback by my clients:
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_48_28.png'>page 2</a>
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_49_45.png'>page 3</a>
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_50_28.png'>page 4</a>
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_13.png'>page 5</a>
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_53.png'>page 6</a>
+
 
 <h2>Freelancer</h2>
 <a href='https://www.freelancer.com/u/cliver'>freelancer.com</a>
@@ -90,15 +95,29 @@ https://www.codeproject.com/Articles/Sergey-Stoyan#Article
 
 
 <h1>Contact</h1>
-<p>Contact <a href="mailto:sergey.stoyan@gmail.com">sergey.stoyan@gmail.com</a>, <a href="mailto:sergey.stoyan@hotmail.com">sergey.stoyan@hotmail.com</a>
 
+<p><a id="contact1"></a> 
+<p><a id="contact2"></a>
 
+<script>
+	var ids2cs = {
+	"contact1":['s.y.stoyan','gmail.com']
+	,"contact2":['sergiy.stoyan','outlook.com']
+	};
+	function setContact(id, ids2cs){
+		var cs = ids2cs[id];
+		var a = document.getElementById(id);
+		a.text = cs[0]+'@'+cs[1];
+		a.href = 'mailto:'+a.text;
+	}
+	Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
+</script>
 
 </div>
 
 <div class='footer'>
 <script src='copyright.js'></script>
-        &nbsp;2018 - 2020&nbsp;&nbsp;<a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#114;&#103;&#101;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">Sergey Stoyan</a>
+        &nbsp;2015 - 2023&nbsp;&nbsp;<a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">Sergiy Stoyan</a>
 </script>
         
 </div>
