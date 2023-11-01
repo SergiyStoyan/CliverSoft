@@ -1,10 +1,15 @@
 /************************************************************************
-Version 1.2.0
-by Sergey Stoyan, 2018-2022
+Version 1.3.0
+by Sergiy Stoyan, 2018-2023
 
-This vanilla javascript generates a dynamic menu for content of a hosting html file when it is open in web browser.
-Only this script with no dependency is required.
-It can work either online or locally.
+v1.3:
+- preserves inner HTML in headers which allows customizing menu items;
+
+
+DESCRIPTION:
+This vanilla javascript generates a dynamic content menu for a html file when it is open in web browser.
+Only this script is required.
+It works either online or locally.
 Tested on Chrome and IE.
 
 
@@ -14,7 +19,7 @@ Html body must have:
 - one <div class='content'>;
 - one <div class='footer'>;
 
-Only <div class='content'> is parsed while building menu. Every H1, H2,... tag becomes an item.
+Only <div class='content'> is parsed while building menu. Each H1, H2,... tag becomes an item in the menu.
  
  
 USAGE:
@@ -183,7 +188,7 @@ var convert = function(mode){
             var level = (id.match(/_/ig) || []).length + 1;
             e.classList.add('h' + level);
             e.setAttribute('_id', id);
-            e.innerHTML = items[id]['header'].innerText;// + items[id]['pathCaption'].outerHTML;
+            e.innerHTML = items[id]['header'].innerHTML;//innerText;// + items[id]['pathCaption'].outerHTML;
             menu.appendChild(e);
             items[id]['menuItem'] = e;
             
