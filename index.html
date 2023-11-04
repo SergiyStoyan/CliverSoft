@@ -40,6 +40,49 @@ Check up my <a href='#Technologies'>technologies</a>.
 <p><a id="contact2"></a>
 
 
+    <!--script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <form action="?" method="POST">
+      <div class="g-recaptcha" data-sitekey="6LfORPMoAAAAALzOCCDtsqhb_MEZBXJrhiVWeRyY"></div>
+      <br/>
+      <input type="submit" value="Submit">
+    </form-->
+	
+	 <script type="text/javascript">
+      var verifyCallback = function(response) {
+        alert(response);
+      };
+      var widgetId1;
+      var widgetId2;
+      var onloadCallback = function() {
+        // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
+        // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
+        widgetId1 = grecaptcha.render('example1', {
+          'sitekey' : '6LfORPMoAAAAALzOCCDtsqhb_MEZBXJrhiVWeRyY',
+          'theme' : 'light'
+        });
+        widgetId2 = grecaptcha.render(document.getElementById('example2'), {
+          'sitekey' : '6LfORPMoAAAAALzOCCDtsqhb_MEZBXJrhiVWeRyY'
+        });
+      };
+    </script>
+    <!-- The g-recaptcha-response string displays in an alert message upon submit. -->
+    <form action="javascript:alert(grecaptcha.getResponse(widgetId1));">
+      <div id="example1"></div>
+      <br>
+      <input type="submit" value="getResponse">
+    </form>
+    <br>
+    <!-- Resets reCAPTCHA widgetId2 upon submit. -->
+    <form action="javascript:grecaptcha.reset(widgetId2);">
+      <div id="example2"></div>
+      <br>
+      <input type="submit" value="reset">
+    </form>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+    </script>
+
+
 <h1>Technologies</h1>
 <p>I develop mostly in C# and C/C++. But also experienced in Python, PHP, Javascript.
 <p>- development for Windows, macOS, Linux, Android with SQL and noSQL databases;
@@ -101,9 +144,9 @@ low level network applications and drivers
 
 <h2>Upwork/Elance</h2>
 
-<a href='https://www.upwork.com/freelancers/~01d25285e0792b94ed'>My profile</a>
+<a href='https://www.upwork.com/freelancers/~01d25285e0792b94ed' target='blank'>My upwork profile</a>
 
-<p>Feedback by my clients:
+<p>Feedback screenshots:
 <br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
 <br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_48_28.png'>page 2</a>
 <br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_49_45.png'>page 3</a>
@@ -115,11 +158,16 @@ low level network applications and drivers
 
 <h2>Guru</h2>
 
-<a href='http://www.guru.com/freelancers/cliver/reviews'>guru.com</a>
+<a href='http://www.guru.com/freelancers/cliver/reviews' target='blank'>My guru.com profile</a>
+
+<p>Feedback screenshots:
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
 
 <h2>Freelancer</h2>
-<a href='https://www.freelancer.com/u/cliver'>freelancer.com</a>
+<a href='https://www.freelancer.com/u/cliver' target='blank'>My freelancer.com profile</a>
 
+<p>Feedback screenshots:
+<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
 
 
 <h1>Public Projects</h1>
@@ -127,27 +175,63 @@ low level network applications and drivers
 My open source projects:
 
 <p><a href='https://github.com/sergeystoyan/'>github.com<a>
-<p><a href='https://sourceforge.net/u/cliversoft/profile/'>sourceforge.net<a>
 
 
 <h2><a name='PdfDocumentParser'>PdfDocumentParser</a></h2>
 I deliver PDF parsers that can and extract data from invoices, tickets, orders etc. Even irregular documents can be parsed. To do such projects fast, I've developed my own framework <a href='https://sergeystoyan.github.io/PdfDocumentParser'>PdfDocumentParser</a>.
 
+<p><a href='https://sergeystoyan.github.io/PdfDocumentParser' target='blank'>Documentation</a>
+| <a href='https://github.com/sergiystoyan/PdfDocumentParser' target='blank'>Source code</a>
+
 <h2>CliverRoutines</h2>
+CliverRoutines is a cross-platform C# lib providing what is needed in most desktop applications and not only them:
+
+<br>- settings manager that supersedes .NET ConfigurationManager;
+<br>- logger with multi-threading and session support;
+<br>- auxiliary routines;
+
+<p><a href='https://sergiystoyan.github.io/CliverRoutines' target='blank'>Documentation</a>
+ | <a href='https://github.com/sergiystoyan/CliverRoutines' target='blank'>Source code</a>
 
 <h2>CliverExcel</h2>
+CliverExcel is an .NET API for creating and editing excel files.
+<br>It is based on the NPOI lib and, besides its own API, allows accessing the NPOI API, too. Its goal, however, is to provide an API more advanced than NPOI's.
+
+		
+<p><a href='https://sergiystoyan.github.io/CliverExcel' target='blank'>Documentation</a>
+ | <a href='https://github.com/sergiystoyan/CliverExcel' target='blank'>Source code</a>
 
 <h2>CliverGoogle</h2>
+CliverGoogle is a .NET lib that provides:		
+<br>- an easy API for operating Google.Apis objects;
+<br>- Google.Apis connection data management;	
+
+
+
+<p><a href='https://sergiystoyan.github.io/CliverGoogle' target='blank'>Documentation</a>
+ | <a href='https://github.com/sergiystoyan/CliverGoogle' target='blank'>Source code</a>
 
 <h2>CliverMicrosoft</h2>
+CliverMicrosoft is a .NET lib that provides:
+<br>- an easy API for operating Microsoft.Graph objects;
+<br>- Microsoft.Graph connection data management;		
+
+
+
+<p><a href='https://sergiystoyan.github.io/CliverMicrosoft' target='blank'>Documentation</a>
+ | <a href='https://github.com/sergiystoyan/CliverMicrosoft' target='blank'>Source code</a>
 
 <h2>DataSifter</h2>
 
-<h2>Address Parser</h2>
+<!--p><a href='https://sergiystoyan.github.io/DataSifter' target='blank'>Documentation</a-->
+<p><a href='https://github.com/sergiystoyan/DataSifter' target='blank'>Source code</a>
+
+
 
 
 <h1>Articles</h1>
-https://www.codeproject.com/Articles/Sergey-Stoyan#Article
+
+<a href='https://www.codeproject.com/Articles/Sergey-Stoyan#Article' target='blank'>Articles on codeproject</a>
 
 
 <script>
@@ -159,7 +243,7 @@ https://www.codeproject.com/Articles/Sergey-Stoyan#Article
 		var cs = ids2cs[id];
 		var a = document.getElementById(id);
 		a.text = cs[0]+'@'+cs[1];
-		a.href = 'mailto:'+a.text;
+		a.href = 'mailto:'+a.text+'?subject=INQUIRY';
 	}
 	Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
 </script>
