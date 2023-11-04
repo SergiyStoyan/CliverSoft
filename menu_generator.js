@@ -1,9 +1,6 @@
 /************************************************************************
-Version 1.3.0
+Version 1.2.1
 by Sergiy Stoyan, 2018-2023
-
-v1.3:
-- preserves inner HTML in headers which allows customizing menu items;
 
 
 DESCRIPTION:
@@ -188,7 +185,7 @@ var convert = function(mode){
             var level = (id.match(/_/ig) || []).length + 1;
             e.classList.add('h' + level);
             e.setAttribute('_id', id);
-            e.innerHTML = items[id]['header'].innerHTML;//innerText;// + items[id]['pathCaption'].outerHTML;
+            e.innerHTML = items[id]['header'].innerText;//innerHTML;// + items[id]['pathCaption'].outerHTML;
             menu.appendChild(e);
             items[id]['menuItem'] = e;
             
