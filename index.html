@@ -9,8 +9,8 @@
 <div class='header' id='header'>
 <div style='font-size: 2em; color1:#348; color1:#948; color1:#706; color1:#796; color1:#681; color:#946; padding:20 0 0 0; text-align:center; font-weight:bold;'>CliverSoft</div>
 <!--img style='padding1:0 80 0 0;margin:10 8 0 20;' src='./images/CliverSoft.bmp'/-->
-<!--div style='color1:#240; color1:#032; color:#241; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Custom development</div-->
-<div style='color1:#240; color1:#032; color1:#041; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Development of non-typical projects</div>
+<!--div style='color1:#240; color1:#032; color:#241; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Custom software development</div-->
+<div style='color1:#240; color1:#032; color1:#041; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Non-typical software development</div>
 
 
 <!--script>
@@ -64,31 +64,44 @@ var random = {
 <h1>Main</h1>
 
 
-<p>If you have a non-typical project to be accomplished then you got the right company here because we develop custom software that require ingenuity, learning and persistence.
-<br>We offer:
+<p>If you have an uncommon software project to be accomplished then you got the right man here because I develop custom software that require ingenuity, learning and persistence.
+<br>I provide:
 <div style='color:#520; margin:0 0 0 0; text-align:left; font-weight:bold;'>
 <ul>
-<li>custom development
+<li>custom software development
 <li>full cycle [elaborating a solution : post-delivery maintenance]
 <li>direct communication with the developer
 </ul>
 </div>
 <p>
-Check up our <a href='#testimonials'>testimonials</a>
+Check up my <a href='#testimonials'>testimonials</a>.
 
 <p>
-Check up our <a href='#Technologies'>technologies</a>
+Check up my <a href='#Technologies'>technologies</a>.
 
 
 
 <h1>Contact</h1>
 
 <p><a id="contact1">*****</a> 
-<p><a id="contact2">*****</a>
+<!--p><a id="contact2">*****</a-->
 <p>
       <input type='button' value='Show' id='bShow' onclick="javascript: {Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)}); document.getElementById('bShow').style.display = 'none';}">
    
 
+<script>
+	var ids2cs = {
+	"contact1":['s.y.stoyan','gmail.com']
+	//,"contact2":['sergiy.stoyan','outlook.com']
+	};
+	function setContact(id, ids2cs){
+		var cs = ids2cs[id];
+		var a = document.getElementById(id);
+		a.text = cs[0]+'@'+cs[1];
+		a.href = 'mailto:'+a.text+'?subject=INQUIRY';
+	}
+	//Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
+</script>
 
 
 	 <!--script type="text/javascript">
@@ -117,6 +130,7 @@ Check up our <a href='#Technologies'>technologies</a>
     <br>
     <!--script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script-->
 
+<!--a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">email</a-->
 
 
 <h1>Technologies</h1>
@@ -203,7 +217,7 @@ var upworkImages = [
 'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_53.png',
 ];
 
-pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork', './upwork.com', upworkImages, true);
+//pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork', './upwork.com', upworkImages, true);
 </script>
 
 
@@ -212,7 +226,9 @@ pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork',
 The company was merged into upwork.com 
 
 <p>Feedback:
-<iframe src='./elance.com/Elance  CliverSoft - Job History - IT & Programming.htm' style='width: 100%; height: 100%; height1: auto;'></iframe>
+<p>
+      <input type='button' value='Show' onclick="javascript: document.getElementById('iFeedbackElance').src='./elance.com/Elance  CliverSoft - Job History - IT & Programming.htm';">
+<iframe id='iFeedbackElance' style='width: 100%; height: 100%; height1: auto;'></iframe>
 
 
 
@@ -234,7 +250,7 @@ var guruImages = [
 'screencapture-guru-freelancers-cliver-reviews-2023-11-04-07_30_02.png',
 ];
 
-pager.showImage2('sPageGuru', 'bPrevGuru', 'bNextGuru', 'iFeedbackGuru', './guru.com', guruImages, true);
+//pager.showImage2('sPageGuru', 'bPrevGuru', 'bNextGuru', 'iFeedbackGuru', './guru.com', guruImages, true);
 </script>	  
 
 
@@ -261,7 +277,7 @@ var gafImages = [
 'screencapture-freelancer-u-cliver-2018-05-18-12_48_33.png',
 ];
 
-pager.showImage2('sPageGaf', 'bPrevGaf', 'bNextGaf', 'iFeedbackGaf', './freelancer.com', gafImages, true);
+//pager.showImage2('sPageGaf', 'bPrevGaf', 'bNextGaf', 'iFeedbackGaf', './freelancer.com', gafImages, true);
 </script>	  
 
 
@@ -331,25 +347,12 @@ Data Sifter is a tool for building and running complex parsers that combine rege
 <a href='https://www.codeproject.com/Articles/Sergey-Stoyan#Article' target='blank'>Articles on codeproject</a>
 
 
-<script>
-	var ids2cs = {
-	"contact1":['s.y.stoyan','gmail.com']
-	,"contact2":['sergiy.stoyan','outlook.com']
-	};
-	function setContact(id, ids2cs){
-		var cs = ids2cs[id];
-		var a = document.getElementById(id);
-		a.text = cs[0]+'@'+cs[1];
-		a.href = 'mailto:'+a.text+'?subject=INQUIRY';
-	}
-	//Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
-</script>
 
 </div>
 
 <div class='footer'>
 <script src='copyright.js'></script>
-        &nbsp;2005 - 2023&nbsp;&nbsp;<a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">Sergiy Stoyan</a>
+        &nbsp;2005 - 2023&nbsp;&nbsp;<a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;' + '&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;' + '&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">Sergiy Stoyan</a>
 </script>
         
 </div>
