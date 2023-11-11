@@ -1,4 +1,4 @@
-<html>
+<html lang='EN'>
 <head>
 <title>CliverSoft: custom software development</title>
 <link rel="stylesheet" type="text/css" href="main.css">
@@ -6,10 +6,54 @@
 
 </head>
 <body>
-<div class='header'>
-<div style='font-size: 2em; color1:#348; color1:#948; color1:#706; color:#796; margin:20 0 5 0; text-align:center; font-weight:bold;'>CliverSoft</div>
-<!--div style='font-size: 2em; color:#348; margin:20 0 5 0; text-align:center; font-weight:bold;'><img src='./images/CliverSoft.bmp'/></div-->
-<div style='color:#240; text-align:center; font-weight:bold;'>Development of non-typical projects</div>
+<div class='header' id='header'>
+<div style='font-size: 2em; color1:#348; color1:#948; color1:#706; color1:#796; color1:#681; color:#946; padding:20 0 0 0; text-align:center; font-weight:bold;'>CliverSoft</div>
+<!--img style='padding1:0 80 0 0;margin:10 8 0 20;' src='./images/CliverSoft.bmp'/-->
+<!--div style='color1:#240; color1:#032; color:#241; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Custom development</div-->
+<div style='color1:#240; color1:#032; color1:#041; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Development of non-typical projects</div>
+
+
+<!--script>
+var random = {		
+    get_random: function(max){
+        var ran_unrounded = Math.random() * max;
+        return Math.floor(ran_unrounded);
+    },
+
+    dec2hex: function(d) {
+        var hD = "0123456789ABCDEF";
+        var h = hD.substr(d & 15, 1);
+        while(d > 15) {
+            d >>= 4;
+            h = hD.substr(d & 15, 1) + h;
+        }
+        return h;
+    },
+
+    get_color: function(red_min, red_max, green_min, green_max, blue_min, blue_max){
+        var red = red_min + this.get_random(red_max - red_min);
+        var green = green_min + this.get_random(green_max - green_min);
+        var blue = blue_min + this.get_random(blue_max - blue_min);
+        return "#" + this.dec2hex(red) + this.dec2hex(green) + this.dec2hex(blue);
+    },
+}
+
+  var t = document.createElement('table');
+  t.style = 'width: 100%; border:0px; margin-top:0;margin-bottom: 0;';
+
+    const tr = t.insertRow();
+    for (let j = 0; j < 120; j++) {
+        const td = tr.insertCell();
+        td.style = 'background-color: '+random.get_color(0,255,0,255,0,255)+';';
+      }    
+  
+  var h = document.getElementById('header');
+  var d = document.createElement('div');
+  d.style.height = '1px';
+  d.appendChild(t);
+  h.appendChild(d);
+  //h.insertAdjacentElement('afterbegin', d);
+</script-->
 
 </div>
 
@@ -20,19 +64,20 @@
 <h1>Main</h1>
 
 
-<p>If you have an IT task that you are struggling to find a software developer to cope with, then you are in the right place because we develop non-typical projects that require learning, ingenuity and persistence.
-<div style='color:#640; margin:0 0 0 0; text-align:left; font-weight:bold;'>
+<p>If you have a non-typical project to be accomplished then you got the right company here because we develop custom software that require ingenuity, learning and persistence.
+<br>We offer:
+<div style='color:#520; margin:0 0 0 0; text-align:left; font-weight:bold;'>
 <ul>
-<li>Non-typical projects.
-<li>Full cycle: from elaborating a solution to post-delivery maintenance.
-<li>Direct communication with the developer.
+<li>custom development
+<li>full cycle [elaborating a solution : post-delivery maintenance]
+<li>direct communication with the developer
 </ul>
 </div>
-<!--p>
-Check up my <a href='#testimonials'>testimonials</a>
+<p>
+Check up our <a href='#testimonials'>testimonials</a>
 
 <p>
-Check up my <a href='#Technologies'>technologies</a-->
+Check up our <a href='#Technologies'>technologies</a>
 
 
 
@@ -40,13 +85,13 @@ Check up my <a href='#Technologies'>technologies</a-->
 
 <p><a id="contact1">*****</a> 
 <p><a id="contact2">*****</a>
-<p> <form action="javascript:Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});">
-      <input type="submit" value="Show">
-    </form>
+<p>
+      <input type='button' value='Show' id='bShow' onclick="javascript: {Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)}); document.getElementById('bShow').style.display = 'none';}">
+   
 
 
 
-	 <script type="text/javascript">
+	 <!--script type="text/javascript">
       var verifyCallback = function(response) {
         alert(response);
       };
@@ -64,19 +109,12 @@ Check up my <a href='#Technologies'>technologies</a-->
         });
       };
     </script>
-    <!-- The g-recaptcha-response string displays in an alert message upon submit. -->
     <form action="javascript:alert(grecaptcha.getResponse(widgetId1));">
       <div id="example1"></div>
       <br>
       <input type="submit" value="getResponse">
     </form>
     <br>
-    <!-- Resets reCAPTCHA widgetId2 upon submit. -->
-    <form action="javascript:grecaptcha.reset(widgetId2);">
-      <div id="example2"></div>
-      <br>
-      <input type="submit" value="reset">
-    </form>
     <!--script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script-->
 
 
@@ -140,32 +178,92 @@ low level network applications and drivers
 
 <h1><a name='testimonials'>Testimonials</a></h1>
 
-<h2>Upwork/Elance</h2>
+<h2>upwork.com</h2>
 
 <a href='https://www.upwork.com/freelancers/~01d25285e0792b94ed' target='blank'>My upwork profile</a>
 
 <p>Feedback screenshots:
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_48_28.png'>page 2</a>
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_49_45.png'>page 3</a>
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_50_28.png'>page 4</a>
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_13.png'>page 5</a>
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_53.png'>page 6</a>
+<p>
+      <input type='button' value='<<' id='bPrevUpwork' onclick="javascript: pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork', './upwork.com', upworkImages, false);">
+      <input type='button' value='>>' id='bNextUpwork' onclick="javascript: pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork', './upwork.com', upworkImages, true);">
+	  <span id='sPageUpwork'></span>
+	  <!--div style="overflow: auto; width: 100%; height1: 80%; background-color1:#999;">
+	  </div-->
+	  <img id='iFeedbackUpwork' style="margin: 10 0 0 0; min-width1: 1000px; float1: left; width: 100%; height1: 100%; height1: auto; object-fit1: cover;"/>
+
+<script src='pager.js'></script>
+
+<script>
+var upworkImages = [
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png',
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_48_28.png',
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_49_45.png',
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_50_28.png',
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_13.png',
+'screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_51_53.png',
+];
+
+pager.showImage2('sPageUpwork', 'bPrevUpwork', 'bNextUpwork', 'iFeedbackUpwork', './upwork.com', upworkImages, true);
+</script>
+
+
+<h2>elance.com</h2>
+
+The company was merged into upwork.com 
+
+<p>Feedback:
+<iframe src='./elance.com/Elance  CliverSoft - Job History - IT & Programming.htm' style='width: 100%; height: 100%; height1: auto;'></iframe>
 
 
 
-<h2>Guru</h2>
+<h2>guru.com</h2>
 
 <a href='http://www.guru.com/freelancers/cliver/reviews' target='blank'>My guru.com profile</a>
 
 <p>Feedback screenshots:
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
+<p>
+      <input type='button' value='<<' id='bPrevGuru' onclick="javascript: pager.showImage2('sPageGuru', 'bPrevGuru', 'bNextGuru', 'iFeedbackGuru', './guru.com', guruImages, false);">
+      <input type='button' value='>>' id='bNextGuru' onclick="javascript: pager.showImage2('sPageGuru', 'bPrevGuru', 'bNextGuru', 'iFeedbackGuru', './guru.com', guruImages, true);">
+	  <span id='sPageGuru'></span>
+	  <!--div style="overflow: auto; width: 100%; height1: 80%; background-color1:#999;">
+	  </div-->
+	  <img id='iFeedbackGuru' style="margin: 10 0 0 0; min-width1: 1000px; float1: left; width: 100%; height1: 100%; height1: auto; object-fit1: cover;"/>
 
-<h2>Freelancer</h2>
+<script>
+var guruImages = [
+'screencapture-guru-freelancers-cliver-reviews-2023-11-04-07_30_02.png',
+];
+
+pager.showImage2('sPageGuru', 'bPrevGuru', 'bNextGuru', 'iFeedbackGuru', './guru.com', guruImages, true);
+</script>	  
+
+
+<h2>freelancer.com</h2>
 <a href='https://www.freelancer.com/u/cliver' target='blank'>My freelancer.com profile</a>
 
 <p>Feedback screenshots:
-<br><a target='_blank' href='./images/screencapture-upwork-freelancers-01d25285e0792b94ed-2023-01-06-18_40_13.png'>page 1</a>
+<p>
+      <input type='button' value='<<' id='bPrevGaf' onclick="javascript: pager.showImage2('sPageGaf', 'bPrevGaf', 'bNextGaf', 'iFeedbackGaf', './freelancer.com', gafImages, false);">
+      <input type='button' value='>>' id='bNextGaf' onclick="javascript: pager.showImage2('sPageGaf', 'bPrevGaf', 'bNextGaf', 'iFeedbackGaf', './freelancer.com', gafImages, true);">
+	  <span id='sPageGaf'></span>
+	  <!--div style="overflow: auto; width: 100%; height1: 80%; background-color1:#999;">
+	  </div-->
+	  <img id='iFeedbackGaf' style="margin: 10 0 0 0; min-width1: 1000px; float1: left; width: 100%; height1: 100%; height1: auto; object-fit1: cover;"/>
+
+<script>
+var gafImages = [
+'screencapture-freelancer-u-cliver-2018-05-18-12_38_54.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_39_16.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_46_52.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_47_42.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_47_59.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_48_14.png',
+'screencapture-freelancer-u-cliver-2018-05-18-12_48_33.png',
+];
+
+pager.showImage2('sPageGaf', 'bPrevGaf', 'bNextGaf', 'iFeedbackGaf', './freelancer.com', gafImages, true);
+</script>	  
+
 
 
 <h1>Public Projects</h1>
@@ -193,7 +291,7 @@ CliverRoutines is a cross-platform C# lib providing what is needed in most deskt
 
 <h2>CliverExcel</h2>
 CliverExcel is an .NET API for creating and editing excel files.
-<br>It is based on the NPOI lib and, besides its own API, allows accessing the NPOI API, too. Its goal, however, is to provide an API more advanced than NPOI's.
+<br>Basing on the NPOI lib, it provides a more advanced API than NPOI's. At the same time it allows accessing the NPOI API, too.
 
 		
 <p><a href='https://sergiystoyan.github.io/CliverExcel' target='blank'>Documentation</a>
@@ -221,6 +319,7 @@ CliverMicrosoft is a .NET lib that provides:
 
 <h2>DataSifter</h2>
 
+Data Sifter is a tool for building and running complex parsers that combine regexes, xpaths, json selectors.
 <!--p><a href='https://sergiystoyan.github.io/DataSifter' target='blank'>Documentation</a-->
 <p><a href='https://github.com/sergiystoyan/DataSifter' target='blank'>Source code</a>
 
@@ -268,6 +367,8 @@ if(!window.location.href.match(/\#./ig)){
 }
 </script>
 <script src='menu_generator.js' shiftHeaderAndFooterToContentView='' doNotHideHeaderAndFooter='1'></script>
+
+
 
 </body>
 </html>
