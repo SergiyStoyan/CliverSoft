@@ -381,7 +381,7 @@ var convert = function(mode){
                         top = (mode == '_collapsedContent' ? content : item['pathCaption']).getBoundingClientRect().top;
                     }
                     top = Math.min(footer.getBoundingClientRect().top - window.innerHeight, top);
-                    window.scrollTo(window.pageXOffset + left, headerAndFooterAreNotHidden ? 0 : window.pageYOffset + top);
+                    window.scrollTo(window.pageXOffset + left, headerAndFooterAreNotHidden && mode == '_collapsedContent' ? 0 : window.pageYOffset + top);
                 }
                 
                 scrollMenuToCurrentItem(item);
