@@ -62,10 +62,9 @@ var copyright = {
 		
 		if(typeof html2canvas !== 'undefined')
 			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
-			document.getElementById('lIcon').href = canvas.toDataURL("image/x-icon");
-			//document.getElementById('lIcon').href = './images/computers308.ico';
-			//alert(.replaceWith(canvas));
-			//eCanvas.replaceWith(canvas);
+				//canvas.width="180";
+				//canvas.height="180";
+				document.getElementById('lIcon').href = canvas.toDataURL("image/x-icon");
 		});
 		
         setTimeout(function(){this_.play()}, 500);
