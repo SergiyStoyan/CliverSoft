@@ -69,13 +69,13 @@ span.h6 {margin:5 0 0 100;color1:#240; color1:#041; }
     transition: 0.3s;
 }
 .menuItem:not(.empty):hover {
-    color: #a47;
-    background-color: #def;
+    color: #b47;
+    background-color: #e5f3ff;
     cursor: pointer;
 }
 .menuItem.current {
     color1: #640;color: #a47;
-    background-color: #eee;
+    background-color: #def;
     font-weight1: bold;
 }
 .menuItem.empty {
