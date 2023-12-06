@@ -3,7 +3,7 @@ body, html{
     padding: 0;
 }
 
-h1 {color1:#195; color:#574; color1:#079; color1:#946; font-size: 1.6em; text-indent: 0px; padding-top:10; margin:100 0 25 0; text-decoration1:underline;}
+h1 {color1:#090; color1:#574; color:#079; color1:#946; font-size: 1.6em; text-indent: 0px; padding-top:10; margin:100 0 25 0; text-decoration1:underline;}
 h2 {color1:#195; color:#574; color1:#079; color1:#685; font-size: 1.4em; text-indent: 50px; padding-top:10; margin:80 0 20 0; text-decoration1:underline;}
 h3 {color1:#195; color:#574; color1:#079; color1:#685; font-size: 1.2em; text-indent: 100px; padding-top:10; margin:40 0 15 0; text-decoration1:underline;}
 h4 {color1:#195; color:#574; color1:#079; color1:#947; font-size: 1.1em; text-indent: 150px; padding-top:10; margin:30 0 10 0; text-decoration1:underline;}
@@ -81,4 +81,3 @@ a:active {  text-decoration: underline;color: #00b;}
 a1[href*=\#] {/*internal links*/
 	background-color:lightgreen; 
 }
-
