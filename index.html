@@ -86,6 +86,44 @@ Check up my <a href='#Technologies'>technologies</a>.
 
 <h1>Contact</h1>
 
+<!--script src="https://www.google.com/recaptcha/api.js"></script>
+<button class="g-recaptcha" 
+        data-sitekey="6Lf7mScpAAAAALFG3rYJH0MkbPS8uMsMUmvPXCHO" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
+<script>
+function onSubmit(token) {alert(1);
+	showContact();
+}
+</script-->
+
+
+<!--script>
+function showEmail() {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'https://raw.githubusercontent.com/sergiystoyan/PdfDocumentParser/master/LICENSE');
+    xhr.send(null);
+
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+            if (xhr.status === 200)  {
+                var c = document.getElementById('contact1');
+				c.text = xhr.responseText;
+				c.href = 'mailto:'+xhr.responseText+'?subject=INQUIRY';
+            } else {
+                alert("HTTP: " + xhr.status);
+            }
+        } 
+    }
+};
+
+showEmail();
+</script-->
+
+
+
+
+
 <p><a id="contact1">*****</a> 
 <!--p><a id="contact2">*****</a-->
 <p>
@@ -103,7 +141,9 @@ Check up my <a href='#Technologies'>technologies</a>.
 		a.text = cs[0]+'@'+cs[1];
 		a.href = 'mailto:'+a.text+'?subject=INQUIRY';
 	}
-	//Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
+	function showContact(){
+		Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
+	}
 </script>
 
 
