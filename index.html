@@ -13,10 +13,10 @@
 <div style='font-size: 2em; color1:#348; color1:#948; color1:#706; color1:#796; color1:#681; color:#946; padding:20 0 0 0; text-align:center; font-weight:bold;'>CliverSoft</div>
 <!--img style='padding1:0 80 0 0;margin:10 8 0 20;' src='./images/CliverSoft.bmp'/-->
 <!--div style='color1:#240; color1:#032; color:#241; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Custom software development</div-->
-<div style='color1:#240; color1:#032; color1:#041; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Uncommon software development</div>
+<div style='color1:#ca3; color1:#032; color:#043; color1:#36b; text-align:center; font-weight:bold; margin1:0 0 0 100;'>Uncommon software development</div>
 
 
-<!--script>
+<script>
 var random = {		
     get_random: function(max){
         var ran_unrounded = Math.random() * max;
@@ -24,13 +24,7 @@ var random = {
     },
 
     dec2hex: function(d) {
-        var hD = "0123456789ABCDEF";
-        var h = hD.substr(d & 15, 1);
-        while(d > 15) {
-            d >>= 4;
-            h = hD.substr(d & 15, 1) + h;
-        }
-        return h;
+        return d.toString(16).toUpperCase().padStart(2, 0);
     },
 
     get_color: function(red_min, red_max, green_min, green_max, blue_min, blue_max){
@@ -41,22 +35,22 @@ var random = {
     },
 }
 
-  var t = document.createElement('table');
-  t.style = 'width: 100%; border:0px; margin-top:0;margin-bottom: 0;';
+var t = document.createElement('table');
+t.style = 'width: 100%; height: 100%; border:0px; margin-top:0;margin-bottom: 0;margin:0; padding:0;';
+var h = document.getElementById('header');
+var d = document.createElement('div');
+d.style.height = '1px';
+d.appendChild(t);
+h.appendChild(d);
+//alert(window.screen.width);
+const tr = t.insertRow();
+for (let j = window.screen.width/40; j > 0; j--) {
+	const td = tr.insertCell();
+	td.style = 'border:0; margin:0; padding:0; background-color: '+random.get_color(0,255,0,255,100,255)+';';
+}    
 
-    const tr = t.insertRow();
-    for (let j = 0; j < 120; j++) {
-        const td = tr.insertCell();
-        td.style = 'background-color: '+random.get_color(0,255,0,255,0,255)+';';
-      }    
-  
-  var h = document.getElementById('header');
-  var d = document.createElement('div');
-  d.style.height = '1px';
-  d.appendChild(t);
-  h.appendChild(d);
-  //h.insertAdjacentElement('afterbegin', d);
-</script-->
+//h.insertAdjacentElement('afterbegin', d);
+</script>
 
 </div>
 
