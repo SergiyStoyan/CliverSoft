@@ -21,12 +21,12 @@ span.h3 {margin:5 0 0 40;}
 span.h4 {margin:5 0 0 60;}
 span.h5 {margin:5 0 0 80;}
 span.h6 {margin:0 0 0 100;}*/
-span.h1 {margin:2 0 0 0;  color1:#240; color1:#041; font-weight:bold; font-size1:1.2em;}
-span.h2 {margin:2 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size1:1.2em;}
-span.h3 {margin:2 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em;}
-span.h4 {margin:2 0 0 60; color1:#240; color1:#041; }
-span.h5 {margin:2 0 0 80; color1:#240; color1:#041; }
-span.h6 {margin:2 0 0 100;color1:#240; color1:#041; }
+span.h1 {font-family1: Verdana;margin:2 0 0 0;  color1:#240; color1:#041; font-weight:bold; font-size:1em;font-size1:0.8em;}
+span.h2 {font-family1: Verdana;margin:2 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size:1em;font-size1:0.8em;}
+span.h3 {font-family1: Verdana;margin:2 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em;}
+span.h4 {font-family1: Sans-Serif;margin:2 0 0 60; color1:#240; color1:#041; }
+span.h5 {font-family1: Sans-Serif;margin:2 0 0 80; color1:#240; color1:#041; }
+span.h6 {font-family1: Sans-Serif;margin:2 0 0 100;color1:#240; color1:#041; }
 
 .noTopMargin{
     margin-top: 0 !important;
