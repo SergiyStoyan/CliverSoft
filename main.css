@@ -81,3 +81,6 @@ a:active {  text-decoration: underline;color: #00b;}
 a1[href*=\#] {/*internal links*/
 	background-color:lightgreen; 
 }
+
+.item {color:#520; margin:0 0 0 0; text-align:left; font-weight:bold;}
+.subheader {color:#c85; font-weight:bold; font-size:19;}
