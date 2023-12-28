@@ -54,7 +54,7 @@ var copyright = {
         t.style.backgroundColor = r;
         var this_ = this;
 		
-		if(typeof html2canvas !== 'undefined')//dynamic fav-icon if 
+		if(typeof html2canvas !== 'undefined')//dynamic favicon if the lib exists
 			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
 				//canvas.width="180";
 				//canvas.height="180";
