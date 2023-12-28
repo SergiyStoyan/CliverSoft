@@ -17,7 +17,7 @@ table.copyright td {margin:0; padding:0; width:6px; height:6px;}',
 document.write('\
 <div class="copyright">\
     <a href="http://cliversoft.com" title="cliversoft.com">\
-        <TABLE class="copyright">\
+        <TABLE id="copyrightT" class="copyright">\
             <TR>\
                 <TD id="copyright_td1"></TD>\
                 <TD id="copyright_td2"></TD>\
@@ -53,8 +53,18 @@ var copyright = {
         var r = this.random_color(120, 230, 120, 230, 120, 230);
         t.style.backgroundColor = r;
         var this_ = this;
+		
+		if(typeof html2canvas !== 'undefined')
+			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
+				//canvas.width="180";
+				//canvas.height="180";
+				var icon = canvas.toDataURL("image/x-icon");
+				document.getElementById('lIcon').href = icon;
+				//document.getElementById('lIcon2').href = icon;
+		});
+		
         setTimeout(function(){this_.play()}, 500);
     },
 }
-
+var i=0;
 copyright.play();
