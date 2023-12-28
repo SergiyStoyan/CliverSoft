@@ -72,12 +72,12 @@ span.h6 {margin:2 0 0 100;color1:#240; color1:#041; }
 }
 .menuItem:not(.empty):hover {
     color: #fff;
-    background-color: #0a0;
+    background-color: #0090af;
     cursor: pointer;
 }
 .menuItem.current {
     color: #fff;
-    background-color: #080;
+    background-color: #00809f;
     font-weight1: bold;
 }
 .menuItem.empty {
