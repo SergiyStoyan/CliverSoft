@@ -1,13 +1,14 @@
 body, html{
     margin:0;
     padding: 0;
+	font-family: sans-serif;
 }
 
-h1 {color1:#090; color:#888; color1:#079; color1:#946; font-size: 2em; text-indent: 0px; padding-top:10; margin:100 0 25 0; text-decoration1:underline;}
-h2 {color1:#195; color:#888; color1:#079; color1:#685; font-size: 1.8em; text-indent: 50px; padding-top:10; margin:80 0 20 0; text-decoration1:underline;}
-h3 {color1:#195; color:#888; color1:#079; color1:#685; font-size: 1.6em; text-indent: 100px; padding-top:10; margin:40 0 15 0; text-decoration1:underline;}
-h4 {color1:#195; color:#888; color1:#079; color1:#947; font-size: 1.4em; text-indent: 150px; padding-top:10; margin:30 0 10 0; text-decoration1:underline;}
-h5 {color1:#c35; color:#888; color1:#079; color1:#640; font-size: 1.2em; text-indent: 200px; padding-top:10; margin:20 0 5 0; text-decoration1:underline;}
+h1 {color1:#090; color:#888; color1:#079; color1:#946; font-size: 2em; text-indent: 0px; padding-top:10; margin:100 0 25 0; text-decoration1:underline;font-family: times new roman;}
+h2 {color1:#195; color:#888; color1:#079; color1:#685; font-size: 1.8em; text-indent: 50px; padding-top:10; margin:80 0 20 0; text-decoration1:underline;font-family: times new roman;}
+h3 {color1:#195; color:#888; color1:#079; color1:#685; font-size: 1.6em; text-indent: 100px; padding-top:10; margin:40 0 15 0; text-decoration1:underline;font-family: times new roman;}
+h4 {color1:#195; color:#888; color1:#079; color1:#947; font-size: 1.4em; text-indent: 150px; padding-top:10; margin:30 0 10 0; text-decoration1:underline;font-family: times new roman;}
+h5 {color1:#c35; color:#888; color1:#079; color1:#640; font-size: 1.2em; text-indent: 200px; padding-top:10; margin:20 0 5 0; text-decoration1:underline;font-family: times new roman;}
 h6 {color1:#c35; color:#888; color1:#079; color1:#640; font-size: 1em; text-indent: 250px; padding-top:10; margin:10 0 3 0; font-style: italic; text-decoration1:underline;}
 
 /*h1:before{content: '\25FE';  margin:0 10px;} h1:after{content: '\25FE';  margin:0 10px;}*/
@@ -82,5 +83,5 @@ a1[href*=\#] {/*internal links*/
 	background-color:lightgreen; 
 }
 
-.item {color1:#520; margin:0 0 0 0; text-align:left; font-weight1:bold;}
-.subheader {color:#073; font-weight:bold; font-size:1.2em;}
+.item {color1:#520; margin:0 0 0 0; text-align:left; font-weight1:bold;font-family: sans-serif;font-family1: times new roman;}
+.subheader {color:#073; font-weight:bold; font-size:1em;font-family1: times new roman;}

@@ -21,9 +21,9 @@ span.h3 {margin:5 0 0 40;}
 span.h4 {margin:5 0 0 60;}
 span.h5 {margin:5 0 0 80;}
 span.h6 {margin:0 0 0 100;}*/
-span.h1 {margin:2 0 0 0;  color1:#240; color1:#041; font-weight:bold; font-size1:1.2em;}
-span.h2 {margin:2 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size1:1.2em;}
-span.h3 {margin:2 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em;}
+span.h1 {margin:2 0 0 0;  color1:#a02; color1:#999; font-weight:bold; font-size:1em; font-family:sans-serif;}
+span.h2 {margin:2 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size:1em; font-family:sans-serif;}
+span.h3 {margin:2 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em; font-family1:Verdana;}
 span.h4 {margin:2 0 0 60; color1:#240; color1:#041; }
 span.h5 {margin:2 0 0 80; color1:#240; color1:#041; }
 span.h6 {margin:2 0 0 100;color1:#240; color1:#041; }
