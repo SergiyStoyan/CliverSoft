@@ -228,7 +228,7 @@ var convert = function(mode){
             }
             headerAndFooterAreInContentContainer = parseInt(script.getAttribute('shiftHeaderAndFooterToContentView'))
                 || parseInt(window.getComputedStyle(document.body).getPropertyValue('--shift-header-and-footer-to-content-view'));
-            headerAndFooterAreNotHidden = parseInt(script.getAttribute('doNotHideheaderAndFooter'))
+            headerAndFooterAreNotHidden = parseInt(script.getAttribute('doNotHideHeaderAndFooter'))
                 || parseInt(window.getComputedStyle(document.body).getPropertyValue('--do-not-hide-header-and-footer'));
         }
         

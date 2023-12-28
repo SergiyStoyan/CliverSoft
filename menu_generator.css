@@ -1,5 +1,6 @@
 :root {/*not supported by older browsers like IE11 so as an alternative, use the custom parameters in script tag*/
     --shift-header-and-footer-to-content-view: 0;
+	--do-not-hide-header-and-footer: 1;
 }
 
 /*span.h1 {margin:15 0 0 0; font-size:1.25em; }
@@ -20,12 +21,12 @@ span.h3 {margin:5 0 0 40;}
 span.h4 {margin:5 0 0 60;}
 span.h5 {margin:5 0 0 80;}
 span.h6 {margin:0 0 0 100;}*/
-span.h1 {margin:5 0 0 0;  color1:#240; color1:#041; font-weight:bold; font-size1:1.2em;}
-span.h2 {margin:5 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size1:1.2em;}
-span.h3 {margin:5 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em;}
-span.h4 {margin:5 0 0 60; color1:#240; color1:#041; }
-span.h5 {margin:5 0 0 80; color1:#240; color1:#041; }
-span.h6 {margin:5 0 0 100;color1:#240; color1:#041; }
+span.h1 {margin:2 0 0 0;  color1:#240; color1:#041; font-weight:bold; font-size1:1.2em;}
+span.h2 {margin:2 0 0 20; color1:#240; color1:#041; font-weight1:bold; font-size1:1.2em;}
+span.h3 {margin:2 0 0 40; color1:#240; color1:#041; font-weight1:bold; font-size1:1.1em;}
+span.h4 {margin:2 0 0 60; color1:#240; color1:#041; }
+span.h5 {margin:2 0 0 80; color1:#240; color1:#041; }
+span.h6 {margin:2 0 0 100;color1:#240; color1:#041; }
 
 .noTopMargin{
     margin-top: 0 !important;
@@ -50,7 +51,7 @@ span.h6 {margin:5 0 0 100;color1:#240; color1:#041; }
     overflow: auto;     
     vertical-align:top;
     text-align:left;
-    background-color: #fafafa; 
+    background-color: #f5f5f5; 
     display:block;
 }
 
@@ -67,15 +68,17 @@ span.h6 {margin:5 0 0 100;color1:#240; color1:#041; }
     color: #000;
     display: block;
     transition: 0.3s;
+	padding: 2 2 2 2;
+	margin: 0 0 0 0;
 }
 .menuItem:not(.empty):hover {
-    color1: #b47;
-    background-color: #ffee77;
+    color: #fff;
+    background-color: #0090af;
     cursor: pointer;
 }
 .menuItem.current {
-    color1: #640;color: #000;
-    background-color: #f0e070;
+    color: #fff;
+    background-color: #00809f;
     font-weight1: bold;
 }
 .menuItem.empty {
