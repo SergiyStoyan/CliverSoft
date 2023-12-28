@@ -66,5 +66,5 @@ var copyright = {
         setTimeout(function(){this_.play()}, 500);
     },
 }
-var i=0;
+
 copyright.play();
