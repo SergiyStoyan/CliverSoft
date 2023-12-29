@@ -73,11 +73,11 @@ span.h6 {font-family1: Sans-Serif;margin:2 0 0 100;color1:#240; color1:#041; }
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
+    cursor: pointer;
 }
 .menuItem:not(.empty):hover {
     color: #fff;
     background-color: #0095b4;
-    cursor: pointer;
 }
 .menuItem.current {
     color: #fff;
