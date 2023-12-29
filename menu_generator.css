@@ -76,7 +76,7 @@ span.h6 {font-family1: Sans-Serif;margin:2 0 0 100;color1:#240; color1:#041; }
 }
 .menuItem:not(.empty):hover {
     color: #fff;
-    background-color: #00a0c0;
+    background-color: #0095b4;
     cursor: pointer;
 }
 .menuItem.current {
