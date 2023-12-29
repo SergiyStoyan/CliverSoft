@@ -70,10 +70,13 @@ span.h6 {font-family1: Sans-Serif;margin:2 0 0 100;color1:#240; color1:#041; }
     transition: 0.3s;
 	padding: 2 2 2 2;
 	margin: 0 0 0 0;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
 }
 .menuItem:not(.empty):hover {
     color: #fff;
-    background-color: #0090af;
+    background-color: #00a0c0;
     cursor: pointer;
 }
 .menuItem.current {
