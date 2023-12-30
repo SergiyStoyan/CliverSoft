@@ -88,4 +88,4 @@ a1[href*=\#] {/*internal links*/
 }
 
 .item {color1:#520; margin:0 0 0 0; text-align:left; font-weight1:bold;}
-.subheader {font-family1: Sans-Serif;color:#070; font-weight:bold; font-size:1.2em;}
+.subheader {font-family1: Sans-Serif;color:#074;color1:#a07; font-weight:bold; font-size:1.2em;}
