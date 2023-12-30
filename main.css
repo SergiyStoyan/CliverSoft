@@ -40,6 +40,9 @@ h6:before{content: '\002D\0020\002D\0020\002D\0020\002D\0020\002D';  margin:0 10
     padding:0 0 0 0;
     border-bottom:1px solid #ddd;
     overflow1:auto;/*removes gaps appearing between block elements due to margin of their childs!*/
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
 }
 
 .header > table, th, td{
