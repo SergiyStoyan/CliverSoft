@@ -96,82 +96,9 @@ function onSubmit(token) {alert(1);
 </script-->
 
 
-<!--script>
-function showEmail() {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://raw.githubusercontent.com/sergiystoyan/PdfDocumentParser/master/LICENSE');
-    xhr.send(null);
 
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4) {
-            if (xhr.status === 200)  {
-                var c = document.getElementById('contact1');
-				c.text = xhr.responseText;
-				c.href = 'mailto:'+xhr.responseText+'?subject=INQUIRY';
-            } else {
-                alert("HTTP: " + xhr.status);
-            }
-        } 
-    }
-};
+<p><a onmouseover="javascript:this.href=getContact()" href="#" target="_top">*****</a> 
 
-showEmail();
-</script-->
-
-
-
-
-
-<p><a id="contact1">*****</a> 
-<!--p><a id="contact2">*****</a-->
-<p>
-      <input type='button' value='Show' id='bShow' onclick="javascript: {Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)}); document.getElementById('bShow').style.display = 'none';}">
-   
-
-<script>
-	var ids2cs = {
-	"contact1":['s.y.stoyan','gmail.com']
-	//,"contact2":['sergiy.stoyan','outlook.com']
-	};
-	function setContact(id, ids2cs){
-		var cs = ids2cs[id];
-		var a = document.getElementById(id);
-		a.text = cs[0]+'@'+cs[1];
-		a.href = 'mailto:'+a.text+'?subject=INQUIRY';
-	}
-	function showContact(){
-		Object.keys(ids2cs).forEach(function(id){setContact(id,ids2cs)});
-	}
-</script>
-
-
-	 <!--script type="text/javascript">
-      var verifyCallback = function(response) {
-        alert(response);
-      };
-      var widgetId1;
-      var widgetId2;
-      var onloadCallback = function() {
-        // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
-        // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
-        widgetId1 = grecaptcha.render('example1', {
-          'sitekey' : '6LfORPMoAAAAALzOCCDtsqhb_MEZBXJrhiVWeRyY',
-          'theme' : 'light'
-        });
-        widgetId2 = grecaptcha.render(document.getElementById('example2'), {
-          'sitekey' : '6LfORPMoAAAAALzOCCDtsqhb_MEZBXJrhiVWeRyY'
-        });
-      };
-    </script>
-    <form action="javascript:alert(grecaptcha.getResponse(widgetId1));">
-      <div id="example1"></div>
-      <br>
-      <input type="submit" value="getResponse">
-    </form>
-    <br>
-    <!--script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script-->
-
-<!--a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">email</a-->
 
 
 <h1><a name='Technologies'>Technologies</a></h1>
@@ -235,11 +162,16 @@ A proprietary app for cutting out multimedia containers by time points or frame 
 <p class='item'>gstreamer plugins</p-->
 
 
+<h2>Embedded systems</h2>
+<div class='item'>
+Embedded development for meters, sensors, cameras and so on. 
+</div>
+
 
 <h2>Image processing</h2>
 
 <div class='item'>
-Image manipulation and optical recognition tools. OpenCV and EmguCV.
+Image manipulation and optical recognition tools. OpenCV, EmguCV.
 </div>
 
 <h2>System level</h2>
@@ -476,7 +408,11 @@ Menu Generator is a vanilla javascript that adds a dynamic menu to content of a 
 
 <div class='footer'>
 <script src='copyright.js'></script>
-        &nbsp;2005 - 2024&nbsp;&nbsp;<a href="javascript:window.location.href = '&#109;&#97;&#105;&#108;&#116;&#111;' + '&#58;&#115;&#46;&#121;&#46;&#115;&#116;&#111;&#121;&#97;&#110;' + '&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'" target="_top">Sergiy Stoyan</a>
+        &nbsp;2005 - 2024&nbsp;&nbsp;<a onmouseover="javascript:this.href=getContact()" href="#" target="_top">Sergiy Stoyan</a>
+<script>
+function getContact(){
+	return "javascript:window.location.href='mail'+'to:'+'s.y.stoyan'+'@'+'gmail.com'+'?subject'+'=INQUIRY'";
+}
 </script>
         
 </div>
