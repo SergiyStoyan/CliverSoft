@@ -1,5 +1,5 @@
 /************************************************************************
-Version 1.3.0
+Version 1.3.2
 by Sergiy Stoyan, 2018-2024
 
 
@@ -497,26 +497,39 @@ window.onload = function(){
             document.body.insertBefore(anchorDiv, document.body.childNodes[0]);
         break;
         case '_checkInternalLinks':
-            var as = document.getElementsByTagName('a');
             var internalLinks = [];
-            var internalAnchors = [];
-            for(var i = 0; i < as.length; i++){
-                if(as[i].href){
-                    var m = as[i].href.match(/.*#(.*)/);
-                    if(m)
-                        internalLinks.push(m[1]);
-                }
-                if(as[i].name){
-                    internalAnchors.push(as[i].name);
-                }            
-            }
-            internalLinks = internalLinks.filter(function(value, index, self){ return self.indexOf(value) === index; });
             var brokenLinks = [];
-            for(var i = 0; i < internalLinks.length; i++){
-                if(internalAnchors.indexOf(internalLinks[i]) < 0)
-                    brokenLinks.push(internalLinks[i]);
-            }
-            console.log('internalAnchors:', internalAnchors);
+            var as = document.getElementsByTagName('a');
+            var spans = document.getElementsByTagName('span');
+            for(var i = 0; i < as.length; i++){
+				var href = as[i].getAttribute("href");
+                if(!href)
+					continue;
+				var m = href.match(/^\#(.*)/);
+				if(!m)
+					continue;
+				var link = m[1];
+				internalLinks.push(link);
+				
+				var found = false;
+				for(var j = 0; j < spans.length; j++){
+					if(spans[j].id == link){
+						found = true;
+						break;
+					}
+				}
+				if(found)
+					continue;
+				//legacy compatibility
+				for(var j = 0; j < as.length; j++){
+					if(as[j].name == link){
+						found = true;
+						break;
+					}
+				}
+				if(!found)
+                    brokenLinks.push(link);
+			}
             console.log('internalLinks:', internalLinks);
             console.log('brokenLinks:', brokenLinks);
             if(brokenLinks.length){
