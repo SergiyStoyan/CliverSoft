@@ -47,23 +47,43 @@ var copyright = {
         var blue = blue_min + this.get_random(blue_max - blue_min);
         return "#" + this.dec2hex(red) + this.dec2hex(green) + this.dec2hex(blue);
     },
+	
+	update_favicon: 1,
 
-    play: function(){
+    play_: function(){
+        var this_ = this;
+        setTimeout(function(){this_.play_()}, 500);
+		
         var t = document.getElementById("copyright_td" + (this.get_random(4) + 1));
         var r = this.random_color(120, 230, 120, 230, 120, 230);
         t.style.backgroundColor = r;
-        var this_ = this;
 		
-		if(typeof html2canvas !== 'undefined')//dynamic favicon if the lib exists
-			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
+		if(this.update_favicon && typeof html2canvas !== 'undefined'){//dynamic favicon if the lib exists
+			this.update_favicon = 0;
+			html2canvas(document.getElementById('copyrightT')).then(function(canvas){
 				//canvas.width="180";
 				//canvas.height="180";
 				var icon = canvas.toDataURL("image/x-icon");
 				document.getElementById('lIcon').href = icon;
 				//document.getElementById('lIcon2').href = icon;
-		});
+			});
+		};	
+    },
+
+    play: function(){//initializing
+		for(var i = 1; i < 5; i++){
+			var t = document.getElementById("copyright_td" + i);
+			var r = this.random_color(120, 230, 120, 230, 120, 230);
+			t.style.backgroundColor = r;
+		}
 		
-        setTimeout(function(){this_.play()}, 500);
+		/*if(typeof html2canvas !== 'undefined')//dynamic favicon if the lib exists
+			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
+				var icon = canvas.toDataURL("image/x-icon");
+				document.getElementById('lIcon').href = icon;
+		});*/
+		
+		this.play_();
     },
 }
 

@@ -1,5 +1,5 @@
 /************************************************************************
-Version 1.2.1
+Version 1.2.3
 by Sergiy Stoyan, 2018-2023
 
 
@@ -31,7 +31,7 @@ To check a containing html file for broken internal links, open it in browser wi
 
 By default the header and the footer retain their initial positions but can be moved to the content view by setting attribute shiftHeaderAndFooterToContentView in the SCRIPT tag or property --shift-header-and-footer-to-content-view in key :root in menu_generator.css to a non-zero.
 
-By default the content view is resized and scrolled in such a way that the header and the footer appear out of the screen. It can be changed by setting attribute doNotHideheaderAndFooter in the SCRIPT tag or property --do-not-hide-header-and-footer in key :root in menu_generator.css to a non-zero.
+By default the content view is resized and scrolled in such a way that the header and the footer appear out of the screen. It can be changed by setting attribute doNotHideHeaderAndFooter in the SCRIPT tag or property --do-not-hide-header-and-footer in key :root in menu_generator.css to a non-zero.
 ************************************************************************/
 var convert = function(mode){
     var parseItemsFromContent = function(items, orderedItemIds){
