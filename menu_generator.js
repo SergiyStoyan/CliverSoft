@@ -1,6 +1,6 @@
 /************************************************************************
-Version 1.2.3
-by Sergiy Stoyan, 2018-2023
+Version 1.3.0
+by Sergiy Stoyan, 2018-2024
 
 
 DESCRIPTION:
@@ -394,6 +394,12 @@ var convert = function(mode){
         };
         
         var findLocalAnchor = function(e, anchorName){
+			//doe anchor target as <span id=...>
+            var as = e.getElementsByTagName('span');
+            for(var i = 0; i < as.length; i++)
+                if(as[i].id == anchorName)  
+                    return as[i];
+			//legacy compatibility for anchor target as <a name=...>
             var as = e.getElementsByTagName('a');
             for(var i = 0; i < as.length; i++)
                 if(as[i].name == anchorName)  
