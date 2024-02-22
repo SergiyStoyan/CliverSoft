@@ -19,12 +19,12 @@ document.write('\
     <a href="http://cliversoft.com" title="cliversoft.com">\
         <TABLE id="copyrightT" class="copyright">\
             <TR>\
-                <TD id="copyright_td1"></TD>\
-                <TD id="copyright_td2"></TD>\
+                <TD id="copyright_td_1_1"></TD>\
+                <TD id="copyright_td_1_2"></TD>\
             </TR>\
             <TR>\
-                <TD id="copyright_td3"></TD>\
-                <TD id="copyright_td4"></TD>\
+                <TD id="copyright_td_2_1"></TD>\
+                <TD id="copyright_td_2_2"></TD>\
             </TR>\
         </TABLE>\
      </a>\
@@ -48,40 +48,41 @@ var copyright = {
         return "#" + this.dec2hex(red) + this.dec2hex(green) + this.dec2hex(blue);
     },
 	
-	update_favicon: 1,
-
     play_: function(){
         var this_ = this;
         setTimeout(function(){this_.play_()}, 500);
 		
-        var t = document.getElementById("copyright_td" + (this.get_random(4) + 1));
+        var t = document.getElementById("copyright_td_" + (this.get_random(2) + 1) + "_" + (this.get_random(2) + 1));
         var r = this.random_color(120, 230, 120, 230, 120, 230);
         t.style.backgroundColor = r;
 		
-		if(this.update_favicon && typeof html2canvas !== 'undefined'){//dynamic favicon if the lib exists
-			this.update_favicon = 0;
-			html2canvas(document.getElementById('copyrightT')).then(function(canvas){
-				//canvas.width="180";
-				//canvas.height="180";
-				var icon = canvas.toDataURL("image/x-icon");
-				document.getElementById('lIcon').href = icon;
-				//document.getElementById('lIcon2').href = icon;
-			});
-		};	
+		this.update_favicon();
     },
+	
+	update_favicon: function(){				
+		var canvas = document.createElement('canvas');
+		canvas.width = 16;
+		canvas.height = 16;
+		var ctx = canvas.getContext('2d');			
+		for(var y = 1; y < 3; y++)
+			for(var x = 1; x < 3; x++){
+				var t = document.getElementById("copyright_td_" + y + "_" + x);
+				ctx.fillStyle = t.style.backgroundColor;
+				ctx.fillRect((x - 1) * 8, (y - 1) * 8, x * 8, y * 8);
+			}          
+		var icon = canvas.toDataURL("image/x-icon");
+		document.getElementById('lIcon').href = icon;
+	},
 
     play: function(){//initializing
-		for(var i = 1; i < 5; i++){
-			var t = document.getElementById("copyright_td" + i);
-			var r = this.random_color(120, 230, 120, 230, 120, 230);
-			t.style.backgroundColor = r;
-		}
-		
-		/*if(typeof html2canvas !== 'undefined')//dynamic favicon if the lib exists
-			html2canvas(document.getElementById('copyrightT')).then(function(canvas) {
-				var icon = canvas.toDataURL("image/x-icon");
-				document.getElementById('lIcon').href = icon;
-		});*/
+		for(var y = 1; y < 3; y++)
+			for(var x = 1; x < 3; x++){
+				var t = document.getElementById("copyright_td_" + y + "_" + x);
+				var r = this.random_color(120, 230, 120, 230, 120, 230);
+				t.style.backgroundColor = r;
+			}
+			
+		this.update_favicon();
 		
 		this.play_();
     },
