@@ -60,19 +60,18 @@ var copyright = {
     },
 	
 	update_favicon: function(){				
-		var canvas = document.createElement('canvas');
-		canvas.width = 16;
-		canvas.height = 16;
-		var ctx = canvas.getContext('2d');			
 		for(var y = 1; y < 3; y++)
 			for(var x = 1; x < 3; x++){
 				var t = document.getElementById("copyright_td_" + y + "_" + x);
-				ctx.fillStyle = t.style.backgroundColor;
-				ctx.fillRect((x - 1) * 8, (y - 1) * 8, x * 8, y * 8);
+				this.favicon_context.fillStyle = t.style.backgroundColor;
+				this.favicon_context.fillRect((x - 1) * 8, (y - 1) * 8, x * 8, y * 8);
 			}          
-		var icon = canvas.toDataURL("image/x-icon");
+		var icon = this.favicon_canvas.toDataURL("image/x-icon");
 		document.getElementById('lIcon').href = icon;
 	},
+	
+	favicon_canvas: null,
+	favicon_context: null,	
 
     play: function(){//initializing
 		for(var y = 1; y < 3; y++)
@@ -81,7 +80,11 @@ var copyright = {
 				var r = this.random_color(120, 230, 120, 230, 120, 230);
 				t.style.backgroundColor = r;
 			}
-			
+					
+		this.favicon_canvas = document.createElement('canvas');
+		this.favicon_canvas.width = 16;
+		this.favicon_canvas.height = 16;
+		this.favicon_context = this.favicon_canvas.getContext('2d');	
 		this.update_favicon();
 		
 		this.play_();

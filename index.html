@@ -95,8 +95,22 @@ function onSubmit(token) {alert(1);
 </script-->
 
 
+<p>
+<input type='button' onclick="
+var cl = getContactLink();
+cl = cl.replace(/.*href\=/i, '');
+cl = eval(cl);
+cl = decodeURIComponent(cl);
+var m = cl.match(/to\:(.*?)(\?|$)/i);
+var c = m[1];
+//getElementById('visibleContact').innerHTML = c;
+//this.style.display = 'none';
+navigator.clipboard.writeText(c);
+" value='Copy' />
+<span id='visibleContact' ></span>
 
-<p><a onmouseover="javascript:this.href=getContact()" href="#" target="_top">Open email client</a> 
+
+<p><a onmouseover="javascript:this.href=getContactLink()" href="#" target="_top">Open email client</a> 
 
 
 
@@ -407,10 +421,13 @@ Menu Generator is a vanilla javascript that adds a dynamic menu to content of a 
 
 <div class='footer'>
 <script src='copyright.js'></script>
-        &nbsp;2005 - 2024&nbsp;<a onmouseover="javascript:this.href=getContact()" href="#" target="_top">cliversoft.com</a>
+        &nbsp;2005 - 2024&nbsp;<a onmouseover="javascript:this.href=getContactLink()" href="#" target="_top">cliversoft.com</a>
 <script>
-function getContact(){
-	return "javascript:window.location.href='mail'+'to:'+'s.y.stoyan'+'@'+'gmail.com'+'?subject'+'=INQUIRY'";
+/*function getContact(){
+	return 'inquiry'+'&#64;'+'cliversoft.com';
+}*/
+function getContactLink(){
+	return "javascript:window.location.href='mail'+'to:'+'inquiry'+'%40'+'cliversoft.com'+'?subject'+'=INQUIRY'";
 }
 </script>
         
