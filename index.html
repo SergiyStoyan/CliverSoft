@@ -109,7 +109,7 @@ function getContact(){
 
 </script>
 <p>
-<a id='visibleContact' onmouseover="javascript:getElementById('visibleContact').innerHTML = getContact();this.href=getContactLink();" href="#" target="_top">******</a>
+<a id='visibleContact' onmouseover="javascript:this.innerHTML=getContact();this.href=getContactLink();" href="#" target="_top">******</a>
 <p>
 <input type='button' onclick="javascript:navigator.clipboard.writeText(getContact());return false;" value="Copy" />
 <!--a onclick="javascript:navigator.clipboard.writeText(getContact());return false;" href="">Copy to clipboard</a-->
