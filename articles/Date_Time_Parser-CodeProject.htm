@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://www.codeproject.com/KB/datetime/date_time_parser_cs.aspx -->
+<html lang="en"><script async="false" type="module" src="chrome-extension://fiikommddbeccaoicoejoniammnalkfa/assets/inject.ts-C5uzPIY3.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+	<link rel="preconnect" href="https://www.google-analytics.com/">
+
+	<link rel="preconnect" href="https://www.codeproject.com/">
+
+
+	<link rel="preload" href="./Date_Time_Parser-CodeProject_files/logo250x135.gif" as="image">
+
+
+	<link rel="preload" href="https://www.codeproject.com/App_Themes/CodeProject/Img/logo135-bg.gif" as="image">
+	<link rel="preload" href="./Date_Time_Parser-CodeProject_files/jquery-3.4.1.min.js.download" as="script" type="text/javascript">
+
+
+	<title>Date_Time_Parser-CodeProject</title> 
+    
+	<link type="text/css" rel="stylesheet" href="./Date_Time_Parser-CodeProject_files/Article.min.css">
+
+
+    <script type="text/javascript" async="" src="./Date_Time_Parser-CodeProject_files/analytics.js.download"></script><script type="text/javascript" src="./Date_Time_Parser-CodeProject_files/jquery-3.4.1.min.js.download" defer=""></script>
+<script type="text/javascript" src="./Date_Time_Parser-CodeProject_files/article.min.js.download" defer=""></script>
+
+	
+<meta http-equiv="content-language" content="en-US">
+
+<meta name="Description" content="Parsing date and (or) time from a string">
+<meta name="Keywords" content="VS2005, VS2008, C#, .NET, Visual-Studio, Dev, Intermediate, VS2010">
+<meta name="Author" content="Sergiy Stoyan">
+<meta name="Rating" content="General">
+<meta name="Revisit-After" content="1 days">
+<meta name="application-name" content="CodeProject">
+<meta name="google-translate-customization" content="d908bb7ce7aff658-4c2f3a504525c916-g629383f736781a8a-13">
+
+
+
+<link rel="dns-prefetch" href="https://ajax.googleapis.com/"> 
+<link rel="canonical" href="https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@CodeProject">
+<meta name="og:site_name" content="CodeProject">
+<meta name="twitter:creator" content="@CodeProject">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2/11/2009 5:11:00 AM">
+<meta property="article:modified_time" content="6/28/2012 1:08:00 PM">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Sergiy Stoyan">
+<meta name="twitter:label2" content="Reading time">
+<meta name="twitter:data2" content="4 min read">
+<meta property="og:url" content="https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser">
+<meta property="og:title" content="C# Date Time Parser">
+<meta property="og:description" content="Parsing date and (or) time from a string">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.codeproject.com/favicon/apple-touch-icon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.codeproject.com/favicon/favicon-32x32.png"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.codeproject.com/favicon/favicon-16x16.png"> 
+<link rel="manifest" href="https://www.codeproject.com/favicon/manifest.json"> 
+<link rel="mask-icon" href="https://www.codeproject.com/favicon/safari-pinned-tab.svg" color="#ff9900">
+	<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "TechArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser"
+   },
+  "name": "C# Date Time Parser",
+  "headline": "C# Date Time Parser",
+  "url": "https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser",
+  "discussionUrl": "https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser#_comments",
+  "isFamilyFriendly": "true",
+  "image": "https://www.codeproject.com/App_Themes/CodeProject/Img/Article100.png",
+  "keywords": "VS2005,VS2008,C#,.NET,Visual-Studio,Dev,Intermediate,VS2010",
+  "commentCount": "0",
+  "editor" : {
+    "@type" : "Person",
+    "name" : "Editor",
+    "url" : "https://www.codeproject.com/script/Membership/View.aspx?mid=3866010"
+  },
+  "license": "http://creativecommons.org/licenses/publicdomain/",
+  "publisher" : {
+    "@type" : "Organization",
+    "name" : "CodeProject"
+  },
+  "description": "Parsing date and (or) time from a string",
+  "articleSection": "C#",
+  "author" : [{
+      "@type" : "Person",
+      "name" : "Sergiy Stoyan",
+      "url" : "https://www.codeproject.com/script/Membership/View.aspx?mid=2323668"
+    }],
+  "datePublished": "2009-02-11",
+  "dateCreated": "2009-02-11",
+  "dateModified": "2012-06-28"
+,
+  "contentRating" : {
+    "@type" : "Rating",
+    "ratingValue" : 4.72,
+    "bestRating" : 5,
+    "worstRating" : 1
+  }
+}</script>
+
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item" : {
+      "@id" : "/script/Content/Tag.aspx?tags=Languages",
+      "name" : "Languages"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "item" : {
+      "@id" : "/script/Content/Tag.aspx?tags=Csharp",
+      "name" : "C#"
+    }
+  }]
+}</script>
+
+
+	<!--<base target="_top">--><base href="." target="_top">
+	
+    
+
+
+<script type="text/javascript">
+function defrm () { /* thanks twitter */
+    document.write = '';
+    window.top.location = window.self.location;
+    setTimeout(function() { document.body.innerHTML = ''; }, 0);
+    window.self.onload = function(evt) { document.body.innerHTML = ''; };
+}
+
+if (window.top !== window.self) {
+    try {
+        if (window.top.location.host) { /* will throw for all except chrome */ }
+        else { defrm(); /* chrome */ }
+    } catch (ex) { defrm(); /* everyone else */ }
+}
+
+// Specific case where a site is screwing with us.
+if (typeof(DemoUrl) !== 'undefined') {
+    document.write(unescape('%3Cme') + 'ta http' + '-equiv="re' + 'fresh con' +
+                           'tent="1;url=' + DemoUrl + unescape('"%3CE'));
+}
+</script>
+	
+
+
+
+
+
+    <script async="" type="text/javascript" src="./Date_Time_Parser-CodeProject_files/js"></script>
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1735123-1' , {'user_id': 'f5181905-696e-4313-a52b-2dd04b34504d'});
+    </script>
+
+<style type="text/css"></style></head>	
+
+<body class="edge edge136">
+
+
+
+<a class="access-link" href="https://www.codeproject.com/KB/datetime/date_time_parser_cs.aspx#Main"><img alt="Click here to Skip to main content" src="./Date_Time_Parser-CodeProject_files/t.gif"></a>
+
+
+
+
+<div class="page-background">
+
+	
+	
+
+	
+
+	
+    <div id="ctl00_STM" class="site-top-menu fixed narrow">
+        <div class="main-content">
+            
+
+<div class="container memberbar clearfix flex-container flex-extend">
+
+	<div id="ctl00_MemberBar_GenInfo" class="flex-item align-left">65,938 articles</div>
+	
+	<div id="ctl00_MemberBar_ChangeNotice" class="flex-item align-left">CodeProject
+	is changing. <a href="https://www.codeproject.com/info/Changes.aspx">Read more</a>.</div>
+
+	<div class="flex-item">
+		
+	</div>
+
+	<div class="flex-item align-right">
+
+		
+
+		
+
+		
+	</div>
+</div>
+        </div>
+    </div>
+
+	
+    <div id="ctl00_SH" class="site-header fixed narrow">
+        <div class="main-content">
+            <div class="logo"><a href="https://www.codeproject.com/"><img id="ctl00_Logo" tabindex="1" title="CodeProject" src="./Date_Time_Parser-CodeProject_files/logo250x135.gif" alt="Home" style="height:135px;width:250px;border-width:0px;"></a></div>
+            <div class="promo"></div>
+        </div>
+    </div>
+
+	
+			
+	
+
+	<div id="A" class="container-content-wrap fixed narrow"> 
+
+	<div class="container-content">
+
+        
+		<div class="clearfix">
+			<div class="container-breadcrumb float-left ">
+				<div><a rel="nofollow" href="https://www.codeproject.com/script/Content/SiteMap.aspx">Articles</a> / <a rel="nofollow" href="https://www.codeproject.com/script/Content/Tag.aspx?tags=Languages">Languages</a> / <a rel="nofollow" href="https://www.codeproject.com/script/Content/Tag.aspx?tags=Csharp">C#</a></div>
+			</div>
+
+            <div class="float-left">
+				
+			</div>
+
+			<div class="edit-links float-right">
+				
+
+
+
+ 
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+			</div>
+
+			<div class="article-nav float-right">
+				
+
+
+<div style="display:inline-block;position:relative;top:-6px;margin-right:20px">
+    
+</div>
+
+
+
+ 
+
+<a id="ctl00_ActionLinks_PrintMd" data-tooltip="Print" data-enabletooltip="true" data-width="auto" href="https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser?display=Print" class="tooltip" title="">
+   <img src="./Date_Time_Parser-CodeProject_files/print48.png" width="24" height="24" style="border:0">
+<div class="speech-bubble-container-up" style="width:auto">  <div class="speech-bubble-up" style="text-align:center"> Print</div>  <div class="speech-bubble-pointer-up">    <div class="speech-bubble-pointer-up-inner"></div>  </div></div></a>
+
+
+
+<span id="ctl00_ActionLinks_R">
+    
+    
+</span>
+			</div>
+		</div>
+
+        
+		<div class="extended article-container-parts">
+
+			
+		    
+            
+
+			
+			<div id="AT" class="article-container  fixed narrow" style="max-width:inherit;"> 
+
+				<div class="article">
+
+					<form name="aspnetForm" method="post" action="https://www.codeproject.com/KB/datetime/View.aspx" id="aspnetForm" style="margin:0;padding:0">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="1bOn1DHqDjdnV2lsRWJRw6Rqb4USW9g87TlEnH0mHGSR8OGEYCqEemr9wQNqOph3NyNvKPZXiVQj4PqOCeqajbd2VRM+LW5rMbICgU0NYepX/d/Xh+F23UZ5FiZfe7Hpcwh7ul9W2V69gKBw1380/4XG91iSVnnMCEygoinqhjiiW2+fhg1YM+paasBjfxavx8t1OWnGZPC10RVW7Mqz7MrPt7VI0C+xDRUi8z2ZljL/TkTfslRFmIVElKJx606Zv4dBbbfqL6uTZs4Z+ulvEq5JF0KUB3y4NOjzyrrf4+fZ/ceNxtdx6JtmbqO2uF5oieefQ1wSEryBj26lD948h02Kce6im0ljGsrhBKGYkfEXE4E1cSu7WYxAn5d3jZ1q167/WYWyAhSeUhHRC1nE44rEaCl9OiRGe6iyvqBKRgCtDino2jG2jKpED6Piu7vdiNKdWM9QWNPGjZsewg3EGOChc7PJb4Y2Yb6TNryepPpOV7gtFQtFFbSt5qdQQng78RT9sNXuK3NB4LtVAtvsknhr9BRBw6SiOylsqTp3nqdXBGwGx4QGXz5q5IWciwFLMfvdWlomvoTEfQxuINbLSGz1WKQJh+4sWEOZz31YHBDaOcl39lQacI46iCcIqvZ5wM0I3CjLgFo4BDsEkxlQ1X+kpRPKL62y0m+uqeznk+/C89mUE29Aia89QMVt0+H8YbZDheTOpYPBTB361tYF8qzJckksBJhysMmydX4nxpH71IJnLecoDKVh+k00y2fS3wX9noe4Ly0qSjGtgktRC/DBrmB2fj+4xecP5EDPEHGYXReMcjMdFHVPp/gjgenD+t22XlxW4JnCfT9Nbr1BognmtYHVLsnk7tJ3r5XjKEZYjqSMQZupRLWfZfjRNHqAzBFwkjLGkuMKOLF71d1ksEzXaUheIc+x+bz9jpy8fwqDf9Tck0EK71Ac5YaNj67iAjzJ7UqgDRDSQ8TD/wXW2RzUzcDmERdEP73oCDEPpMqRDl5gTJs7YJELa/SNWFRglBiBgGh+3PFyfUDM8hmKRVWqJp859zIF9GR50Dd2jcGNNtZeNZ4hTXp3z3fJOSCjETTHnaZLvClwFAGspc1MxQPARaa0MZNK1tD07eSq1asJyXkyyOTetkVXVpZBWBh60gZEwlvg7QK5b0XFpzG07VyQm++g12sMAeECxgPSqi18BE02G+8kaxQvsq1efj+df7SNxDy3WpD9n0WEt5c1UfikDpEUCQn+NnCjIATmmk6B54vCXfohRvbVJ74259aIcw8lJqK278FEntpYP5ng4sEpZjhzbA3/f2ORsIoIG02szJgABH7SMhkgDs9SpsO/JLkidqui8gXOzQElL3WHJIe77MOAyijbLB9OTl3bNVxsX2b/7DwgEQW0sXWYappzRwmzD4an+rFUIKDNCqu8T7KQVOCto2mEua0oMne74X8/PMgXsi7BRq6AX4fNbFEqb+fDoBCnh91e+kKPKRLpNSZHXwTBnVzj82gcqJo00mCYtyQRvxmW1+FPXCQ83Vpx8Cab9ncUpR4kKU5bvSJ3GBru46uVOz8hMjtkwzgii+pQUPbbq92RKm/W6iF/qsa9eiNu1RIHl0YHxJdzo9XuxA502kwUWFZv0x75od/i4fdIglYRSMRaYTt1bg5zS3sbkRsdw2/biDR2f11VLVruyQuh3uHbN7u7Am7j8cBnIrcStoUvFUibtkg6iutIR2/O171h6lbmJoyu1890c7hItwJx9S/rKgafhS98eci8un7paJxyY8FN9q724I9cRsYHpMJ7PidUS+3+9u8O1AYrVx1dNtOVuU981xCZOlIan+w3bVARdKw/buGh9BGs8C3IVQNk3u0yzuX7opN3Lf7r8yFsJ+XEpx9nNd2aeAuZ1rAsTrtGPVOKl6jxlUQqM/7pWVDnx3nLSupZcoT/oXQKdopYT/4QYDnYIqZS4RPq6fGVtzhPq5YrTsvGZMaluIVFZv53x/+qzFdnu/qBrMCJmpJOOHaYkfUtuq9RF+RadyzCWyVwE47erYJ+2M4ma41AHDGH6Q==">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="10C1FD69">
+</div>
+
+					
+					 
+					<div class="header">
+					    <a name="Main"></a>
+					    <a name="_articleTop" id="_articleTop"></a>
+
+					    
+						<div>
+							<span id="ctl00_TagListHorz_TagWrp" class="tags horizontal">
+
+	
+	
+
+	
+	<span id="ctl00_TagListHorz_VisibleTags"><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/VS2005" data-id="39">VS2005</a></div><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/VS2008" data-id="77">VS2008</a></div><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/Csharp" data-id="81">C#</a></div><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/.NET" data-id="98">.NET</a></div><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/Visual-Studio" data-id="103">Visual-Studio</a></div><div class="t"><a rel="tag" href="https://www.codeproject.com/Tags/VS2010" data-id="314">VS2010</a></div></span> 
+
+	
+	
+</span>
+
+
+						</div>
+					    <div class="title">
+					        <h1 id="ctl00_ArticleTitle">C# Date Time Parser</h1>
+					    </div>
+
+                        <div>
+					        
+					        <div class="entry flex-container">
+
+								
+
+                                <div class="flex-item" style="flex:1 1 auto">
+                                    <div class="flex-container" style="justify-content:space-between;flex-wrap:wrap-reverse">
+                                       <span id="ctl00_Authors" class="author flex-item"><a href="https://www.codeproject.com/script/Membership/View.aspx?mid=2323668" rel="author">Sergiy Stoyan</a></span> 
+
+                                        <div class="flex-item" style="margin-top:-4px;">
+                                            <div id="ctl00_RateArticle_RatingTable" class="small-text" data-objectref="2_33298">
+
+	<meta itemprop="upvoteCount" content="52">
+
+
+	<div id="ctl00_RateArticle_RatingRow" class="flex-container rating-container large-stars">
+
+					
+		
+
+		
+		<div class="nowrap tooltip">
+
+			
+			<div id="ctl00_RateArticle_ResultNoHist" class="rating-result"><div class="flex-container rating-stars large-stars"><div><img src="./Date_Time_Parser-CodeProject_files/star-fill-lg.png" style="width:24px;height:24px"></div><div><img src="./Date_Time_Parser-CodeProject_files/star-fill-lg.png" style="width:24px;height:24px"></div><div><img src="./Date_Time_Parser-CodeProject_files/star-fill-lg.png" style="width:24px;height:24px"></div><div><img src="./Date_Time_Parser-CodeProject_files/star-fill-lg.png" style="width:24px;height:24px"></div><div style="width:17px;" class="clipped"><img src="./Date_Time_Parser-CodeProject_files/star-fill-lg.png" style="width:24px;height:24px"></div><div style="width:7px;position:relative" class="clipped"><img src="./Date_Time_Parser-CodeProject_files/star-empty-lg.png" style="width:24px;height:24px;position:absolute;top:0px;right:0"></div></div></div>
+			
+
+			
+			
+
+			
+            
+
+			
+                
+
+		</div>
+		
+	
+		
+		<div id="ctl00_RateArticle_VoteCountNoHist" class="rating-votes nowrap">4.72/5  (54 votes)</div>	
+
+		
+
+		
+		<div class="rating-undo" title="Undo vote" style="margin-left:5px;display:none"></div>
+
+		
+		
+	</div>
+
+	
+	
+
+</div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="flex-container" style="color:#666;font-size:smaller">
+                                        <span id="ctl00_LastUpdated" class="date flex-item-tight" title="Date last updated">28 Jun 2012</span><a id="ctl00_LicenseLink" title="A Public Domain dedication" class="license flex-item-tight" href="http://creativecommons.org/licenses/publicdomain/">Public Domain</a><span id="ctl00_ReadingTime" class="stats flex-item-tight">4 min read</span><span id="ctl00_HorizontalStats" class="stats flex-item-tight"><span class="stats"><span title="Views"><img src="./Date_Time_Parser-CodeProject_files/views32.png" style="width:16px"> 255.2K</span> &nbsp; <span title="Downloads"><img src="./Date_Time_Parser-CodeProject_files/download32.png" style="width:16px"> 2.5K</span> &nbsp; </span></span>
+                                    </div>
+                                </div>
+					        </div>
+
+                            
+
+                        </div>
+
+                        <div id="ctl00_DescriptionSpot" class="summary">Parsing date and (or) time from a string</div><span id="ctl00_ThumbnailUrl" class="date" content="https://www.codeproject.com/script/Articles/Images/article100x80.png"></span>			
+
+                    </div>
+                    
+					
+					
+
+					
+
+					
+					
+
+					
+					
+
+						
+					
+
+					
+
+						
+						<div id="contentdiv" class="text">
+						
+
+
+
+<!-- Article Starts -->
+
+<ul class="download">
+    <li><a href="https://www.codeproject.com/KB/datetime/date_time_parser_cs/DateTimeRoutines_120628a.zip">Download source</a>  </li>    <li><a href="http://sourceforge.net/projects/datetimeroutine/">Download latest version from SourceForge</a></li></ul>
+
+<h2>Introduction</h2>
+
+<p>Once I needed to detect and recognize date and/or time contained in internet messages. Those messages were sent by different users, and so could not comply with certain format. They consisted usually of 1 or 2 sentences and it was impossible to foresee where a date and/or time is within them. Thus, built-in .NET method <code>DateTime.Parse()</code> could not help because this method can parse only <code>string</code>s consisting exactly of a date/time presentation, it cannot look for date/time among text. Moreover, some yet prevalent date presentations appeared to not be recognized by <code>DateTime.Parse()</code>.</p>
+
+<p>What I needed was a C# function like the universal Perl's <code>str2time()</code> or PHP's <code>strtotime()</code>. After some Googling, I was surprised not to find such a code in C#. That's why I wrote a date/time parsing class presented here. </p>
+
+<h2>Description </h2>
+
+<p>The class <code>DateTimeRoutines</code> exposes several date/time parsing methods. The general idea is finding first instance of the date and/or time within a <code>string </code>and converting it into <code>DateTime</code>. </p>
+
+
+    <table width="640" class="ArticleTable"><thead>        <tr>            <td>Method </td>            <td>Description </td>        </tr>    </thead>    <tbody>        <tr>            <td><code>TryParseDateTime()</code> </td>            <td>Tries to find both a date and a time within the passed <code>string</code>. If a date or time was not found, it returns <code>false</code>.</td>        </tr>        <tr>            <td><code>TryParseDate()</code> </td>            <td>Tries to find a date within the passed <code>string</code>. It always returns time 0:0:0. If year of the date was not found then it accepts, by default, the current year; this rule can be changed by specifying <code>DefaultDate</code>. If a date was not found, it returns <code>false</code>. </td>        </tr>        <tr>            <td><code>TryParseTime()</code> </td>            <td>Tries to find a time within the passed <code>string</code>. If a date previously found in the <code>string </code>is specified as a parameter, then it looks for a time around this date. It always returns date 1/1/1. If a time was not found, it returns <code>false</code>.</td>        </tr>        <tr>            <td nowrap="true"><code>TryParseDateOrTime()</code> </td>            <td>Tries to find a date and/or time within the passed <code>string</code>. If only a time was found then, by default, date is set by today's date; this rule can be changed by specifying <code>DefaultDate</code>. If neither date nor time was found, it returns <code>false</code>.</td>        </tr>    </tbody></table>
+
+<p>These methods accept <code>DateTimeFormat</code> parameter that specifies a recognition format used as preferred in ambivalent instances. </p>
+
+<p>These methods return a <code>ParsedDateTime</code> object. This object describes whether a date (or time) was found within the <code>string </code>and where it was found (if it was), and also hosts a <code>DateTime</code> structure as a result of parsing. </p>
+
+<p>Also, these methods have derivations that return a <code>DateTime</code> directly instead of <code>ParsedDateTime</code>. The use of the origin methods is preferable though because their output allows knowing whether a date (or time) was really found or if it was set by default value.</p>
+
+<p>Notice that <code>TryParseDateTime()</code> and <code>TryParseTime()</code> may return different times in the case where a <code>string </code>contains more than one time. <code>TryParseDateTime()</code> looks for a time around a date, while <code>TryParseTime()</code> returns a time that was found first.   </p>
+
+<h2>Local and Absolute Time </h2>
+
+<p><code>ParsedDateTime.DateTime</code> is always considered local meaning that it reflects the parsed <code>string </code>literally. If UTC offset or time zone abbreviation indicating that the time is absolute was found in the time string then <code>ParsedDateTime.IsUtcOffsetFound</code> is <code>true </code>and <code>ParsedDateTime.UtcDateTime</code> is UTC date&amp;time. If <code>ParsedDateTime.IsUtcOffsetFound</code> is <code>false</code>, then <code>ParsedDateTime.UtcDateTime</code> should be disregarded as undefined. </p>
+
+<p>Notice that <code>TryParseDate()</code> does not detect time zone      </p>
+
+<h2>Usage    </h2>
+
+<p>The date formats that can be recognized by <code>DateTimeRoutines</code> can be seen in the test strings listed below (the complete list of parsed formats can be found in <code>Test </code>project supplied with the code): </p>
+
+<div class="pre-lang" id="premain27775"><div> </div><div class="pre-action-link"><span id="copycode27775" class="copy-code" data-index="27775" style="visibility: visible;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 460 460" style="width: 16px;height:16px;" xml:space="preserve"><g><path d="M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272     c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d="M288.339,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068    c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></span></div></div>
+<pre id="pre27775" style="margin-top:0;" data-language="text" data-allowshrink="True" data-collapse="False" data-codeblock-processed="true" class="notranslate">@"Member since:      10-Feb-2008"
+@"Last Update: 18:16 11 Feb '08 "
+@"date    Tue, Feb 10, 2008 at 11:06 AM"
+@"see at 12/31/2007 14:16:32"
+@"sack finish 14:16:32 November 15 2008, 1-144 app"
+@"Genesis Message - Wed 04 Feb 08 - 19:40"
+@"The day 07/31/07 14:16:32 is "
+@"Shipping is on us until December 24, 2008 within the U.S." 
+@" 2008 within the U.S. at 14:16:32"
+@"5th November, 1994, 8:15:30 pm"
+@"7 boxes January 31 , 14:16:32."
+@"the blue sky of Sept  30th  2008 14:16:32"
+@" e.g. 1997-07-16T19:20:30+01:00"
+@"Apr 1st, 2008 14:16:32 tufa 6767"
+@"wait for 07/31/07 14:16:32"
+@"later 12.31.08 and before 1.01.09"
+@"Expires: Sept  30th  2008 14:16:32"
+@"Offer expires Apr 1st, 2007, 14:16:32"
+@"Expires  14:16:32 January 31."
+@"Expires  14:16:32 January 31-st."
+@"Expires 23rd January 2010."
+@"Expires January 22nd, 2010."
+@"Expires DEC 22, 2010."</pre>
+
+<p>A code sample if you need to get only date:</p>
+
+<div class="pre-lang" id="premain997338"><div>C#</div><div class="pre-action-link"><span id="copycode997338" class="copy-code" data-index="997338" style="visibility: visible;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 460 460" style="width: 16px;height:16px;" xml:space="preserve"><g><path d="M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272     c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d="M288.339,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068    c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></span></div></div>
+<pre id="pre997338" style="margin-top:0;" class="lang-csharp notranslate" data-language="cs" data-allowshrink="True" data-collapse="False" data-codeblock-processed="true"><span class="code-keyword">string</span> str = <span class="code-string">@"</span><span class="code-string">The last round was June 10, 2005; this time the unbroken record was held."</span>;
+DateTimeRoutines.ParsedDateTime pdt;
+<span class="code-keyword">if</span> (DateTimeRoutines.TryParseDate(str, DateTimeRoutines.DateTimeFormat.USA_DATE, <span class="code-keyword">out</span> pdt))
+    Console.WriteLine(<span class="code-string">"</span><span class="code-string">Date was found: "</span> + pdt.DateTime.ToString());</pre>
+
+<p>A code sample if you want to get date and, if possible, time:</p>
+
+<div class="pre-lang" id="premain50242"><div>C#</div><div class="pre-action-link"><span id="copycode50242" class="copy-code" data-index="50242" style="visibility: visible;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 460 460" style="width: 16px;height:16px;" xml:space="preserve"><g><path d="M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272     c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d="M288.339,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068    c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></span></div></div>
+<pre id="pre50242" style="margin-top:0;" class="lang-csharp notranslate" data-language="cs" data-allowshrink="True" data-collapse="False" data-codeblock-processed="true"><span class="code-keyword">string</span> str = <span class="code-string">@"</span><span class="code-string">The last round was June 10, 2005; this time the unbroken record was held."</span>;
+DateTimeRoutines.ParsedDateTime pdt;
+<span class="code-keyword">if</span> (DateTimeRoutines.TryParse(str, DateTimeRoutines.DateTimeFormat.USA_DATE, <span class="code-keyword">out</span> pdt)
+    &amp;&amp; pdt.IsDateFound
+    )
+    Console.WriteLine(<span class="code-string">"</span><span class="code-string">Date was found: "</span> + pdt.DateTime.ToString());</pre>
+
+<p>A code sample if you want to get only completely specified date and time: </p>
+
+<div class="pre-lang" id="premain492434"><div>C#</div><div class="pre-action-link"><span id="copycode492434" class="copy-code" data-index="492434" style="visibility: visible;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 460 460" style="width: 16px;height:16px;" xml:space="preserve"><g><path d="M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272     c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d="M288.339,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068    c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></span></div></div>
+<pre id="pre492434" style="margin-top:0;" class="lang-csharp notranslate" data-language="cs" data-allowshrink="True" data-collapse="False" data-codeblock-processed="true"><span class="code-keyword">string</span> str = <span class="code-string">@"</span><span class="code-string">The last round was June 10, 2005 10:30AM; this time the unbroken record was held."</span>;
+DateTimeRoutines.ParsedDateTime pdt;
+<span class="code-keyword">if</span>(str.TryParseDateTime(DateTimeRoutines.DateTimeFormat.USA_DATE, <span class="code-keyword">out</span> pdt))
+    Console.WriteLine(<span class="code-string">"</span><span class="code-string">Date&amp;time was found: "</span> + pdt.DateTime.ToString());</pre>
+
+<p>A code sample if you want to get UTC date and time:  </p>
+
+<div class="pre-lang" id="premain797475"><div>C#</div><div class="pre-action-link"><span id="copycode797475" class="copy-code" data-index="797475" style="visibility: visible;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 460 460" style="width: 16px;height:16px;" xml:space="preserve"><g><path d="M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272     c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d="M288.339,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068    c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></span></div></div>
+<pre id="pre797475" style="margin-top:0;" class="lang-csharp notranslate" data-language="cs" data-allowshrink="True" data-collapse="False" data-codeblock-processed="true"><span class="code-keyword">string</span> str = <span class="code-string">@"</span><span class="code-string">Your program recognizes string : 21 Jun 2010 04:20:19 -0430 blah blah."</span>;
+DateTimeRoutines.ParsedDateTime pdt;
+<span class="code-keyword">if</span>(str.TryParseDateTime(DateTimeRoutines.DateTimeFormat.USA_DATE, <span class="code-keyword">out</span> pdt) &amp;&amp; pdt.IsUtcOffsetFound) 
+Console.WriteLine(<span class="code-string">"</span><span class="code-string">UTC date&amp;time was found: "</span> + pdt.UtcDateTime.ToString());</pre>
+
+<h2> .NET Version Consistency  </h2>
+
+<p><code>DateTimeRoutines</code> is formed as a .NET 4 DLL that exposes the parsing methods as extensions for <code>string</code> class. The DLL can be called by .NET 2 code just as well. However, if you want to embed <code>DateTimeRoutines</code> source code into your .NET 2 project, you'll have to remove keyword <code>this</code> from the method parameters.</p>
+
+<h2>Conclusion</h2>
+
+<p>This code satisfied my needs. I did not want to implement too wide a recognition capability like say, the one provided by Perl's <code>str2time()</code>, because more wide recognition capability results in a higher error rate when the parser tries to detect a date/time within any part of a <code>string</code>.</p>
+
+<p>Nevertheless, <code>DateTimeRoutines</code> is capable of recognizing the formats that usually are used in a correspondence. If you find some prevalent date/time format which is not recognized, please let me know and I'll update the code.</p>
+
+<h2>The Code</h2>
+
+<p>In the attached code, you can find the <code>DateTimeRoutines</code> project containing:</p>
+
+<ul>
+    <li>A class <code>DateTimeRoutines</code> that is compiled as a DLL</li>    <li>Project <code>Test</code></li></ul>
+
+<p>The code is licensed as public domain code. </p>
+
+<p>The latest version can be found on <a href="http://sourceforge.net/projects/datetimeroutine/">SourceForge</a>. </p>
+
+<p>Be happy!</p>
+
+<h2>History</h2>
+
+<ul>
+    <li>11<sup>th</sup> February, 2009
+
+    <ul>
+        <li>Initial post</li>    </ul>
+    </li>    <li>14<sup>th</sup> February, 2009
+    <ul>
+        <li><code>TryParseDateTime()</code> added</li>    </ul>
+    </li>    <li>18<sup>th</sup> December, 2009
+    <ul>
+        <li><code>TryParseDate()</code> updated</li>    </ul>
+    </li>    <li>3<sup>rd</sup> March, 2010
+    <ul>
+        <li><code>TryParseDate()</code> updated</li>    </ul>
+    </li>    <li>12<sup>th</sup> March, 2010
+    <ul>
+        <li><code>locks </code>removed</li>    </ul>
+    </li>    <li>13<sup>th</sup> March, 2010
+    <ul>
+        <li>Formed as a DLL</li>        <li>Methods formed as extensions for <code>string</code> class</li>        <li><code>TryParse()</code> renamed to <code>TryParseDateOrTime()</code></li>    </ul>
+    </li>    <li>13<sup>th</sup> July, 2010
+    <ul>
+        <li>Updated source code </li>    </ul>
+    </li>    <li>15<sup>th</sup> May, 2011
+    <ul>
+        <li>Fixed 12pm and 12am </li>        <li>Upgraded to C# 4.0  </li>    </ul>
+    </li>    <li>18<sup>th</sup> April, 2012
+    <ul>
+        <li>Added one more date format </li>    </ul>
+    </li>    <li>28<sup>th</sup> June, 2012
+    <ul>
+        <li>Added UTC recognition; </li>    </ul>
+    </li></ul>
+
+<!-- Article Ends -->
+
+
+						</div>
+						
+
+						
+						<h2>License</h2>
+						<div id="LicenseTerms"><p>This article, along with any associated source code and files, is licensed under <a href="http://creativecommons.org/licenses/publicdomain/" rel="license">A Public Domain dedication</a></p></div>
+						
+
+						
+						<br>
+						
+						    <br>
+						
+						
+
+						<div class="clearfix"></div>
+
+						<div style="padding-top:8px">
+							
+						</div>
+
+					
+
+				    
+					</form>
+
+				</div>
+
+				
+				<div class="bottom-promo"> 
+				    
+				</div>
+				
+                
+                
+
+				
+				
+				
+
+			</div>
+			
+
+            
+            
+            
+
+        </div>
+        
+
+		
+		<div class="site-footer">
+			<div class="align-left">
+				<a id="ctl00_PermaLink" href="https://www.codeproject.com/Articles/33298/Csharp-Date-Time-Parser">Permalink</a><br>
+				<br>
+				<a id="ctl00_PrivacyLink" href="https://www.codeproject.com/info/privacy.aspx">Privacy</a><br>
+    			<a id="ctl00_CookiePolicyLink" href="https://www.codeproject.com/info/cookie.aspx">Cookies</a><br>
+                <a id="ctl00_TermsOfUseLink" href="https://www.codeproject.com/info/TermsOfUse.aspx">Terms of Use</a><br>
+			</div>
+
+            <div class="align-center">
+				
+
+
+<div class="page-width">
+    Layout: <a id="ctl00_PageWidth_FixedT" title="Fixed width layout" rel="nofollow" class=" active" href="https://www.codeproject.com/KB/datetime/date_time_parser_cs.aspx?PageFlow=FixedWidth">fixed</a>
+    |
+    <a id="ctl00_PageWidth_FluidT" title="Fluid layout" rel="nofollow" href="https://www.codeproject.com/KB/datetime/date_time_parser_cs.aspx?PageFlow=Fluid">fluid</a>
+</div>
+
+
+				
+
+				
+
+	            
+
+                <br>
+			</div>
+                
+			<div class="align-right">
+				Article Copyright 2009 by Sergiy Stoyan<br>Everything else
+				Copyright © <a href="mailto:webmaster@codeproject.com">CodeProject</a>, 1999-2025<br>
+                <br>
+				Web01 
+				2.8:2024-12-08:1<br>
+			</div>
+		</div>
+		
+
+		<br clear="all">
+		
+			
+
+	</div> 
+	</div> 
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript"> // DEFERRED script
+
+document.addEventListener('DOMContentLoaded', function() {
+
+	new CodeBlocks().initialise('#contentdiv');
+	
+	$('.author-wrapper .description').shorten({showChars: 400});
+	
+	anchorAnimate();
+	
+	$('#__EVENTVALIDATION').attr('autocomplete', 'off');
+
+})
+</script>
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">.copied::after {  position: absolute;  right: 0;  display: inline-block; white-space: nowrap; content: 'copied'; color: #fff; background-color: #f90;  border-radius: 3px; padding:1px 8px; opacity: 0;  will-change: opacity, transform; animation: showcopied 1.5s ease; } @keyframes showcopied { 0% { opacity: 0; } 70% { opacity: 1; } 100% { opacity: 0; } } </style><canvas id="cv1" width="1px" height="1px" style="position:absolute;left:0;top:0;pointer-events:none"></canvas><canvas id="cv2" width="1px" height="1px" style="position:absolute;left:0;top:0;pointer-events:none"></canvas></body></html>
