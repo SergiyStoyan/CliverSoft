@@ -91,13 +91,13 @@ a1[href*=\#] {/*internal links*/
 
 
 .subheader {font-family1: Verdana;font-family: Arial;
-color1:#370;
-color:#705; color1:#fff;
+color:#707;
 background-color1:#092;
 padding1:8;
 font-weight:bold; font-size1:1.2em;}
 
 .subheader1 {font-family: Verdana;
+color1:#370;
 color:#390;
 color1:#080;
 color1:#c74;
