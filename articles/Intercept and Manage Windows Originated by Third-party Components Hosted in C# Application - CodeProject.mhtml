@@ -1,0 +1,2916 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.codeproject.com/Articles/24066/Intercept-and-Manage-Windows-Originated-by-Third-p
+Subject: Intercept and Manage Windows Originated by Third-party Components Hosted in C# Application - CodeProject
+Date: Thu, 14 Aug 2025 22:03:21 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----"
+
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: text/html
+Content-ID: <frame-1D7BC5B616E3EC22C3F1B361D2166F40@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codeproject.com/Articles/24066/Intercept-and-Manage-Windows-Originated-by-Third-p
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=3D"wid=
+th=3Ddevice-width, initial-scale=3D1"><link rel=3D"preload" as=3D"image" im=
+agesrcset=3D"/_next/image?url=3D%2Flogo250x135.gif&amp;w=3D256&amp;q=3D75 1=
+x, /_next/image?url=3D%2Flogo250x135.gif&amp;w=3D640&amp;q=3D75 2x"><link r=
+el=3D"stylesheet" href=3D"https://www.codeproject.com/_next/static/css/f00f=
+bee724adea66.css" data-precedence=3D"next"><link rel=3D"preload" as=3D"scri=
+pt" fetchpriority=3D"low" href=3D"https://www.codeproject.com/_next/static/=
+chunks/webpack-5ed466aeca77ac7a.js"><link rel=3D"preload" href=3D"https://w=
+ww.googletagmanager.com/gtag/js?id=3DG-VW6LK9H6PP" as=3D"script"><meta name=
+=3D"next-size-adjust" content=3D""><link rel=3D"apple-touch-icon" sizes=3D"=
+144x144" href=3D"https://www.codeproject.com/favicon/apple-touch-icon.png">=
+<link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" href=3D"https://www.c=
+odeproject.com/favicon/favicon-32x32.png"><link rel=3D"icon" type=3D"image/=
+png" sizes=3D"16x16" href=3D"https://www.codeproject.com/favicon/favicon-16=
+x16.png"><link rel=3D"manifest" href=3D"https://www.codeproject.com/favicon=
+/manifest.json"><link rel=3D"mask-icon" href=3D"https://www.codeproject.com=
+/favicon/safari-pinned-tab.svg" color=3D"#ff9900"><meta property=3D"og:titl=
+e" content=3D"CodeProject"><meta property=3D"og:image" content=3D"https://w=
+ww.codeproject.com/favicon/mstile-150x150.png"><meta property=3D"og:descrip=
+tion" content=3D"For those who code"><meta property=3D"og:url" content=3D"h=
+ttps://www.codeproject.com"><title>Intercept and Manage Windows Originated =
+by Third-party Components Hosted in C# Application - CodeProject</title><li=
+nk rel=3D"manifest" href=3D"https://www.codeproject.com/manifest.json"><lin=
+k rel=3D"preload" href=3D"https://www.codeproject.com/_next/static/media/94=
+5b7384c5256ec3-s.p.ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><lin=
+k rel=3D"preload" href=3D"https://www.codeproject.com/_next/static/media/b5=
+5e164a6e7ce445-s.p.ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><lin=
+k rel=3D"preload" href=3D"https://www.codeproject.com/_next/static/media/e3=
+37cf18f0f81cb9-s.p.ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><lin=
+k rel=3D"preload" href=3D"https://www.codeproject.com/_next/static/media/f7=
+794ce32483498f-s.p.ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"></he=
+ad><body class=3D"__className_2277ee"><header><div class=3D"custom-containe=
+r gap-2 py-1 text-gray-light flex justify-between whitespace-nowrap z-10 re=
+lative px-1 md:px-0"><div class=3D"flex-1 md:ml-20"><span class=3D"hidden m=
+d:block">65.938<!-- --> articles</span><span class=3D"block md:hidden">65.9=
+<!-- -->K</span></div><div class=3D"flex-1"></div><div class=3D"flex-1"></d=
+iv><div class=3D"flex-1"></div></div><div class=3D"mb-2 mt-2 md:mt-0"><div =
+class=3D"h-[94px] bg-primary"><div class=3D"custom-container relative h-ful=
+l"><a href=3D"https://www.codeproject.com/"><img alt=3D"Home" width=3D"250"=
+ height=3D"135" decoding=3D"async" data-nimg=3D"1" class=3D"absolute -top-[=
+31px]" style=3D"color:transparent" src=3D"https://www.codeproject.com/_next=
+/image?url=3D%2Flogo250x135.gif&amp;w=3D640&amp;q=3D75"></a><div class=3D"w=
+-[calc(100%-300px)] translate-x-[300px] translate-y-[2px] h-[90px] relative=
+ overflow-hidden"><div id=3D"div-gpt-ad-1738591571151-0" style=3D"min-width=
+:728px;min-height:90px" class=3D"absolute top-0 left-0"></div></div></div><=
+/div></div><nav class=3D"custom-container py-1 px-2 whitespace-nowrap"><ul =
+class=3D"flex gap-2 border-b border-border-gray"><li class=3D"relative lead=
+ing-normal hidden md:block"><a class=3D"block py-0.5 px-2 font-bold cursor-=
+pointer !text-gray-light border border-transparent" href=3D"https://www.cod=
+eproject.com/">home</a></li><li class=3D"relative leading-normal"><a class=
+=3D"block py-0.5 px-2 font-bold cursor-pointer !text-gray-light border bord=
+er-transparent" href=3D"https://www.codeproject.com/script/Articles/Latest.=
+aspx">articles</a><ul class=3D"absolute border border-border-gray bg-white =
+border-b-4 border-b-primary pb-2 z-10 hidden bottom-0 left-0 translate-y-fu=
+ll translate-x-0"><li class=3D"cursor-pointer block relative leading-normal=
+ box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"=
+https://www.codeproject.com/script/Content/SiteMap.aspx">Browse topics<span=
+ class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul cla=
+ss=3D"absolute border border-border-gray bg-white border-b-4 border-b-prima=
+ry pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D"curso=
+r-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5=
+ block !text-inherit relative" href=3D"https://www.codeproject.com/script/C=
+ontent/Tag.aspx?tags=3DAI">Artificial Intelligence<span class=3D"absolute t=
+op-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute borde=
+r border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden =
+-top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DAutomation">Automation</a></li><li class=3D"cursor-pointer block relativ=
+e leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit re=
+lative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3D=
+big-data">big-data</a></li><li class=3D"cursor-pointer block relative leadi=
+ng-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative"=
+ href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dmachine=
+-learning">machine-learning</a></li></ul></li><li class=3D"cursor-pointer b=
+lock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !tex=
+t-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.=
+aspx?tags=3DContainers">Containers<span class=3D"absolute top-1/2 right-1 -=
+translate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-border-=
+gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right=
+-0 translate-x-full"><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Ddocker">dock=
+er</a></li><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/script/Content/Tag.aspx?tags=3Dvirtual-machine">virtua=
+l-machine</a></li></ul></li><li class=3D"cursor-pointer block relative lead=
+ing-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative=
+" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Ddataba=
+se">Database Development<span class=3D"absolute top-1/2 right-1 -translate-=
+y-1/2">&gt;</span></a><ul class=3D"absolute border border-border-gray bg-wh=
+ite border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 transla=
+te-x-full"><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/script/Content/Tag.aspx?tags=3DElasticsearch">Elastics=
+earch</a></li><li class=3D"cursor-pointer block relative leading-normal box=
+-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"http=
+s://www.codeproject.com/script/Content/Tag.aspx?tags=3DLucene">Lucene</a></=
+li><li class=3D"cursor-pointer block relative leading-normal box-border"><a=
+ class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.cod=
+eproject.com/script/Content/Tag.aspx?tags=3DMongoDB">mongodb</a></li><li cl=
+ass=3D"cursor-pointer block relative leading-normal box-border"><a class=3D=
+"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.=
+com/script/Content/Tag.aspx?tags=3DMySQL">MySQL</a></li><li class=3D"cursor=
+-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 =
+block !text-inherit relative" href=3D"https://www.codeproject.com/script/Co=
+ntent/Tag.aspx?tags=3DNoSQL">NoSQL</a></li><li class=3D"cursor-pointer bloc=
+k relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-i=
+nherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.asp=
+x?tags=3DPostgreSQL">PostgreSQL</a></li><li class=3D"cursor-pointer block r=
+elative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inhe=
+rit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?t=
+ags=3DRedis">Redis</a></li><li class=3D"cursor-pointer block relative leadi=
+ng-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative"=
+ href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DSQL-Ser=
+ver">SQL Server</a></li></ul></li><li class=3D"cursor-pointer block relativ=
+e leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit re=
+lative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3D=
+Desktop">Desktop Programming<span class=3D"absolute top-1/2 right-1 -transl=
+ate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-border-gray b=
+g-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 tra=
+nslate-x-full"><li class=3D"cursor-pointer block relative leading-normal bo=
+x-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"htt=
+ps://www.codeproject.com/script/Content/Tag.aspx?tags=3DATL">ATL</a></li><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a clas=
+s=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproj=
+ect.com/script/Content/Tag.aspx?tags=3DCocoa">Cocoa</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3DMFC">MFC</a></li><li class=3D"cursor-pointer bloc=
+k relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-i=
+nherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.asp=
+x?tags=3DQT">QT</a></li><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hr=
+ef=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DSwing">Swi=
+ng</a></li><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/script/Content/Tag.aspx?tags=3Dsystem">system</a></li>=
+<li class=3D"cursor-pointer block relative leading-normal box-border"><a cl=
+ass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepr=
+oject.com/script/Content/Tag.aspx?tags=3DUWP">UWP</a></li><li class=3D"curs=
+or-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-=
+5 block !text-inherit relative" href=3D"https://www.codeproject.com/script/=
+Content/Tag.aspx?tags=3DWin32">Win32</a></li><li class=3D"cursor-pointer bl=
+ock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text=
+-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.a=
+spx?tags=3DWinForms">WinForms</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3DWPF">WPF</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DWTL">WTL</a>=
+</li><li class=3D"cursor-pointer block relative leading-normal box-border">=
+<a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.c=
+odeproject.com/script/Content/Tag.aspx?tags=3DX11">X11</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DXAML">XAML</a></li></ul></li><li class=3D"curs=
+or-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-=
+5 block !text-inherit relative" href=3D"https://www.codeproject.com/script/=
+Content/Tag.aspx?tags=3DDevOps">DevOps<span class=3D"absolute top-1/2 right=
+-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-bor=
+der-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] r=
+ight-0 translate-x-full"><li class=3D"cursor-pointer block relative leading=
+-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" h=
+ref=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DAgile">Ag=
+ile</a></li><li class=3D"cursor-pointer block relative leading-normal box-b=
+order"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:=
+//www.codeproject.com/script/Content/Tag.aspx?tags=3DContinuous-build">Cont=
+inuous-build</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DContinuous-d=
+elivery">Continuous-delivery</a></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DDeployment">Deployment</a></li><li class=3D"cursor-pointer block relativ=
+e leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit re=
+lative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3D=
+Git">Git</a></li><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3Dload-testing">loa=
+d-testing</a></li><li class=3D"cursor-pointer block relative leading-normal=
+ box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"=
+https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dtesting">testing=
+</a></li><li class=3D"cursor-pointer block relative leading-normal box-bord=
+er"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://w=
+ww.codeproject.com/script/Content/Tag.aspx?tags=3DTFS">TFS</a></li><li clas=
+s=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"p=
+y-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.co=
+m/script/Content/Tag.aspx?tags=3Dunit-testing">unit-testing</a></li></ul></=
+li><li class=3D"cursor-pointer block relative leading-normal box-border"><a=
+ class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.cod=
+eproject.com/script/Content/Tag.aspx?tags=3DGame">Game Development<span cla=
+ss=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=
+=3D"absolute border border-border-gray bg-white border-b-4 border-b-primary=
+ pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D"cursor-=
+pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 b=
+lock !text-inherit relative" href=3D"https://www.codeproject.com/script/Con=
+tent/Tag.aspx?tags=3DUnity">Unity</a></li><li class=3D"cursor-pointer block=
+ relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-in=
+herit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx=
+?tags=3DUnreal">Unreal</a></li><li class=3D"cursor-pointer block relative l=
+eading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relat=
+ive" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DXBo=
+x">XBox</a></li></ul></li><li class=3D"cursor-pointer block relative leadin=
+g-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" =
+href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dperforma=
+nce">High Performance Computing<span class=3D"absolute top-1/2 right-1 -tra=
+nslate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-border-gra=
+y bg-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 =
+translate-x-full"><li class=3D"cursor-pointer block relative leading-normal=
+ box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"=
+https://www.codeproject.com/script/Content/Tag.aspx?tags=3DGPU">GPU</a></li=
+><li class=3D"cursor-pointer block relative leading-normal box-border"><a c=
+lass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codep=
+roject.com/script/Content/Tag.aspx?tags=3Doptimization">optimization</a></l=
+i></ul></li><li class=3D"cursor-pointer block relative leading-normal box-b=
+order"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:=
+//www.codeproject.com/script/Content/Tag.aspx?tags=3DIoT">Internet of Thing=
+s<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><=
+ul class=3D"absolute border border-border-gray bg-white border-b-4 border-b=
+-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3Dwearables">wearable</a></li></ul></li><li clas=
+s=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"p=
+y-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.co=
+m/script/Content/Tag.aspx?tags=3DMobile">Mobile Apps<span class=3D"absolute=
+ top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute bor=
+der border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidde=
+n -top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block re=
+lative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inher=
+it relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?ta=
+gs=3DAndroid">Android</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DAWS"=
+>AWS</a></li><li class=3D"cursor-pointer block relative leading-normal box-=
+border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https=
+://www.codeproject.com/script/Content/Tag.aspx?tags=3DAzure">Azure</a></li>=
+<li class=3D"cursor-pointer block relative leading-normal box-border"><a cl=
+ass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepr=
+oject.com/script/Content/Tag.aspx?tags=3DCordova">Cordova</a></li><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3DExtJS">ExtJS</a></li><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/Conte=
+nt/Tag.aspx?tags=3Dgoogle-cloud">google-cloud</a></li><li class=3D"cursor-p=
+ointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bl=
+ock !text-inherit relative" href=3D"https://www.codeproject.com/script/Cont=
+ent/Tag.aspx?tags=3DiOS">iOS</a></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3Dnativescript">nativescript</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3DPhoneGap">PhoneGap</a></li><li class=3D"cursor-pointer block relative l=
+eading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relat=
+ive" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dsto=
+rage">storage</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DWinMobile">W=
+indows Mobile</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DXamarin">Xam=
+arin</a></li></ul></li><li class=3D"cursor-pointer block relative leading-n=
+ormal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hre=
+f=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DMultimedia"=
+>Multimedia<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</=
+span></a><ul class=3D"absolute border border-border-gray bg-white border-b-=
+4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a clas=
+s=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproj=
+ect.com/script/Content/Tag.aspx?tags=3DASM">ASM</a></li><li class=3D"cursor=
+-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 =
+block !text-inherit relative" href=3D"https://www.codeproject.com/script/Co=
+ntent/Tag.aspx?tags=3DASP">ASP</a></li><li class=3D"cursor-pointer block re=
+lative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inher=
+it relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?ta=
+gs=3Daudio">audio</a></li><li class=3D"cursor-pointer block relative leadin=
+g-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" =
+href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Daudio-vi=
+deo">audio video</a></li><li class=3D"cursor-pointer block relative leading=
+-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" h=
+ref=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DBash">Bas=
+h</a></li><li class=3D"cursor-pointer block relative leading-normal box-bor=
+der"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://=
+www.codeproject.com/script/Content/Tag.aspx?tags=3DBasic">Basic</a></li><li=
+ class=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DCsharp">C#</a></li><li class=3D"curso=
+r-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5=
+ block !text-inherit relative" href=3D"https://www.codeproject.com/script/C=
+ontent/Tag.aspx?tags=3DCplusplus">C++</a></li><li class=3D"cursor-pointer b=
+lock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !tex=
+t-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.=
+aspx?tags=3DCOBOL">cobol</a></li><li class=3D"cursor-pointer block relative=
+ leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit rel=
+ative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DC=
+ompression">Compression</a></li><li class=3D"cursor-pointer block relative =
+leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit rela=
+tive" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DDa=
+rt">Dart</a></li><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3Ddbase">dbase</a><=
+/li><li class=3D"cursor-pointer block relative leading-normal box-border"><=
+a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.co=
+deproject.com/script/Content/Tag.aspx?tags=3DDesign">Design/Graphics</a></l=
+i><li class=3D"cursor-pointer block relative leading-normal box-border"><a =
+class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.code=
+project.com/script/Content/Tag.aspx?tags=3DDirectX">DirectX</a></li><li cla=
+ss=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"=
+py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.c=
+om/script/Content/Tag.aspx?tags=3DEmulation">Emulation</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DExceptions">Exceptions</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3DFsharp">F#</a></li><li class=3D"cursor-pointer bl=
+ock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text=
+-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.a=
+spx?tags=3Dfile">file</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DGDI"=
+>GDI</a></li><li class=3D"cursor-pointer block relative leading-normal box-=
+border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https=
+://www.codeproject.com/script/Content/Tag.aspx?tags=3DGDIplus">GDI+</a></li=
+><li class=3D"cursor-pointer block relative leading-normal box-border"><a c=
+lass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codep=
+roject.com/script/Content/Tag.aspx?tags=3DImage-Processing">Image-Processin=
+g</a></li><li class=3D"cursor-pointer block relative leading-normal box-bor=
+der"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://=
+www.codeproject.com/script/Content/Tag.aspx?tags=3DInternet">Internet</a></=
+li><li class=3D"cursor-pointer block relative leading-normal box-border"><a=
+ class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.cod=
+eproject.com/script/Content/Tag.aspx?tags=3DJava">Java</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DJavascript">Javascript</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3Dlocalization">localization</a></li><li class=3D"c=
+ursor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 =
+px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scri=
+pt/Content/Tag.aspx?tags=3DLua">Lua</a></li><li class=3D"cursor-pointer blo=
+ck relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-=
+inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.as=
+px?tags=3DMSIL">MSIL</a></li><li class=3D"cursor-pointer block relative lea=
+ding-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relativ=
+e" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DObjec=
+tive-C">Objective C</a></li><li class=3D"cursor-pointer block relative lead=
+ing-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative=
+" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DOpenGL=
+">OpenGL</a></li><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3DPascal">Pascal</a=
+></li><li class=3D"cursor-pointer block relative leading-normal box-border"=
+><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.=
+codeproject.com/script/Content/Tag.aspx?tags=3DPerl">Perl</a></li><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3DPHP">PHP</a></li><li class=3D"cursor-pointe=
+r block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !=
+text-inherit relative" href=3D"https://www.codeproject.com/script/Content/T=
+ag.aspx?tags=3DPowerShell">PowerShell</a></li><li class=3D"cursor-pointer b=
+lock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !tex=
+t-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.=
+aspx?tags=3Dprinting">printing</a></li><li class=3D"cursor-pointer block re=
+lative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inher=
+it relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?ta=
+gs=3DPython">Python</a></li><li class=3D"cursor-pointer block relative lead=
+ing-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative=
+" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DRazor"=
+>Razor</a></li><li class=3D"cursor-pointer block relative leading-normal bo=
+x-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"htt=
+ps://www.codeproject.com/script/Content/Tag.aspx?tags=3Dregular-expression"=
+>regular expression</a></li><li class=3D"cursor-pointer block relative lead=
+ing-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative=
+" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DRuby">=
+Ruby</a></li><li class=3D"cursor-pointer block relative leading-normal box-=
+border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https=
+://www.codeproject.com/script/Content/Tag.aspx?tags=3DScala">scala</a></li>=
+<li class=3D"cursor-pointer block relative leading-normal box-border"><a cl=
+ass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepr=
+oject.com/script/Content/Tag.aspx?tags=3DShell">Shell</a></li><li class=3D"=
+cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.5=
+ px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scr=
+ipt/Content/Tag.aspx?tags=3DSorting">Sorting</a></li><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/Conte=
+nt/Tag.aspx?tags=3DSQL">SQL</a></li><li class=3D"cursor-pointer block relat=
+ive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit =
+relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3Dstring">string</a></li><li class=3D"cursor-pointer block relative leadin=
+g-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" =
+href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DSwift">S=
+wift</a></li><li class=3D"cursor-pointer block relative leading-normal box-=
+border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https=
+://www.codeproject.com/script/Content/Tag.aspx?tags=3Dthreads">threads</a><=
+/li><li class=3D"cursor-pointer block relative leading-normal box-border"><=
+a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.co=
+deproject.com/script/Content/Tag.aspx?tags=3Dusability">usability</a></li><=
+li class=3D"cursor-pointer block relative leading-normal box-border"><a cla=
+ss=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepro=
+ject.com/script/Content/Tag.aspx?tags=3DVB">VB</a></li><li class=3D"cursor-=
+pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 b=
+lock !text-inherit relative" href=3D"https://www.codeproject.com/script/Con=
+tent/Tag.aspx?tags=3DVB.NET">VB.NET</a></li><li class=3D"cursor-pointer blo=
+ck relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-=
+inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.as=
+px?tags=3DVBScript">VBScript</a></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DVideo">Video</a></li><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hr=
+ef=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DXML">XML</=
+a></li></ul></li><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3Dsecurity">Securit=
+y<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><=
+ul class=3D"absolute border border-border-gray bg-white border-b-4 border-b=
+-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3Dblockchain">blockchain</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3Dcryptography">cryptography</a></li><li class=3D"c=
+ursor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 =
+px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scri=
+pt/Content/Tag.aspx?tags=3DEncryption">Encryption</a></li></ul></li><li cla=
+ss=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"=
+py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.c=
+om/script/Content/Tag.aspx?tags=3DWeb">Web Development<span class=3D"absolu=
+te top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute b=
+order border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hid=
+den -top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block =
+relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inh=
+erit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?=
+tags=3DApache">Apache</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DASP.=
+NET">ASP.NET</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DCSS">CSS</a>=
+</li><li class=3D"cursor-pointer block relative leading-normal box-border">=
+<a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.c=
+odeproject.com/script/Content/Tag.aspx?tags=3DCSS3">CSS3</a></li><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3DHTML">HTML</a></li><li class=3D"cursor-poin=
+ter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block=
+ !text-inherit relative" href=3D"https://www.codeproject.com/script/Content=
+/Tag.aspx?tags=3DHTML5">HTML5</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3DIIS">IIS</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DKestrel">Kes=
+trel</a></li><li class=3D"cursor-pointer block relative leading-normal box-=
+border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https=
+://www.codeproject.com/script/Content/Tag.aspx?tags=3DLESS">LESS</a></li><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a clas=
+s=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproj=
+ect.com/script/Content/Tag.aspx?tags=3DNode.js">Node.js</a></li><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3DReact">React</a></li><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/Conte=
+nt/Tag.aspx?tags=3DSpring">Spring</a></li><li class=3D"cursor-pointer block=
+ relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-in=
+herit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx=
+?tags=3DXHTML">XHTML</a></li></ul></li></ul></li><li class=3D"cursor-pointe=
+r block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !=
+text-inherit relative" href=3D"https://www.codeproject.com/script/Articles/=
+Latest.aspx">Latest articles</a></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Articles/TopArticles.=
+aspx">Top articles</a></li></ul></li><li class=3D"relative leading-normal">=
+<a class=3D"block py-0.5 px-2 font-bold cursor-pointer !text-gray-light bor=
+der border-transparent" href=3D"https://forum.codeproject.com/">discussions=
+</a></li><li class=3D"relative leading-normal"><a class=3D"block py-0.5 px-=
+2 font-bold cursor-pointer !text-gray-light border border-transparent" href=
+=3D"https://www.codeproject.com/Feature">features</a><ul class=3D"absolute =
+border border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hi=
+dden bottom-0 left-0 translate-y-full translate-x-0"><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/News/=
+List.aspx">News</a></li><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a href=3D"https://sdnews.io/" class=3D"py-0.5 px-5 bloc=
+k !text-inherit relative" rel=3D"nofollow noreferrer">The Insider Newslette=
+r</a></li><li class=3D"cursor-pointer block relative leading-normal box-bor=
+der"><a href=3D"https://sdnews.io/" class=3D"py-0.5 px-5 block !text-inheri=
+t relative" rel=3D"nofollow noreferrer">The Daily Build Newsletter</a></li>=
+<li class=3D"cursor-pointer block relative leading-normal box-border"><a cl=
+ass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepr=
+oject.com/Info/Stuff.aspx">CodeProject Stuff</a></li></ul></li><li class=3D=
+"relative leading-normal"><a class=3D"block py-0.5 px-2 font-bold cursor-po=
+inter !text-gray-light border border-transparent" href=3D"https://www.codep=
+roject.com/KB/FAQs">help</a><ul class=3D"absolute border border-border-gray=
+ bg-white border-b-4 border-b-primary pb-2 z-10 hidden bottom-0 left-0 tran=
+slate-y-full translate-x-0"><li class=3D"cursor-pointer block relative lead=
+ing-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative=
+" href=3D"https://www.codeproject.com/info/guide.aspx">What is 'CodeProject=
+'?</a></li><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/KB/FAQs">General FAQ</a></li><li class=3D"cursor-point=
+er block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block =
+!text-inherit relative" href=3D"https://www.codeproject.com/info/about.aspx=
+">About Us</a></li></ul></li></ul></nav></header><main class=3D"px-2 py-10"=
+><div class=3D"custom-container flex px-2 gap-8 overflow-hidden"><div class=
+=3D"w-[948px] max-w-full"><div class=3D"flex gap-2 mb-2 flex-wrap"><a rel=
+=3D"tag" href=3D"https://www.codeproject.com/Tags/Win2003" class=3D"px-2 bo=
+rder border-border-yellow rounded-l-full text-gray-light visited:text-gray-=
+light hover:underline hover:bg-yellow-light">Windows 2003</a><a rel=3D"tag"=
+ href=3D"https://www.codeproject.com/Tags/Win32" class=3D"px-2 border borde=
+r-border-yellow rounded-l-full text-gray-light visited:text-gray-light hove=
+r:underline hover:bg-yellow-light">Win32</a><a rel=3D"tag" href=3D"https://=
+www.codeproject.com/Tags/WinXP" class=3D"px-2 border border-border-yellow r=
+ounded-l-full text-gray-light visited:text-gray-light hover:underline hover=
+:bg-yellow-light">Windows XP</a><a rel=3D"tag" href=3D"https://www.codeproj=
+ect.com/Tags/.NET2.0" class=3D"px-2 border border-border-yellow rounded-l-f=
+ull text-gray-light visited:text-gray-light hover:underline hover:bg-yellow=
+-light">.NET 2.0</a><a rel=3D"tag" href=3D"https://www.codeproject.com/Tags=
+/C#2.0" class=3D"px-2 border border-border-yellow rounded-l-full text-gray-=
+light visited:text-gray-light hover:underline hover:bg-yellow-light">C# 2.0=
+</a><a rel=3D"tag" href=3D"https://www.codeproject.com/Tags/C#3.0" class=3D=
+"px-2 border border-border-yellow rounded-l-full text-gray-light visited:te=
+xt-gray-light hover:underline hover:bg-yellow-light">C# 3.0</a><a rel=3D"ta=
+g" href=3D"https://www.codeproject.com/Tags/Intermediate" class=3D"px-2 bor=
+der border-border-yellow rounded-l-full text-gray-light visited:text-gray-l=
+ight hover:underline hover:bg-yellow-light">Intermediate</a><a rel=3D"tag" =
+href=3D"https://www.codeproject.com/Tags/Windows" class=3D"px-2 border bord=
+er-border-yellow rounded-l-full text-gray-light visited:text-gray-light hov=
+er:underline hover:bg-yellow-light">Windows</a><a rel=3D"tag" href=3D"https=
+://www.codeproject.com/Tags/C++" class=3D"px-2 border border-border-yellow =
+rounded-l-full text-gray-light visited:text-gray-light hover:underline hove=
+r:bg-yellow-light">C++</a><a rel=3D"tag" href=3D"https://www.codeproject.co=
+m/Tags/.NET" class=3D"px-2 border border-border-yellow rounded-l-full text-=
+gray-light visited:text-gray-light hover:underline hover:bg-yellow-light">.=
+NET</a><a rel=3D"tag" href=3D"https://www.codeproject.com/Tags/C#" class=3D=
+"px-2 border border-border-yellow rounded-l-full text-gray-light visited:te=
+xt-gray-light hover:underline hover:bg-yellow-light">C#</a></div><h1 class=
+=3D"text-4xl text-text-gray">Intercept and Manage Windows Originated by Thi=
+rd-party Components Hosted in C# Application</h1><div class=3D"max-w-[600px=
+]"><div class=3D"flex pt-4 justify-between"><div class=3D"text-base hover:u=
+nderline font-bold"><a class=3D"text-gray-lightest" href=3D"https://www.cod=
+eproject.com/script/Membership/View.aspx?mid=3D2323668">Sergiy Stoyan</a></=
+div><div class=3D"flex items-center gap-2"><div class=3D"flex"><img alt=3D"=
+starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" da=
+ta-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.codeproject.co=
+m/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=3D75"><img alt=
+=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async=
+" data-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.codeprojec=
+t.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=3D75"><img=
+ alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decoding=3D"a=
+sync" data-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.codepr=
+oject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=3D75">=
+<img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decoding=
+=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.c=
+odeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=
+=3D75"><div class=3D"relative"><img alt=3D"emptyStarIcon" loading=3D"lazy" =
+width=3D"24" height=3D"24" decoding=3D"async" data-nimg=3D"1" style=3D"colo=
+r:transparent" src=3D"https://www.codeproject.com/_next/image?url=3D%2Ficon=
+s%2FemptyStarIcon.png&amp;w=3D48&amp;q=3D75"><div class=3D"absolute left-0 =
+top-0 overflow-hidden" style=3D"max-width:93.75%"><img alt=3D"starIcon" loa=
+ding=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" data-nimg=3D"1"=
+ style=3D"color:transparent" src=3D"https://www.codeproject.com/_next/image=
+?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=3D75"></div></div></div><p =
+class=3D"text-sm">4.94<!-- -->/5 (<!-- -->17<!-- --> vote<!-- -->s<!-- -->)=
+</p></div></div><div class=3D"flex pt-2 gap-4"><p class=3D"text-gray-lighte=
+st text-[13px]">Mar 3, 2008</p><a class=3D"text-[13px] flex" href=3D"http:/=
+/www.codeproject.com/info/cpol10.aspx">CPOL</a><p class=3D"text-gray-lighte=
+st text-[13px]">7<!-- --> min read</p><div class=3D"flex gap-1 items-center=
+"><img alt=3D"viewsIcon" loading=3D"lazy" width=3D"16" height=3D"16" decodi=
+ng=3D"async" data-nimg=3D"1" class=3D"w-4 h-4" style=3D"color:transparent" =
+src=3D"https://www.codeproject.com/_next/image?url=3D%2Ficons%2FviewsIcon.p=
+ng&amp;w=3D32&amp;q=3D75"><p class=3D"text-gray-lightest text-[13px] pl-0.5=
+">114478</p></div><div class=3D"flex gap-1 items-center"><img alt=3D"downlo=
+adIcon" loading=3D"lazy" width=3D"16" height=3D"16" decoding=3D"async" data=
+-nimg=3D"1" class=3D"w-4 h-4" style=3D"color:transparent" src=3D"https://ww=
+w.codeproject.com/_next/image?url=3D%2Ficons%2FdownloadIcon.png&amp;w=3D32&=
+amp;q=3D75"><p class=3D"text-gray-lightest text-[13px] pl-0.5">2257</p></di=
+v></div></div><p class=3D"pt-6 pb-4 text-gray-lightest">Intercept, fill and=
+ close windows originated by third-party components hosted in C# applicatio=
+n. As an encountered case, making WebBrowser control silent is considered.<=
+/p><div class=3D"max-w-full"><template shadowmode=3D"open"><div><div><div c=
+lass=3D"article">
+<ul class=3D"download">
+<li><a href=3D"https://www.codeproject.com/kb/dialog/24066/windowintercepto=
+r/windowinterceptor.zip">Download source - 48.14 KB</a> </li>
+</ul>
+<img height=3D"394" alt=3D"Sample Image - maximum width is 600 pixels" hspa=
+ce=3D"0" src=3D"https://cloudfront.codeproject.com/dialog/windowinterceptor=
+/error1.jpg" width=3D"587" border=3D"0">=20
+<h2>Introduction</h2>
+
+<p>Sometimes you may collide with the following problem: a third-party bina=
+ry component or control embedded into your application displays windows (us=
+ually message boxes) that hang your code until they are closed. <br>If you =
+do not have the source code of this binary and one does not have a good API=
+ to change one=E2=80=99s bad behaviour programmatically, it can be a real h=
+eadache using the one. A famous example of such a binary is the <code>WebBr=
+owser</code> control in .NET. </p>
+
+<p>The following types of problems can occur: </p>
+
+<ul>
+<li>The component used in your code throws a pile of error messages and mak=
+es the user struggle through them to get the application working further. I=
+t is probably the most annoying case. </li>
+
+<li>The component displays a dialog box and waits for data entered there. <=
+/li>
+</ul>
+
+<p>In both these cases, your code execution is suspended and exasperating w=
+indows appear on the desktop while you may want your code to work smoothly =
+and silently without stumbling and the need of human intervention. </p>
+
+<p>To solve these problems, you have to manage such windows from your code:=
+ close them, or even fill them with data and submit.</p>
+
+<h2>Important Notes</h2>
+
+<p>In this article, we consider managing windows originated by the <code>We=
+bBrowser</code> control embedded into your application. It is a relatively =
+common case. But actually the solution considered in this article can be ap=
+plied to any control or binary used by your process. </p>
+
+<p>The code is C#, but it consists of Win32 functions imported via interop.=
+ So actually the solution is in C++ and the attached code can be easily tra=
+nslated to C++ if it is needed. </p>
+
+<h2>Dialogs Opened by WebBrowser</h2>
+
+<p>Using <code>WebBrowser</code> control, you may face the following challe=
+nge: Web page downloaded by <code>WebBrowser</code> contains JavaScript whi=
+ch throws an error message. It is one of the reasons why <code>WebBrowser</=
+code> can show a message box. A dialog box may also appear when the browser=
+ asks what to do with the navigated file: open or save. The browser can als=
+o ask for credentials or throw a security alert, etc. </p>
+
+<p>The problem is that if such a dialog box is opened, <code>WebBrowser</co=
+de> object cannot be navigated to the next page and remains paralysed until=
+ the dialog is closed. Let=E2=80=99s see how it can be solved programmatica=
+lly. </p>
+
+<h2>Solution</h2>
+
+<p>We'll follow a most plump and reliable way for our task that consists of=
+ the following steps: </p>
+
+<ul>
+<li>Intercepting Windows messages that correspond to window creation</li>
+
+<li>Getting a handle of the window that must be managed</li>
+
+<li>Closing the window or filling and submitting it (clicking OK)</li>
+</ul>
+
+<h2>Intercept Dialog Windows</h2>
+
+<p>The first thing that we have to do is monitor window creation from our c=
+ode. <br>This can be done through Win32 API function <code>SetWindowsHookEx=
+</code> that will invoke our callback method. This function can trace sever=
+al events in Windows including creation of a window. To do it, we'll invoke=
+ it with flag <code>WH_CALLWNDPROCRET</code> that installs a hook procedure=
+ that monitors messages after they have been processed by the destination w=
+indow procedure. </p>
+
+<p>Each time as our callback function is invoked, we only have to filter me=
+ssage <code>WM_SHOWWINDOW</code> message that is sent to a window when the =
+window is about to be hidden or shown. <br>Please look at the code below to=
+ realize the rest: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><div style=3D"color: inherit; cursor: pointer; font-=
+size: 13px; transition: color 0.1s linear;">Shrink =E2=96=B2</div><svg xmln=
+s=3D"http://www.w3.org/2000/svg" version=3D"1.1" viewBox=3D"0 0 460 460" wi=
+dth=3D"16px" height=3D"16px" fill=3D"currentColor" style=3D"color: inherit;=
+ cursor: pointer; transition: color 0.1s linear;"><g><path d=3D"M425.934,0H=
+171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.28=
+5-2.864,2.864-2.864h254.272 c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58=
+-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-3=
+2.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d=3D"M288.33=
+9,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.25=
+7,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.8=
+63C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068 c-1=
+.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.27=
+2c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,=
+288.341,430z"></path></g></svg></div></div></div><pre lang=3D"cs" style=3D"=
+margin-top: 0px;"><span class=3D"code-SummaryComment">///</span><span class=
+=3D"code-comment"> <span class=3D"code-SummaryComment">&lt;</span><span cla=
+ss=3D"code-SummaryComment">summary</span><span class=3D"code-SummaryComment=
+">&gt;</span></span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ Intercept creation of window and call a handler</span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">/</span><span class=3D"code-SummaryComment">summary</span><span cl=
+ass=3D"code-SummaryComment">&gt;</span></span>
+<span class=3D"code-keyword">public</span> <span class=3D"code-keyword">cla=
+ss</span> WindowInterceptor
+{
+    <span class=3D"code-SDKkeyword">IntPtr</span> hook_id =3D <span class=
+=3D"code-SDKkeyword">IntPtr</span>.Zero;
+
+    Win32.Functions.HookProc cbf;
+
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">summary</span><span class=3D"code-SummaryComment">&gt;</span><=
+/span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> Delegate to process intercepted window</span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">/</span><span class=3D"code-SummaryComment">summary</span><spa=
+n class=3D"code-SummaryComment">&gt;</span></span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">param</span> <span class=3D"code-SummaryComment">name=3D"hwnd"=
+</span><span class=3D"code-SummaryComment">&gt;</span><span class=3D"code-S=
+ummaryComment">&lt;</span><span class=3D"code-SummaryComment">/</span><span=
+ class=3D"code-SummaryComment">param</span><span class=3D"code-SummaryComme=
+nt">&gt;</span></span>
+    <span class=3D"code-keyword">public</span> <span class=3D"code-keyword"=
+>delegate</span> <span class=3D"code-keyword">void</span> ProcessWindow(<sp=
+an class=3D"code-SDKkeyword">IntPtr</span> hwnd);
+    ProcessWindow process_window;
+
+    <span class=3D"code-SDKkeyword">IntPtr</span> owner_window =3D <span cl=
+ass=3D"code-SDKkeyword">IntPtr</span>.Zero;
+
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">summary</span><span class=3D"code-SummaryComment">&gt;</span><=
+/span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> Start dialog box interception for the specified owner window</span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">/</span><span class=3D"code-SummaryComment">summary</span><spa=
+n class=3D"code-SummaryComment">&gt;</span></span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">param</span> <span class=3D"code-SummaryComment">name=3D"owner=
+_window"</span><span class=3D"code-SummaryComment">&gt;</span>owner window;=
+ if IntPtr.Zero,</span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> any windows will be intercepted<span class=3D"code-SummaryComment">&lt=
+;</span><span class=3D"code-SummaryComment">/</span><span class=3D"code-Sum=
+maryComment">param</span><span class=3D"code-SummaryComment">&gt;</span></s=
+pan>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">param</span> <span class=3D"code-SummaryComment">name=3D"proce=
+ss_window"</span><span class=3D"code-SummaryComment">&gt;</span>custom dele=
+gate to process intercepted window</span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">/</span><span class=3D"code-SummaryComment">param</span><span =
+class=3D"code-SummaryComment">&gt;</span></span>
+    <span class=3D"code-keyword">public</span> WindowInterceptor(<span clas=
+s=3D"code-SDKkeyword">IntPtr</span> owner_window, ProcessWindow process_win=
+dow)
+    {
+        <span class=3D"code-keyword">if</span> (process_window =3D=3D <span=
+ class=3D"code-keyword">null</span>)
+            <span class=3D"code-keyword">throw</span> <span class=3D"code-k=
+eyword">new</span> Exception(<span class=3D"code-string">"</span><span clas=
+s=3D"code-string">process_window cannot be null!"</span>);
+        <span class=3D"code-keyword">this</span>.process_window =3D process=
+_window;
+
+        <span class=3D"code-keyword">this</span>.owner_window =3D owner_win=
+dow;
+
+        cbf =3D <span class=3D"code-keyword">new</span> Win32.Functions.Hoo=
+kProc(dlg_box_hook_proc);
+        <span class=3D"code-comment">//</span><span class=3D"code-comment">=
+notice that win32 callback function must be a global variable within class<=
+/span>
+        <span class=3D"code-comment">//</span><span class=3D"code-comment">=
+to avoid disposing it!</span>
+        hook_id =3D Win32.Functions.SetWindowsHookEx(Win32.HookType.WH_CALL=
+WNDPROCRET,
+                 cbf, <span class=3D"code-SDKkeyword">IntPtr</span>.Zero, W=
+in32.Functions.GetCurrentThreadId());
+    }
+
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">summary</span><span class=3D"code-SummaryComment">&gt;</span><=
+/span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> Stop intercepting. Should be called to calm unmanaged code correctly</=
+span>
+    <span class=3D"code-SummaryComment">///</span><span class=3D"code-comme=
+nt"> <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Sum=
+maryComment">/</span><span class=3D"code-SummaryComment">summary</span><spa=
+n class=3D"code-SummaryComment">&gt;</span></span>
+    <span class=3D"code-keyword">public</span> <span class=3D"code-keyword"=
+>void</span> Stop()
+    {
+        <span class=3D"code-keyword">if</span> (hook_id !=3D <span class=3D=
+"code-SDKkeyword">IntPtr</span>.Zero)
+            Win32.Functions.UnhookWindowsHookEx(hook_id);
+        hook_id =3D <span class=3D"code-SDKkeyword">IntPtr</span>.Zero;
+    }
+
+    ~WindowInterceptor()
+    {
+        <span class=3D"code-keyword">if</span> (hook_id !=3D <span class=3D=
+"code-SDKkeyword">IntPtr</span>.Zero)
+            Win32.Functions.UnhookWindowsHookEx(hook_id);
+    }
+
+    <span class=3D"code-keyword">private</span> <span class=3D"code-SDKkeyw=
+ord">IntPtr</span> dlg_box_hook_proc(<span class=3D"code-keyword">int</span=
+> nCode, <span class=3D"code-SDKkeyword">IntPtr</span> wParam, <span class=
+=3D"code-SDKkeyword">IntPtr</span> lParam)
+    {
+        <span class=3D"code-keyword">if</span> (nCode &lt; <span class=3D"c=
+ode-digit">0</span>)
+            <span class=3D"code-keyword">return</span> Win32.Functions.Call=
+NextHookEx(hook_id, nCode, wParam, lParam);
+
+        Win32.CWPRETSTRUCT msg =3D (Win32.CWPRETSTRUCT)Marshal.PtrToStructu=
+re
+            (lParam, <span class=3D"code-keyword">typeof</span>(Win32.CWPRE=
+TSTRUCT));
+
+        <span class=3D"code-comment">//</span><span class=3D"code-comment">=
+filter out create window events only</span>
+        <span class=3D"code-keyword">if</span> (msg.message =3D=3D (<span c=
+lass=3D"code-keyword">uint</span>)Win32.Messages.WM_SHOWWINDOW)
+        {
+            <span class=3D"code-keyword">int</span> h =3D Win32.Functions.G=
+etWindow(msg.hwnd, Win32.Functions.GW_OWNER);
+            <span class=3D"code-comment">//</span><span class=3D"code-comme=
+nt">check if owner is that is specified</span>
+            <span class=3D"code-keyword">if</span> (owner_window =3D=3D <sp=
+an class=3D"code-SDKkeyword">IntPtr</span>.Zero || owner_window =3D=3D <spa=
+n class=3D"code-keyword">new</span> <span class=3D"code-SDKkeyword">IntPtr<=
+/span>(h))
+            {
+                <span class=3D"code-keyword">if</span> (process_window !=3D=
+ <span class=3D"code-keyword">null</span>)
+                    process_window(msg.hwnd);
+            }
+        }
+
+        <span class=3D"code-keyword">return</span> Win32.Functions.CallNext=
+HookEx(hook_id, nCode, wParam, lParam);
+    }
+}</pre>
+
+<p>Pay attention to one <strong>important thing</strong>: we filter only th=
+ose messages that are addressed to windows owned by certain window. It is a=
+ trick needed since our own code can open windows as well and we do not wan=
+t them to be intercepted and closed automatically. All windows originated b=
+y a control (in our case <code>WebBrowser</code>) will be owned by default =
+by the form where they are placed. Thus window=E2=80=99s owner is a way to =
+distinguish windows opened by <code>WebBrowser </code>from the rest of the =
+windows opened by our code. Notice, to have this working, we should assign =
+another owner to our own windows. <br>Another way to distinguish the unneed=
+ed windows from yours is filtering them by their caption text. Caption of a=
+ window can be obtained by Win32 function <code>GetWindowText</code>. It is=
+ also a good way since usually you know in advance what captions your windo=
+ws will have.</p>
+
+<p>Also remember a callback function (in the code <code>Win32.Functions.Hoo=
+kProc cbf</code>) invoked from unmanaged code must be a global variable wit=
+hin the class to avoid disposing.</p>
+
+<p>Each time as the owner of the intercepted window is the specified one, t=
+he callback function invokes a delegate method where we defined how to trea=
+t the intercepted window, and passes the window=E2=80=99s handle to it. </p=
+>
+
+<h2>Manage Window by Handle</h2>
+
+<p>Great! Having obtained a handle of the window, we can do what we want wi=
+th it. </p>
+
+<h3>Close Dialog</h3>
+
+<p>To demo the ability we have now, I created a form where <code>WebBrowser=
+ </code>is placed and also a small HTML page with JavaScript. Upon loading =
+this form, <code>WebBrowser </code>is navigated to this page: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>ASP.NET</div><div style=3D=
+"align-items: center; display: flex; gap: 0.5rem; justify-content: space-be=
+tween; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" versi=
+on=3D"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"c=
+urrentColor" style=3D"color: inherit; cursor: pointer; transition: color 0.=
+1s linear;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864=
+,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2=
+.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74=
+.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,=
+425.934,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.7=
+43-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.12=
+2,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288=
+.339,139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c=
+0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.2=
+73h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div><=
+/div></div><pre lang=3D"aspnet" style=3D"margin-top: 0px;"><span class=3D"c=
+ode-keyword">&lt;</span><span class=3D"code-leadattribute">HTML</span><span=
+ class=3D"code-keyword">&gt;</span>
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+BODY</span><span class=3D"code-keyword">&gt;</span>
+
+HERE IS STUMBLING PAGE...
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+script</span><span class=3D"code-keyword">&gt;</span>
+ERROR HERE!
+<span class=3D"code-keyword">&lt;/</span><span class=3D"code-leadattribute"=
+>script</span><span class=3D"code-keyword">&gt;</span>
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+script</span><span class=3D"code-keyword">&gt;</span>
+alert(<span class=3D"code-string">"</span><span class=3D"code-string">Error=
+"</span>);
+<span class=3D"code-keyword">&lt;/</span><span class=3D"code-leadattribute"=
+>script</span><span class=3D"code-keyword">&gt;</span>
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+br</span><span class=3D"code-keyword">&gt;</span>OK NOW!
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-keyword">/</spa=
+n><span class=3D"code-leadattribute">BODY</span><span class=3D"code-keyword=
+">&gt;</span>
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-keyword">/</spa=
+n><span class=3D"code-leadattribute">HTML</span><span class=3D"code-keyword=
+">&gt;</span></pre>
+
+<p>It will force our <code>WebBrowser </code>to display an alert message an=
+d suspend <code>WebBrowser </code>until the alert box is closed. </p>
+
+<p>We want to close it from our code? No problem now. To do it, we create <=
+code>WindowInterceptor</code> instance and pass a window handler delegate t=
+o it: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" version=3D=
+"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"curren=
+tColor" style=3D"color: inherit; cursor: pointer; transition: color 0.1s li=
+near;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.8=
+64v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2.864,=
+1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 =
+c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.9=
+34,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.743-32=
+.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,3=
+2.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,=
+139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.5=
+8,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.=
+001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div></div>=
+</div><pre lang=3D"cs" style=3D"margin-top: 0px;"><span class=3D"code-comme=
+nt">//</span><span class=3D"code-comment">form with WebBrowser</span>
+Form1 form =3D <span class=3D"code-keyword">new</span> Form1();
+<span class=3D"code-comment">//</span><span class=3D"code-comment">Start in=
+tercepting all dialog boxes owned by form</span>
+WindowInterceptor d =3D <span class=3D"code-keyword">new</span> WindowInter=
+ceptor(form.Handle, ProcessWindow1);
+form.Show();
+form.Navigate(<span class=3D"code-string">"</span><span class=3D"code-strin=
+g">http://localhost/test1.htm"</span>);</pre>
+
+<p>This is the window handler that will close a dialog window: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" version=3D=
+"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"curren=
+tColor" style=3D"color: inherit; cursor: pointer; transition: color 0.1s li=
+near;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.8=
+64v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2.864,=
+1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 =
+c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.9=
+34,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.743-32=
+.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,3=
+2.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,=
+139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.5=
+8,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.=
+001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div></div>=
+</div><pre lang=3D"cs" style=3D"margin-top: 0px;"><span class=3D"code-keywo=
+rd">static</span> <span class=3D"code-keyword">void</span> ProcessWindow1(<=
+span class=3D"code-SDKkeyword">IntPtr</span> hwnd)
+{
+    <span class=3D"code-comment">//</span><span class=3D"code-comment">clos=
+e window</span>
+    Win32.Functions.SendMessage(hwnd, (<span class=3D"code-keyword">uint</s=
+pan>)Win32.Messages.WM_CLOSE, <span class=3D"code-digit">0</span>, <span cl=
+ass=3D"code-digit">0</span>);
+}</pre>
+
+<p>That=E2=80=99s all about how to shut up <code>WebBrowser </code>in a sim=
+ple and elegant manner. </p>
+
+<h3>Submit Dialog</h3>
+
+<p>Now let=E2=80=99s consider a more complex case: when you need to click a=
+ certain button in the intercepted window. For demo purposes, I created ano=
+ther HTML: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>ASP.NET</div><div style=3D=
+"align-items: center; display: flex; gap: 0.5rem; justify-content: space-be=
+tween; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" versi=
+on=3D"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"c=
+urrentColor" style=3D"color: inherit; cursor: pointer; transition: color 0.=
+1s linear;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864=
+,32.864v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2=
+.864,1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74=
+.729 c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,=
+425.934,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.7=
+43-32.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.12=
+2,0,32.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288=
+.339,139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c=
+0-1.58,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.2=
+73h0.001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div><=
+/div></div><pre lang=3D"aspnet" style=3D"margin-top: 0px;"><span class=3D"c=
+ode-keyword">&lt;</span><span class=3D"code-leadattribute">HTML</span><span=
+ class=3D"code-keyword">&gt;</span>
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+BODY</span><span class=3D"code-keyword">&gt;</span>
+
+HERE IS STUMBLING PAGE #2...
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-leadattribute">=
+script</span><span class=3D"code-keyword">&gt;</span>
+<span class=3D"code-keyword">if</span>(confirm(<span class=3D"code-string">=
+"</span><span class=3D"code-string">Do you really want to go here?"</span>)=
+)
+  navigate(<span class=3D"code-string">"</span><span class=3D"code-string">=
+http://www.google.com"</span>);
+<span class=3D"code-keyword">&lt;/</span><span class=3D"code-leadattribute"=
+>script</span><span class=3D"code-keyword">&gt;</span>
+
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-keyword">/</spa=
+n><span class=3D"code-leadattribute">BODY</span><span class=3D"code-keyword=
+">&gt;</span>
+<span class=3D"code-keyword">&lt;</span><span class=3D"code-keyword">/</spa=
+n><span class=3D"code-leadattribute">HTML</span><span class=3D"code-keyword=
+">&gt;</span></pre>
+
+<p>Assume we want to click =E2=80=9COK=E2=80=9D in this confirm dialog. The=
+ code below does it: </p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" version=3D=
+"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"curren=
+tColor" style=3D"color: inherit; cursor: pointer; transition: color 0.1s li=
+near;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.8=
+64v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2.864,=
+1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 =
+c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.9=
+34,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.743-32=
+.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,3=
+2.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,=
+139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.5=
+8,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.=
+001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div></div>=
+</div><pre lang=3D"cs" style=3D"margin-top: 0px;"><span class=3D"code-keywo=
+rd">static</span> <span class=3D"code-keyword">void</span> ProcessWindow2(<=
+span class=3D"code-SDKkeyword">IntPtr</span> hwnd)
+{
+    <span class=3D"code-comment">//</span><span class=3D"code-comment">look=
+ing for button "OK" within the intercepted window</span>
+    <span class=3D"code-SDKkeyword">IntPtr</span> h =3D
+        (<span class=3D"code-SDKkeyword">IntPtr</span>)Win32.Functions.Find=
+WindowEx(hwnd, <span class=3D"code-SDKkeyword">IntPtr</span>.Zero, <span cl=
+ass=3D"code-string">"</span><span class=3D"code-string">Button"</span>, <sp=
+an class=3D"code-string">"</span><span class=3D"code-string">OK"</span>);
+    <span class=3D"code-keyword">if</span> (h !=3D <span class=3D"code-SDKk=
+eyword">IntPtr</span>.Zero)
+    {
+        <span class=3D"code-comment">//</span><span class=3D"code-comment">=
+clicking the found button</span>
+        Win32.Functions.SendMessage
+                ((<span class=3D"code-SDKkeyword">IntPtr</span>)h, (<span c=
+lass=3D"code-keyword">uint</span>)Win32.Messages.WM_LBUTTONDOWN, <span clas=
+s=3D"code-digit">0</span>, <span class=3D"code-digit">0</span>);
+        Win32.Functions.SendMessage
+                ((<span class=3D"code-SDKkeyword">IntPtr</span>)h, (<span c=
+lass=3D"code-keyword">uint</span>)Win32.Messages.WM_LBUTTONUP, <span class=
+=3D"code-digit">0</span>, <span class=3D"code-digit">0</span>);
+    }
+}</pre>
+
+<h3>Fill Controls Within Dialog</h3>
+
+<p>If certain fields within a dialog need to be filled with data (say login=
+ and password), they can be set by Win32 function <code>SetWindowText</code=
+>. Handles of needed controls can be found in the same manner as we found t=
+he button =E2=80=9COK=E2=80=9D. <br>Some controls like dropdown box do not =
+have a text caption that could help us to find them. Instead of it, handles=
+ of such controls can be found by its class names passed to <code>FindWindo=
+wEx</code>. <br>But how do we find out their class names or captions that a=
+re hidden? To do it easily, use helpful tools like VS Spy++ or Winspector =
+=E2=80=93 they can display all information about controls hosted within a c=
+ertain window.</p>
+
+<p>This code looks for an edit box within an intercepted window and fills i=
+t with text:</p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><div style=3D"color: inherit; cursor: pointer; font-=
+size: 13px; transition: color 0.1s linear;">Shrink =E2=96=B2</div><svg xmln=
+s=3D"http://www.w3.org/2000/svg" version=3D"1.1" viewBox=3D"0 0 460 460" wi=
+dth=3D"16px" height=3D"16px" fill=3D"currentColor" style=3D"color: inherit;=
+ cursor: pointer; transition: color 0.1s linear;"><g><path d=3D"M425.934,0H=
+171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.28=
+5-2.864,2.864-2.864h254.272 c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58=
+-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-3=
+2.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d=3D"M288.33=
+9,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.25=
+7,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.8=
+63C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068 c-1=
+.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.27=
+2c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,=
+288.341,430z"></path></g></svg></div></div></div><pre lang=3D"cs" style=3D"=
+margin-top: 0px;"><span class=3D"code-keyword">static</span> <span class=3D=
+"code-keyword">void</span> ProcessWindow3(<span class=3D"code-SDKkeyword">I=
+ntPtr</span> hwnd)
+{
+    <span class=3D"code-comment">//</span><span class=3D"code-comment">look=
+ing for edit box control within intercepted window</span>
+    <span class=3D"code-SDKkeyword">IntPtr</span> h =3D
+        (<span class=3D"code-SDKkeyword">IntPtr</span>)Win32.Functions.Find=
+WindowEx(hwnd, <span class=3D"code-SDKkeyword">IntPtr</span>.Zero, <span cl=
+ass=3D"code-string">"</span><span class=3D"code-string">Edit"</span>, <span=
+ class=3D"code-keyword">null</span>);
+    <span class=3D"code-keyword">if</span> (h !=3D <span class=3D"code-SDKk=
+eyword">IntPtr</span>.Zero)
+    {
+        <span class=3D"code-comment">//</span><span class=3D"code-comment">=
+setting text</span>
+                Win32.Functions.SetWindowText((<span class=3D"code-SDKkeywo=
+rd">IntPtr</span>)h, <span class=3D"code-string">"</span><span class=3D"cod=
+e-string">qwerty"</span>);
+    }
+    <span class=3D"code-comment">//</span><span class=3D"code-comment">look=
+ing for button "OK" within the intercepted window</span>
+    <span class=3D"code-SDKkeyword">IntPtr</span> h =3D (<span class=3D"cod=
+e-SDKkeyword">IntPtr</span>)Win32.Functions.FindWindowEx(hwnd, <span class=
+=3D"code-SDKkeyword">IntPtr</span>.Zero, <span class=3D"code-string">"</spa=
+n><span class=3D"code-string">Button"</span>, <span class=3D"code-string">"=
+</span><span class=3D"code-string">OK"</span>);
+    <span class=3D"code-keyword">if</span> (h !=3D <span class=3D"code-SDKk=
+eyword">IntPtr</span>.Zero)
+    { <span class=3D"code-comment">//</span><span class=3D"code-comment">cl=
+icking the found button</span>
+        Win32.Functions.SendMessage
+            ((<span class=3D"code-SDKkeyword">IntPtr</span>)h, (<span class=
+=3D"code-keyword">uint</span>)Win32.Messages.WM_LBUTTONDOWN, <span class=3D=
+"code-digit">0</span>, <span class=3D"code-digit">0</span>);
+        Win32.Functions.SendMessage
+                ((<span class=3D"code-SDKkeyword">IntPtr</span>)h, (<span c=
+lass=3D"code-keyword">uint</span>)Win32.Messages.WM_LBUTTONUP, <span class=
+=3D"code-digit">0</span>, <span class=3D"code-digit">0</span>);
+    }
+    <span class=3D"code-keyword">else</span>
+    { <span class=3D"code-comment">//</span><span class=3D"code-comment">cl=
+ose window if OK was not found</span>
+        Win32.Functions.SendMessage(hwnd, (<span class=3D"code-keyword">uin=
+t</span>)Win32.Messages.WM_CLOSE, <span class=3D"code-digit">0</span>, <spa=
+n class=3D"code-digit">0</span>); }
+    }
+}</pre>
+
+<h2>Some Remarks</h2>
+
+<p>Sure, these samples are done for test purposes only. In real life, this =
+approach helped me to play around two tasks: making <code>WebBrowser</code>=
+ silent and submitting credential dialog that appears before logging into a=
+ site so that <code>WebBrowser</code> was quite automated. </p>
+
+<p>To be complete, the cases considered above could also be solved in other=
+ ways (any problem has more than one solution). Some of them can be solved =
+by embedding self-written JavaScript into a downloaded page. Some of them c=
+an be solved by changing Internet Explorer user settings in registry. Crede=
+ntial dialog can be avoided by setting credentials using Internet Explorer =
+API within our code, etc. But these ways are narrow and serve only special =
+cases while the considered solution does not depend on third-party software=
+ used and so allows writing a reliable and simple code. BTW, in view of <co=
+de>WebBrowser</code>, as far as I investigated this problem, even using Int=
+ernet Explorer API (a number of intricate interfaces) there is no way to su=
+ppress dialog boxes that the browser can throw in some cases. </p>
+
+<p>Moreover, the behaviour of a control may be different from version to ve=
+rsion. As a case of version incompatibility, you may draw attention to <cod=
+e>WebBrowser</code>=E2=80=99s property <code>Silent</code>. I suppose it wo=
+rked years ago in some Internet Explorer versions but seems not to be worki=
+ng under WinXP+SP2 with Internet Explorer 6. As a result, the app developed=
+ with confidence in this property may face a problem when Internet Explorer=
+ on the machine is upgraded. </p>
+
+<h2>Conclusion</h2>
+
+<p>The described solution can be successful when you have no civil way to s=
+ettle windows originated by third-party components. In addition, it may hav=
+e the following advantages before using the API of such components (if they=
+ have an API at all): </p>
+
+<ul>
+<li>It is simple</li>
+
+<li>It is reliable</li>
+
+<li>It does not depend on different versions of third-party software</li>
+
+<li>It keeps third-party software settings unchanged</li>
+</ul>
+
+<h2>Using the Code</h2>
+
+<p>In the attached code, you can find: </p>
+
+<ul>
+<li>The class <code>WindowInterceptor</code> that monitors appearing dialog=
+ windows and calls a custom delegate method. This class can be used as a DL=
+L from your code. </li>
+
+<li><code>Test</code> project with <code>WebBrowser</code> control</li>
+
+<li><em>test1.html</em> and <em>test2.html</em> with JavaScript. Do not for=
+get to place them to your <em>www</em> directory and specify their URL in t=
+he <code>Test</code> project. </li>
+</ul>
+
+<p>Be happy! </p>
+
+</div></div></div></template></div></div><div><div id=3D"div-gpt-ad-1738591=
+766860-0" style=3D"min-width:300px;min-height:600px" class=3D"mt-40 sticky =
+top-40"></div></div></div><!--$--><!--/$--><!--$--><!--/$--></main><footer =
+class=3D"custom-container flex flex-col gap-3 px-2"><div class=3D"mt-2 py-4=
+ min-h-36 bg-primary"></div><div class=3D"border-t-4 border-primary p-3 fle=
+x justify-between"><nav class=3D"flex-1"><ul><li><a href=3D"http://develope=
+rmedia.com/" rel=3D"nofollow noreferrer">Advertise</a></li><li><a href=3D"h=
+ttps://www.codeproject.com/info/privacy.aspx">Privacy</a></li><li><a href=
+=3D"https://www.codeproject.com/info/cookie.aspx">Cookies</a></li><li><a hr=
+ef=3D"https://www.codeproject.com/info/TermsOfUse.aspx">Terms of Use</a></l=
+i></ul></nav><div class=3D"flex-1"></div><div class=3D"flex-1 text-gray tex=
+t-sm text-right">Copyright =C2=A9 <a href=3D"mailto:webmaster@codeproject.c=
+om">CodeProject</a>, 1999-2025<br>All Rights Reserved.</div></div></footer>=
+<next-route-announcer style=3D"position: absolute;"><template shadowmode=3D=
+"open"><div aria-live=3D"assertive" id=3D"__next-route-announcer__" role=3D=
+"alert" style=3D"position: absolute; border: 0px; height: 1px; margin: -1px=
+; padding: 0px; width: 1px; clip: rect(0px, 0px, 0px, 0px); overflow: hidde=
+n; white-space: nowrap; overflow-wrap: normal;"></div></template></next-rou=
+te-announcer></body></html>
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://cloudfront.codeproject.com/dialog/windowinterceptor/error1.jpg
+
+/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAGKAksDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6++J3
+xPufh9qGh2Nno9rqL6hFGqKyRIQ/lxdWZGzkv1JrmLb4767eK7QeF9KnVCAxjvrNgpOcZwnfB/I1
+X/aB/wCR08B/78X/AKBb15V8BviVG+r3N9pVtZ3os4rK4uF07MTI80NyGiJmnYMUIUZBU8njivIx
+uIlh6V6UHObvZJN3t5LV6dEerhsHLEQnWckoQtdt2+LRfieqan+0NrGkW3n3PhawWLeIyY7i2kwx
+BIBCxkj7p/KswftVXB/5lq0/OH/4zXLfFrxBeeKfP1G5tXtImNpFGkssTscfaiTiN2wPmAycZIPp
+V/xN4d0vXfiRH4ZgdbCIyqzw22mwxBFEG87ZQdzE+hGAWzztGTLq9XFYWFbE03Tm73i001Ztap6r
+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
+A723lU4sfBvXPE37S93468XeAPAeq6LHZ2dhpWpXGoPeanpv2Se9niuoY5LEKkkrXMO5VmHl+TkP
+IQBXv9FAHivxK+GXiv4qfFfw5FrFjYQ/DTRftFzHcaZ4nvrDWDfPAscVyot4I2j8tWvIDGLna6XR
+duUVKyfA/wAEPEdjp3i7wNrVpYWPw9k1htZ8NahYeIbi/wBWsJ1uIbqKSUXNr+9kN4k16WmlmAeU
+RMssYr6AooA8U8R+Ffij8Q4tK8PeI9L8I2Wj2msabqU/iDTdWuXuJ/sN7DdqVsHtQsfnNbqhQ3T+
+UJCd8xTD8rbeDPjXZT/EK5XwP8M7268TaxDrlmNT8TXlxBYXMFlZwW7NH/ZimXZLYxzghoyCQAVK
+h6+laKAOf09PEOm6ULV1t9WuLaa2t4r69vBHLeW+2IT3Mwit1SObJnIijXYxRPmiEhEerZyXr3F8
+t3bwQwJMFtHhnaRpYvLQlpFKKI28wyLtBcbVVtwLFFt0UAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAV9QbZYXLbtuI2Oc4xx65GPzH1HWuI+5/s7fwxj/vnGNn+zjZ/Ds/cdvqDbLC5bdtxGxznG
+OPXIx+Y+o61xH3P9nb+GMf8AfOMbP9nGz+HZ+4iRcSvqK/6Bcrt6RsMY9B6Y/wBn0GNnRdn7j8jv
+2if+S3eMf+v9/wClfrjqK/6Bcrt6RsMY9B6Y/wBn0GNnRdn7j8jv2if+S3eMf+v9/wClKO4S2P2I
+8C/8fl//ANe1n/6JrsK4/wAC/wDH5f8A/XtZ/wDomuwpw2FLcKKKKskKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAr6g2ywuW3bcRsc5xjj1yMfmPqOtcR9z/Z2/hjH/fOMbP9nGz+HZ+47fUG2WFy27biNjnOMceu
+Rj8x9R1riPuf7O38MY/75xjZ/s42fw7P3ESLiV9RX/QLldvSNhjHoPTH+z6DGzouz9x+R37RP/Jb
+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
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FdownloadIcon.png&w=32&q=75
+
+UklGRpgBAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSGYAAAABYFTbtpIfgAAMCUIAAjC0H4I+
+RNEghHC/yDecYUQoCAgAEWfIyepRpB/DAIyfhpZhsHnMApmmFgO/WjvcigWAw64agIH5SMwHYj/U
+/rHkU2qRA5qUAtERQuANafIDFjjB6LDkqARWUDggDAEAAPAHAJ0BKiAAIAA+kTiXR6WjIiEwCACw
+EglsALEbgfkG9NthnAnBv952iL+n7oDdAP+35gHsAegB5Nf7W/Av5FoISM8+94/7wAD+tP//Fy//
+hyP//DA9+LD/v/wX/fHAh2ukkjzgE4Eb/d1AEjdPjCO7gfqB9Ixlv7gSb8l9/8kvtih+f8m00U4+
+AZxX4/TfklB0oA9LHxliQfZ6Eooncwv/SM5+mLP/KcysGOp3Rrnn/2jlNf/DY2+L3bmSi3zaBTPB
++phnTbjjljmPuaWP7xv+ASPtIY//nmK5+6DBj3AHybf58MgbuVbAX95h0HXkEzqP/7UBhB8zIii/
+v/rD1uaX4eWxjC5aB5gAAAA=
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FviewsIcon.png&w=32&q=75
+
+UklGRqYCAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSFgBAAABkEPb2rFHt3iL339s25opbaO0
+p7Rt27Zt27YR23zHwS0+5O/SRsQEoCndYt7Bp4W1mQ/X9rE4wmlWKsk/Xx9mSrJyoVej+hZS7u3h
+B4MFos3KUsqR+ixXKSdZIKa9rGXqVicYxlXyrEWH5SGv+gFhbynvXq1kZnPA7yYfemkYnnKvAMTT
+2o0WQMyrzbQA4iy/uqmt5FYAGMeVUJ3FrQAsL3lSpU3tR4PirjSoicxSAPDK5UDFw9okKOVLaJ6k
+GwDEyULF1z9xjnIqlIqB/GhRvJQGjdRSKHdynAIbeVAxjyvVxnGvYhyfChXxkgsFYHhbO08AYlJt
+rhOAcSwMg7pfJh8GAVFfWXr1Yi4zmwNue1kYBW2no6wcaoBh6cdapm51AoaW8mEYdA+UlAe7CBgs
+EG1WprJyFBobtLKUrMzMzMyUpDzqBwca+l79KEmmbuxggOOdvNDUBFZQOCAoAQAAMAkAnQEqIAAg
+AD6RPptJP6M/v6gKq/ASCWwAsSVBOA/lfFWadmQcID8AaID9Tf1u7AHoAfsB1gHoAeUf+yHwH/uP
+7AH7Af/8MJKNPwQmSBVS/AD+ze//4J3/9/rv//AqXtmobyRSYSyKf9Hnvir+/59mty78v5iHvdgO
+Ro35IpK7W0Pn//g1vMGKO1EJdc4Y2AzUTIZ/1rV6MYOMCZnSubdigUVNt6r3irxPIhf8i2hfWqFv
+VNBY85wyrDkvvUbP//4Tf/9+6P//ABeP/+La8x+6U04gtWraZPh2+Hx8Xj+ofl/jVx/VQpP+Mp64
+cssZmI/3WWgWs/kh7jkCB66C/yck4Pis/s/Sf97m3ppRVCVhlEdGmOGOu3UFudr+51PtAhQDRlLL
+AAA=
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FemptyStarIcon.png&w=48&q=75
+
+UklGRroBAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSLAAAAABdyAQSFLYH3iFiEgN4NjWpjB5
+cfd0XrqnSpXgUEHnsgS3zt2d6XBqt9Wwl5nMGiL6PwHISTuak1adE6fOa0TnokdncFMn92po1XCe
+mFutWCft0rcQQhiTQgjRV9qvVoNQqbb/mLlLoZzOAC9mqbRsAPpHpCcz8pkJkmmUt2YoOVWvBvBH
+VJsMhOlV9ZZ2b4ybCn/kwzJZf1M0ljPw8GyWVvYN4P+zS/9WgCmPVEM5B1ZQOCDkAAAAEAcAnQEq
+GAAYAD6RPJdHpaOiITAIALASCWwAuzlBfgGkEsDLAsQGGA/V30AP1V1gD0AP0A9Jv9lvgA8oAEuA
+AcAA/u9MP/0sP/xNP/+j3zkIXaELf+Kcqx6jXa2PFMMbbeHODTBQImlZkztNS2jCNlLM5/uz/hCr
+//x5ofz+hXeHqjcFCu/nJuphPixD9BP8o7PMjDlG1/gwKarmSWhtDLBfv4Y9Fdqmn/8PDP+L/uZf
+9PNLfEhb8JDTGmMsFA6r/opd/Q3cnMO5Xh6Aokb3aIfQYr25rsoy/kWUlpQ9f9grfIAA
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FstarIcon.png&w=48&q=75
+
+UklGRpoBAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSJUAAAABbyAQICxY8N+pISKSzIGbatuW
+5cFdClgBGrjtRPgD8HcgAhMzBWx3mdwdnjTv+38ZIvo/AZDZMAzbQZNF1OSSM3naJr+pCelyapI+
+px4ZFpvJePwnD+PxrlWmoQ8rpzyAj9Z3AbA0P+Ra5KEuRFS7ipT2Erb24/THqZIkgx1SsZgH7vSJ
+0dQFJP9hcQ4BQC8mGlC7AABWUDgg3gAAAFAHAJ0BKhgAGAA+kTqXR6WjIiEwCACwEglsALs5QX4B
+pBXIOEJMB4gMMB+uXoAfqBrAHoAfoB6TH7M/AB5QAJcAA4AA/u9MP/0sP/xNP/+j3zkIYiEJ4XeM
+qx6kvRA2E/uaeKrssGX7eUlsdpR6Qv8IVf/+PNDaecrePVF4J/fnk3UwkWIlUWXWYIBGgvcsf4MD
+2tpv++vYgv7+GA995/C/8PDP+L/9i0f6eaW+JC3YPNK+X69Fbhf+il39Dfyt6QbkeHoCg9vPeN3Q
+Yr25rsotHkWUjwqrmyn+9IAAAA==
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Flogo250x135.gif&w=640&q=75
+
+UklGRsATAABXRUJQVlA4ILQTAADwTwCdASr6AIcAPpE8mEiloyIhLDdMOLASCWxu3V4dpT+d68r2
+vivNyrH9//uP26+5/wl6m807nf/qf4L2pf1n/c/4D3K/n/2AP1b/Yf1zv1u9x/9t/5XqD/qH9T/Z
+f3h/8Z+rnua/v/+y/Yb4A/6R/j//t7YP+o9hb9zPYk/l3/D9NT95PhN/r3/c/b/2rv///4/cA///
+ATeTeyn/SeIvlZ9s6A2Nvr3zV/e/HZ/r/BXgF+0d13AF+i/3LwBtSDIA4G/0H2CP6F/mvRaz9PX3
+sM9JT94fZ3SN2TO6jxtnekCn+WjVUPz2d4n88wQ12m4kokPXVJuuqTddUnMFxZlk9BBUOOxd35Q9
+UEihUctkJQquWs1iT/PrsL/gGlKzhp6fnDeIF0ASQslrDtKwQRhGKUDgRaVMfMvF2dp6+Uc4GC33
+KqSV0Zm7HnUfoPlcLT5AkvMOqbgN3zZr8GaQ9c79LscKttG5X/p1OODALtmOggJ4Qv6zliNvp+rQ
+G3sTHn6aDOonsy9Cj/a11EZ+9WVl4bFpSVBV3wgKj/yRLdtkFe+QBKaHiwe9qlDgkspe2EJQgQwi
+leaeMLIRyJr+Wg+Fu1JOqiYmglPLq9uRUndiFgM3cS55EfeHhiYf2MCNXOtLeKOodX78SnB7TAi3
+U7C7NntMViOxruV5NOfOOGAt4afkjZpRgTfnBJHajwGKLNBjPCOoLRnbhFyq5lO4DsTP8q0uvDv4
+9jv5a6S4Crg4zcOh1GRZ4vLqatb6XiGtQYGXdTUikDJCxSbpvAn6tPhIFmFH72tgKCRvrNCyBB/B
+06Qu18zY9ZVlaZjlZVaO4E2ou1invt6ychANo1LErFPSJC4gmOMkb4AA/vv2AAAAD1zTI9xgTh9B
+Qy8/w59QRgqGBJHyME02kGMtxmzJ70np5OZgN/gW8m5+SD71dp3nIQ6NQscL6lblFcGXk5X0sH5N
+gqMTr7gvwPK5C5PKczf2jNX5+2VN78tIFoDpFJcX6l5vgm8iAYc7z+0MSTe/MUwHZ8D8npj0064Y
+gSMKNQGZGdCtdZRKeiy9uQHdxHp1MBe9FCQDNMTqs95ie25ZXQkG/jbm1nnb8ME5OATEqURwjN9E
+n+xnkOEt8ikcFx2m3fv6cx74Z2/rTYYp4thoCMoJzV3S8OSrKB9OMlhPZ+HLBmIfnjkmAH9NEG/d
+P1m7K0iUVb4ABg7h7/CJ4aeElniCaCxQ9q5LNExMr2XjurFJs8TbW5y6u46ZdEC/ggqNQWkxQGGP
+W9GlIgP+aaQXGbgewm3IgH+oUl2v8lYxJ10agdheACMSFddqZuOrQSGmvBc4QmCNaeel988Abg+u
+I3RdgwtXzUC+iqR0S9fU69qC027Xq2XjXf04d1wTYDbKIX5iD6r6pWMgL1eGzIBTkr5au4/0GLvj
+Q2ko2P17MjAyUdmGMRLIh20v/Ru8pPOmAHKk+Kho2OcCL2ONnvzK0tQz0454r70Nt+Ul8LUWSlNp
+3FayuUlejG8/VIloddnjD0rkE0C/wzWb+U0LqNLXi9qFubpDwhbc1uZiv8YAlXDn+KKjxYg+5Knk
+yHeTw20j6A7lwMNrheabnUHuO1T3cP/6nc8XfEIkOuz30FMQ8rPQziHUEm2JwVJ1AROe8r6eZ+ud
+nIzphK9o+CAPjYuFhD5vku7RoK8biwl7N572Z74mhScfsju7q+3Dm1bBlfR7gUiAeLlVUkOcS/w1
+UnF7/Uf9EO2Rym9gum0bXH5FNqoV+KbB6EfzEAaKUn2XuSHHKnnJVcM7gjHhBrfktcVr4jDHtwe1
+INduBJuYJsuFNeTsftv7rNfiRRfkd7AyGsPN+cZmHsIqjcuA+LMCOo1hA7O6odwSPUkH/OniGADo
+NE0vX+reakcU9C2d9F+62/6o850uFTy/zcD6K1cKDq2Hac7HDyM5pz8M1tndrG/EiDynps8Q9Bm7
+zQ19YeqGQ4TLPlYaWEfI9IjL+c458zi69JTrp7+SaD0JXrKlBT8yjJyn8c1ZldcnQ9asmmXGA2jV
+cVsWZi1gs1Il2iJzwQm+QApudbl/5b8gYnyqzUjX36YJGp8+e3Y25zeb5WaOVcEqBZM0ngPi7svz
+9IYJmEYrgXztyCSBpoD3KpujfBJVPszogV9AR/4Yj8GcCLBc1IRxb13UiDIZAoaIf5Rre1j5AgMa
+yho+l6xXBi3/8Sur0M5gY8V/qMCApfkauCz1JE5kyxBL/MjiwqFajEISGtfkXnMbky+LxGk4YNRG
+In+IX4scWotZRy26f6DnYknZ9U352m2y5dY8+qKrOAZBx3pnf3a+uqc787VKD8SZHEBaEQVvN/i9
+6N5cdULJgxQn4xYwuojIxYpwElKtW5xn5seDl0FpYM6e1fmA/qsv2Oq/z0UFRCSbR76iNiuvCHRI
+99CHrnTLLvxyF70ZP7VnaeKAyWbUDk/2U7lifA6dBRwAAXhAldvuvOnoV2MbWeWKsMnd0M8hjWZM
+U4YqURLAf4fa4fLLqrHPn7nN4R0rXcAHfXdbYTPq2H1+9mSBIeCJnSzS9uaD2EHKM7xmCX0sbF3j
+oGnzbmgwkvmaaVau4MReXbF1InlSS8UGhu2DKJDMyOAfTWPxZhPVnjm2EqaUmAc840uKz86EbeKi
+3YQvihs6ZHad8PiVcjcyrDMT/Z92TwH4M6SCNcAhoFJXW0SN9LZBxFrvf7BQJVLpa5evWMu7tMYI
+ir63S2FL9zwOEGTpYelFxZDKOfeaNb12J4ksmsC6A5SPDIa/eSLmH/m+dy8ar0VABOcn6+bbqV+m
+5GhLb0ISmYMw66DBpwfzCwqm3P6D6jpXr4ykcPngIyJwsspnUNZv4H7a5t/0YVRw86eA6oikXuUT
+d45CwrghyDJr5fgFx5xGX6IutqQ/VfXliUnaJQFbZK06JMx824kCjRWdnC3XR/6ciRYKre4V/I/a
+gNKLUZmZdc4H8k5v2Qk+wf6v4Mf3Gom/3/vluahSgzPPKixpLP3330dUlL+vZfXJL0qcMqpuLuZi
+/+IMTTraxNq4QUD9Sp3C4aViZ7lA/4/8GRAWQ3A1iIe3nMiaU7FF7UduC5arJqchJhkuxE+1Bb99
+PPfUc9C8/WSHPKbVl+RvUeV2tx4TDLsJEVfrsmPRrEy9yC7ZkqVE5czn+F67wUqnu0Wu3/C87QLv
+XQh3Oa8A8N5b3khOmxpl1jqy0DL/AgUiFIOTTn1A9nMQdnmEEIvuODEDEiZmd6d1lL1REqS2dY7o
+Bv5fQbXLMWq31udyEPDQ6cxshPobSYKC+gKDPiQx2J8Uij2aJTSMbrZGCVglu/9aGVrZqf5NVWj8
+LkgJznJoptiRFyikWYcsebf3kkerMeOsSj0asiYYGIS2Ivlhf1GT0UYcFu4yDFWYjRXPEwo/a1N+
++0JF6P/PN/8RFePyYVTa0LiQBuc5P/sUadXiTy0LVlr8LHiHp98t9drUu32qV7Y21Tm2JlN4Rj6b
+tZAh0Cfa38srbtjjmRwoHmFlLr/qjvfqcUCIvXdEQ5sLyjYBgxVmYfvo04E/W33xkudVqTWEypNC
+BIi/1bq9AexxjPDBN/nC8vHH+JfhjnF63mqZ0eREpeNvCCkKnw6Vq/07mFLGJGlfmC+He3ZDM/Ux
+OYoCK9dIj/Y2yV5kqIfDKW8YF53n1Ne/jFcl6E7M4cqSKKcRXVSYLIUX13SD2LT8zPEw7eiWzx2i
+vM7yHcTxFRyIWSy9/77EjNOxaWoj3vvF3MkL6Wxj7bIrXjuJvclPiLq8K3dBAKVQmckF3BiV/+L/
+aZ5uvwZDLZyptIFPyzA5/HIchvpKVX8aRz+eAnurgGrWMeaePgxA/uMe5J3IUQHXlB7Alb9HLAsL
+ts0WWHHERCvtIkHHyxlvkbhg9w2rQ6/pfOTsa0c7JYXsKc2lntS3DfopqRBNOBJ8e0ReL0cxvPzx
+xQR1ymmR0OjjxRRZffnYAGRrCB5RScNi/1T7TZrJIzYLW7RXj6O2wiutmm/tn4YsVllfvhbNrnI6
+ZR+7CfmvgHD+O0FhH7mlihXpFhcgzD//y6HD15/gNSKY0yseNUeY09GtiD1cFA3dcBLonoYTuNz0
+d+4BPNrqx8Zq2pV6GF55scRGXkUZVmNDotarYnLTcxpWUGrU75/BPu6LuVeg+Z2X+mRj0BgB+jo6
+VqA5M3Z98Gud1VOHe5NHvKmKX96i/uSLPjef7glV4Fw8JxlzenrybBAgGNhuQrAd1O9emZXLc9QX
+urhu6PeKu0CXQ+d/l+ZOcB3Kk1DZQcsxkZvfv3DZ/hN5d6ZlS9Idg0yZS3XGGokArW60ZnFTvfrl
+rtqXqLvesxixy5at3jdeuF+GQPS90KFoTFVNPX4s0OJ0Bl3yIdidr58pIzg1w9AjVNMAwvmfuSez
+4JSYfSAbwygKMqV/fpRNkWT1r7/Z7gxLR5Jj/8xvMiviIrp2mHFZX+x0UkH4YlPiktkoeRhFOuTa
+za+C4dAXhyErEqkI40A0xlDMYA32lfbcOJL+rnZWeq6WJ7WWOub7kBeQeXfC64zO+azf3fhNVccD
+S8ysoLeNKRMKxNoM4uYCC85Um7QLfivwPM8SWgLq2b44vr4RjcaFDM56FD9yNiuvfW+SGvAS6nkZ
+Wl6xXzg2cB7A/DvDDG/770CChmcHl9t6l9dTY7tIfX6xNhFgzD/MxJqr8lXQlSU+pfNM85UTMUKL
+LwR0QmO+7zBjtGcMq4a/Vajnv7CRSLAZsZM4pW6G/w/dt8xZ2Fvk7bIL6mNq0uK+Tamjcuyu2uH1
+eVq8x9aFBab0YSGuHcgP+zIfqlIIy4dkeLgba/7fpT1RXiUSzLy7BnCHO7rtgPrWs8/vL0ArIZpV
+WIHcB7bLbhbDRRVjoujUpITSff8MkFxcDX05b28qQuY53szXFCcaxTwJ5druRbeQM7H7tGMabP4+
+6I2xVmiBa+cdO50QurmJFwYe/Qmz7fNHGq4l8ng6PpfA/w+bNSPhvHLTkVAiFUUiZ7KjCmzBWziS
+keM5u9eY12M/gKZmIFjTXXMbBHXbHqIjo3SsQl35o0sRE4B6QUCiDFTSLzwH++jXzY8nyojnJcHC
+s+iSlqlG30v1IeOP0Q0heVBfNguwn2a8qT6UZ8W347skBTGZaXJAfOzSHFjiftDCM8aDiM5yJ2yG
++k1wx/IWOnnJi6yDznn1xwPoB9OTO50K53qsAOJoVeKo2M6WdD9yMV95hv2/rxiOeDMzSh4v1BDX
+gSvP9bg1InSGKu2Fqr5E0gkFb6mckavg/P9CQ6vaNH4vz0BOZgQfNw0MFHTKHaQaAaRTWPTTXlPU
+aT6gCQFJMWeFGnzGx9Bt08CGUY6WG4RS+N/iNQkQ85e0dAmaTPbplqNYgjFT2QT3gmCJLv3uqHUA
+4nxWpv53rposjkCUxv65+c/UeyKbiuAzTxhXQTe2krRKx9IbSxa+GIdYz36vGbAct4dFl7dPG4Uc
+nUqyxWl+BG7VVredwSxn1tFmmS+P3YXuMjpPuHhhmDMhGvjI1y1v7IRyX1af0YNjcAAWKlKHIcNe
+ZuVTK1dNRxJBKrfH1cJ4zH6UBG+nguuQoOTOOJEdJGeSzDzyN41lcjymrFyvt7wC7JT7gCwJjh2d
+Y320ORx+flOoGl7gXPuO6Amkh238fZQwg0BxJx0pUcRCgacu2lq8+rczmgtjnlpIzXrSMb/w6hMe
+hK39pz1aMgbSQsIDcn2gVgcmcL2MRVeHJ47A621m48BK8VRXhkYgyzqQHjyAN6AA/9FhIIHFlDzZ
+ULSW9VE4/My9oB238WEscAZulo7KqE0CCLDiJ74ZYbWVN+lnv4LQh5ubBA0uBXNLb3blyPXPhHSQ
+c62JEyX/v+P8JceRZKPeUk4AHTDsN8wnuNKGaVlvi/2opw8eprYqlErj7dBlVJyDAsCHY3YNFh5F
+FSo51kMc3kjw0jbr5h3u0Yp9tm969qcM4NzE3/blh9IIMBqt0nWmugmFytwZAJRTB3UwOzzxtRsN
++wh/g/Lts+0Omkir2WWYx/fZecWzdkg20oEDc+scnxTqe4svfi0+G0529mwZ3MkEcTmNuJUOSkYk
+wMW9iINkAIiaoa2hVO6N6H/U8wMqzfTssPiyYhPO4jpaJmDeRC+p1TqPOw9ZGUueWxtRcdF1+XeV
+ORLREeMKd+5Ko+7OeOkgYR85nm9ygxSp5VXv/tK3PeNXWjoLO5gx6BZ1mOzoq6s5Q4EJYz+ajZBI
+izDB+SqxzSUxnIfbG6pfRymIF6nLfEQE2PDDjiJ6adikBBNeBMtX0l4pRIHznK82Am95tnzGNa4V
+27DUYUmpbYFhlvHdEDfz00W6NylBcQ+pn2CDnAnyXq679M3OfqPuygQ/u/xqAMT5RRh1iUjlmKHy
+5radZK7VSqtQAVTmQ+iD52DvKiGYMQbEUKCvKCdb/JxEQ3dRvHk4oAwoAbXVg74g79wzzHsHzVQ0
+pmaz7fpiUxn6dYAc5CJlbPoVQiEt7QOLhO25Rx68H2sl+z4J8OchP/d5ET/fM+xZT5WAbzyer5Iu
+7A9kebgiYR+njixIBoySVDXzBDAX4WzyFwN5o7YdfDlWdEVwgLvdg310afQhP9zvsNbD8ijJTp82
+UiVbjstUuS4/uuwfAeO8ORyXvKILzebjyTxLO86WEN9ElWTixBll+PHL7dGZIPCgAdnJjh4TgPyz
+48fDiaQkBA9dvzdjeqjbSuSAgPn/flMz7vckkAIzofuAZGnMR/v78hHYQAAAAAAA
+
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codeproject.com/_next/static/css/f00fbee724adea66.css
+
+@charset "utf-8";
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/b55e164a6e=
+7ce445-s.p.ttf") format("truetype"); font-display: swap; font-weight: 400; =
+font-style: normal; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/f7794ce324=
+83498f-s.p.ttf") format("truetype"); font-display: swap; font-weight: 400; =
+font-style: italic; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/945b7384c5=
+256ec3-s.p.ttf") format("truetype"); font-display: swap; font-weight: 700; =
+font-style: normal; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/e337cf18f0=
+f81cb9-s.p.ttf") format("truetype"); font-display: swap; font-weight: 700; =
+font-style: italic; }
+
+@font-face { font-family: "segoeUI Fallback"; src: local("Arial"); ascent-o=
+verride: 108.25%; descent-override: 25.18%; line-gap-override: 0%; size-adj=
+ust: 99.69%; }
+
+.__className_2277ee { font-family: segoeUI, "segoeUI Fallback", Arial, sans=
+-serif; }
+
+*, ::after, ::before { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
+--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
+-tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: =
+; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-=
+from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ;=
+ --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-s=
+pacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-widt=
+h: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246/0.5);=
+ --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shad=
+ow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness=
+: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --=
+tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw=
+-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: =
+; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity=
+: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; -=
+-tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
+late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
+: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pin=
+ch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-posit=
+ion: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordi=
+nal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; =
+--tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --=
+tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246/0.5); --tw-ring=
+-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0=
+000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-c=
+ontrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturat=
+e: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-=
+brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-bac=
+kdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-b=
+ackdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contai=
+n-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+*, ::after, ::before { box-sizing: border-box; border: 0px solid; }
+
+::after, ::before { --tw-content: ""; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-f=
+amily: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI=
+ Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-settings: norm=
+al; font-variation-settings: normal; -webkit-tap-highlight-color: transpare=
+nt; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-variation-settings: normal; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-feat=
+ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden]:where(:not([hidden=3D"until-found"])) { display: none; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.sticky { position: sticky; }
+
+.\!-bottom-4 { bottom: -1rem !important; }
+
+.-top-\[1px\] { top: -1px; }
+
+.-top-\[31px\] { top: -31px; }
+
+.bottom-0 { bottom: 0px; }
+
+.left-0 { left: 0px; }
+
+.right-0 { right: 0px; }
+
+.right-1 { right: 0.25rem; }
+
+.right-3 { right: 0.75rem; }
+
+.top-0 { top: 0px; }
+
+.top-1\/2 { top: 50%; }
+
+.top-3 { top: 0.75rem; }
+
+.top-40 { top: 10rem; }
+
+.z-10 { z-index: 10; }
+
+.my-3 { margin-top: 0.75rem; margin-bottom: 0.75rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.mb-9 { margin-bottom: 2.25rem; }
+
+.mt-10 { margin-top: 2.5rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.mt-3 { margin-top: 0.75rem; }
+
+.mt-40 { margin-top: 10rem; }
+
+.box-border { box-sizing: border-box; }
+
+.block { display: block; }
+
+.flex { display: flex; }
+
+.grid { display: grid; }
+
+.hidden { display: none; }
+
+.h-4 { height: 1rem; }
+
+.h-\[300px\] { height: 300px; }
+
+.h-\[90px\] { height: 90px; }
+
+.h-\[94px\] { height: 94px; }
+
+.h-full { height: 100%; }
+
+.max-h-\[500px\] { max-height: 500px; }
+
+.min-h-36 { min-height: 9rem; }
+
+.w-4 { width: 1rem; }
+
+.w-\[224px\] { width: 224px; }
+
+.w-\[240px\] { width: 240px; }
+
+.w-\[948px\] { width: 948px; }
+
+.w-\[calc\(100\%-300px\)\] { width: calc(100% - 300px); }
+
+.w-full { width: 100%; }
+
+.min-w-\[70px\] { min-width: 70px; }
+
+.min-w-full { min-width: 100%; }
+
+.max-w-\[60\%\] { max-width: 60%; }
+
+.max-w-\[600px\] { max-width: 600px; }
+
+.max-w-full { max-width: 100%; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.-translate-y-1\/2 { --tw-translate-y: -50%; }
+
+.-translate-y-1\/2, .translate-x-0 { transform: translate(var(--tw-translat=
+e-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)=
+) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y=
+)); }
+
+.translate-x-0 { --tw-translate-x: 0px; }
+
+.translate-x-\[300px\] { --tw-translate-x: 300px; }
+
+.translate-x-\[300px\], .translate-x-full { transform: translate(var(--tw-t=
+ranslate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-=
+skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-=
+scale-y)); }
+
+.translate-x-full { --tw-translate-x: 100%; }
+
+.translate-y-\[2px\] { --tw-translate-y: 2px; }
+
+.translate-y-\[2px\], .translate-y-full { transform: translate(var(--tw-tra=
+nslate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-sk=
+ew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-sc=
+ale-y)); }
+
+.translate-y-full { --tw-translate-y: 100%; }
+
+.transform { transform: translate(var(--tw-translate-x),var(--tw-translate-=
+y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)=
+) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.cursor-pointer { cursor: pointer; }
+
+.list-inside { list-style-position: inside; }
+
+.list-disc { list-style-type: disc; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.flex-col { flex-direction: column; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.items-start { align-items: flex-start; }
+
+.items-center { align-items: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-1 { gap: 0.25rem; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-3 { gap: 0.75rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-8 { gap: 2rem; }
+
+.overflow-hidden { overflow: hidden; }
+
+.whitespace-nowrap { white-space: nowrap; }
+
+.rounded-l-full { border-top-left-radius: 9999px; border-bottom-left-radius=
+: 9999px; }
+
+.rounded-l-xl { border-top-left-radius: 0.75rem; border-bottom-left-radius:=
+ 0.75rem; }
+
+.border { border-width: 1px; }
+
+.border-b { border-bottom-width: 1px; }
+
+.border-b-4 { border-bottom-width: 4px; }
+
+.border-t-4 { border-top-width: 4px; }
+
+.border-border-gray { border-color: var(--border); }
+
+.border-border-yellow { border-color: var(--border-yellow); }
+
+.border-primary { border-color: var(--primary); }
+
+.border-transparent { border-color: transparent; }
+
+.border-b-primary { border-bottom-color: var(--primary); }
+
+.bg-black\/20 { background-color: rgba(0, 0, 0, 0.2); }
+
+.bg-black\/40 { background-color: rgba(0, 0, 0, 0.4); }
+
+.bg-blue-dark { background-color: var(--blue-dark); }
+
+.bg-gray-lightest { background-color: var(--gray-lightest); }
+
+.bg-primary { background-color: var(--primary); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-=
+bg-opacity,1)); }
+
+.object-cover { object-fit: cover; }
+
+.object-center { object-position: center center; }
+
+.object-left { object-position: left center; }
+
+.object-right { object-position: right center; }
+
+.p-2 { padding: 0.5rem; }
+
+.p-3 { padding: 0.75rem; }
+
+.px-1 { padding-left: 0.25rem; padding-right: 0.25rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+
+.py-0\.5 { padding-top: 0.125rem; padding-bottom: 0.125rem; }
+
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+.py-10 { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+
+.py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+
+.pb-1 { padding-bottom: 0.25rem; }
+
+.pb-2 { padding-bottom: 0.5rem; }
+
+.pb-4 { padding-bottom: 1rem; }
+
+.pb-5 { padding-bottom: 1.25rem; }
+
+.pb-6 { padding-bottom: 1.5rem; }
+
+.pl-0\.5 { padding-left: 0.125rem; }
+
+.pl-3 { padding-left: 0.75rem; }
+
+.pr-1 { padding-right: 0.25rem; }
+
+.pt-16 { padding-top: 4rem; }
+
+.pt-2 { padding-top: 0.5rem; }
+
+.pt-4 { padding-top: 1rem; }
+
+.pt-6 { padding-top: 1.5rem; }
+
+.text-center { text-align: center; }
+
+.text-right { text-align: right; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+
+.text-\[13px\] { font-size: 13px; }
+
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-bold { font-weight: 700; }
+
+.italic { font-style: italic; }
+
+.leading-normal { line-height: 1.5; }
+
+.\!text-gray-light { color: var(--gray-light) !important; }
+
+.\!text-gray-lightest { color: var(--gray-lightest) !important; }
+
+.\!text-inherit { color: inherit !important; }
+
+.\!text-white { --tw-text-opacity: 1 !important; color: rgb(255 255 255/var=
+(--tw-text-opacity,1)) !important; }
+
+.text-gray { color: var(--gray); }
+
+.text-gray-light { color: var(--gray-light); }
+
+.text-gray-lightest { color: var(--gray-lightest); }
+
+.text-inherit { color: inherit; }
+
+.text-primary { color: var(--primary); }
+
+.text-text-gray { color: var(--text-gray); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-op=
+acity,1)); }
+
+.shadow { --tw-shadow: 0 1px 3px 0 rgb(0 0 0/0.1),0 1px 2px -1px rgb(0 0 0/=
+0.1); --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1p=
+x var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow,0 0 #0000=
+),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+.filter { filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) va=
+r(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) =
+var(--tw-sepia) var(--tw-drop-shadow); }
+
+.transition { transition-property: color, background-color, border-color, t=
+ext-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,=
+ backdrop-filter; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);=
+ transition-duration: 0.15s; }
+
+:root { --primary: #f90; --text: #111; --text-gray: #333; --link: #005782; =
+--link-visited: #800080; --gray-lightest: #808080; --gray-light: #666; --gr=
+ay: #999; --gray-dark: #4d4d4d; --border: #cccccc; --border-yellow: #fbedbb=
+; --blue-dark: #3a4140; --green-light: #b7ddca; --yellow-light: #fff8df; }
+
+::selection { background-color: var(--primary); color: rgb(255, 255, 255); =
+text-shadow: none; }
+
+body, dd, dt, h1, h2, h3, h4, h5, h6, li, p, td, th, tr { color: var(--text=
+); line-height: 1.4; font-size: 16px; }
+
+a:visited { color: var(--link-visited); }
+
+a { text-decoration: none; color: var(--link); }
+
+img, video { max-width: none; }
+
+.custom-container { max-width: 1280px; margin: 0px auto; }
+
+.visited\:text-gray-light:visited { color: var(--gray-light); }
+
+.hover\:bg-primary:hover { background-color: var(--primary); }
+
+.hover\:bg-yellow-light:hover { background-color: var(--yellow-light); }
+
+.hover\:text-white:hover { --tw-text-opacity: 1; color: rgb(255 255 255/var=
+(--tw-text-opacity,1)); }
+
+.hover\:underline:hover { text-decoration-line: underline; }
+
+@media (min-width: 768px) {
+  .md\:relative { position: relative; }
+  .md\:right-0 { right: 0px; }
+  .md\:top-0 { top: 0px; }
+  .md\:ml-20 { margin-left: 5rem; }
+  .md\:mt-0 { margin-top: 0px; }
+  .md\:block { display: block; }
+  .md\:hidden { display: none; }
+  .md\:h-\[320px\] { height: 320px; }
+  .md\:w-\[400px\] { width: 400px; }
+  .md\:w-full { width: 100%; }
+  .md\:max-w-\[300px\] { max-width: 300px; }
+  .md\:max-w-full { max-width: 100%; }
+  .md\:flex-1 { flex: 1 1 0%; }
+  .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .md\:flex-row { flex-direction: row; }
+  .md\:rounded-md { border-radius: 0.375rem; }
+  .md\:bg-transparent { background-color: transparent; }
+  .md\:bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var=
+(--tw-bg-opacity,1)); }
+  .md\:p-4 { padding: 1rem; }
+  .md\:px-0 { padding-left: 0px; padding-right: 0px; }
+  .md\:px-8 { padding-left: 2rem; padding-right: 2rem; }
+  .md\:pt-24 { padding-top: 6rem; }
+  .md\:text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+  .md\:drop-shadow-lg { --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0/=
+0.04)) drop-shadow(0 4px 3px rgb(0 0 0/0.1)); filter: var(--tw-blur) var(--=
+tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) =
+var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); =
+}
+}
+
+@media (min-width: 1024px) {
+  .lg\:h-\[360px\] { height: 360px; }
+  .lg\:min-w-\[calc\(1280px-300px-16px\)\] { min-width: calc(964px); }
+  .lg\:max-w-\[360px\] { max-width: 360px; }
+  .lg\:pt-28 { padding-top: 7rem; }
+  .lg\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+}
+------MultipartBoundary--oWLQd7C8K0FtcJSl6X9juSl1wNYVM8MnsUvZYWf5EL------

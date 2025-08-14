@@ -1,0 +1,1526 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.codeproject.com/Articles/29923/Assigning-an-application-s-icon-to-all-forms-in-th
+Subject: =?utf-8?Q?Assigning=20an=20application=E2=80=99s=20icon=20to=20all=20form?=
+ =?utf-8?Q?s=20in=20the=20application=20-=20CodeProject?=
+Date: Thu, 14 Aug 2025 22:14:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----"
+
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: text/html
+Content-ID: <frame-747B793C652D922BF84B2AD2E3D40F11@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codeproject.com/Articles/29923/Assigning-an-application-s-icon-to-all-forms-in-th
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=3D"wid=
+th=3Ddevice-width, initial-scale=3D1"><link rel=3D"preload" as=3D"image" im=
+agesrcset=3D"/_next/image?url=3D%2Flogo250x135.gif&amp;w=3D256&amp;q=3D75 1=
+x, /_next/image?url=3D%2Flogo250x135.gif&amp;w=3D640&amp;q=3D75 2x"><link r=
+el=3D"stylesheet" href=3D"https://www.codeproject.com/_next/static/css/f00f=
+bee724adea66.css" data-precedence=3D"next"><link rel=3D"preload" as=3D"scri=
+pt" fetchpriority=3D"low" href=3D"https://www.codeproject.com/_next/static/=
+chunks/webpack-5ed466aeca77ac7a.js"><link rel=3D"preload" href=3D"https://w=
+ww.googletagmanager.com/gtag/js?id=3DG-VW6LK9H6PP" as=3D"script"><meta name=
+=3D"next-size-adjust" content=3D""><link rel=3D"apple-touch-icon" sizes=3D"=
+144x144" href=3D"https://www.codeproject.com/favicon/apple-touch-icon.png">=
+<link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" href=3D"https://www.c=
+odeproject.com/favicon/favicon-32x32.png"><link rel=3D"icon" type=3D"image/=
+png" sizes=3D"16x16" href=3D"https://www.codeproject.com/favicon/favicon-16=
+x16.png"><link rel=3D"manifest" href=3D"https://www.codeproject.com/favicon=
+/manifest.json"><link rel=3D"mask-icon" href=3D"https://www.codeproject.com=
+/favicon/safari-pinned-tab.svg" color=3D"#ff9900"><meta property=3D"og:titl=
+e" content=3D"CodeProject"><meta property=3D"og:image" content=3D"https://w=
+ww.codeproject.com/favicon/mstile-150x150.png"><meta property=3D"og:descrip=
+tion" content=3D"For those who code"><meta property=3D"og:url" content=3D"h=
+ttps://www.codeproject.com"><title>Assigning an application=E2=80=99s icon =
+to all forms in the application - CodeProject</title><link rel=3D"manifest"=
+ href=3D"https://www.codeproject.com/manifest.json"><link rel=3D"preload" h=
+ref=3D"https://www.codeproject.com/_next/static/media/945b7384c5256ec3-s.p.=
+ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><link rel=3D"preload" h=
+ref=3D"https://www.codeproject.com/_next/static/media/b55e164a6e7ce445-s.p.=
+ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><link rel=3D"preload" h=
+ref=3D"https://www.codeproject.com/_next/static/media/e337cf18f0f81cb9-s.p.=
+ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"><link rel=3D"preload" h=
+ref=3D"https://www.codeproject.com/_next/static/media/f7794ce32483498f-s.p.=
+ttf" as=3D"font" crossorigin=3D"" type=3D"font/ttf"></head><body class=3D"_=
+_className_2277ee"><header><div class=3D"custom-container gap-2 py-1 text-g=
+ray-light flex justify-between whitespace-nowrap z-10 relative px-1 md:px-0=
+"><div class=3D"flex-1 md:ml-20"><span class=3D"hidden md:block">65.938<!--=
+ --> articles</span><span class=3D"block md:hidden">65.9<!-- -->K</span></d=
+iv><div class=3D"flex-1"></div><div class=3D"flex-1"></div><div class=3D"fl=
+ex-1"></div></div><div class=3D"mb-2 mt-2 md:mt-0"><div class=3D"h-[94px] b=
+g-primary"><div class=3D"custom-container relative h-full"><a href=3D"https=
+://www.codeproject.com/"><img alt=3D"Home" width=3D"250" height=3D"135" dec=
+oding=3D"async" data-nimg=3D"1" class=3D"absolute -top-[31px]" style=3D"col=
+or:transparent" src=3D"https://www.codeproject.com/_next/image?url=3D%2Flog=
+o250x135.gif&amp;w=3D640&amp;q=3D75"></a><div class=3D"w-[calc(100%-300px)]=
+ translate-x-[300px] translate-y-[2px] h-[90px] relative overflow-hidden"><=
+div id=3D"div-gpt-ad-1738591571151-0" style=3D"min-width:728px;min-height:9=
+0px" class=3D"absolute top-0 left-0"></div></div></div></div></div><nav cla=
+ss=3D"custom-container py-1 px-2 whitespace-nowrap"><ul class=3D"flex gap-2=
+ border-b border-border-gray"><li class=3D"relative leading-normal hidden m=
+d:block"><a class=3D"block py-0.5 px-2 font-bold cursor-pointer !text-gray-=
+light border border-transparent" href=3D"https://www.codeproject.com/">home=
+</a></li><li class=3D"relative leading-normal"><a class=3D"block py-0.5 px-=
+2 font-bold cursor-pointer !text-gray-light border border-transparent" href=
+=3D"https://www.codeproject.com/script/Articles/Latest.aspx">articles</a><u=
+l class=3D"absolute border border-border-gray bg-white border-b-4 border-b-=
+primary pb-2 z-10 hidden bottom-0 left-0 translate-y-full translate-x-0"><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a clas=
+s=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproj=
+ect.com/script/Content/SiteMap.aspx">Browse topics<span class=3D"absolute t=
+op-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute borde=
+r border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden =
+-top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DAI">Artificial Intelligence<span class=3D"absolute top-1/2 right-1 -tran=
+slate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-border-gray=
+ bg-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 t=
+ranslate-x-full"><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3DAutomation">Autom=
+ation</a></li><li class=3D"cursor-pointer block relative leading-normal box=
+-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"http=
+s://www.codeproject.com/script/Content/Tag.aspx?tags=3Dbig-data">big-data</=
+a></li><li class=3D"cursor-pointer block relative leading-normal box-border=
+"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www=
+.codeproject.com/script/Content/Tag.aspx?tags=3Dmachine-learning">machine-l=
+earning</a></li></ul></li><li class=3D"cursor-pointer block relative leadin=
+g-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" =
+href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DContaine=
+rs">Containers<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt=
+;</span></a><ul class=3D"absolute border border-border-gray bg-white border=
+-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"=
+><li class=3D"cursor-pointer block relative leading-normal box-border"><a c=
+lass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codep=
+roject.com/script/Content/Tag.aspx?tags=3Ddocker">docker</a></li><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3Dvirtual-machine">virtual-machine</a></li></=
+ul></li><li class=3D"cursor-pointer block relative leading-normal box-borde=
+r"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://ww=
+w.codeproject.com/script/Content/Tag.aspx?tags=3Ddatabase">Database Develop=
+ment<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></=
+a><ul class=3D"absolute border border-border-gray bg-white border-b-4 borde=
+r-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=
+=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"py=
+-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com=
+/script/Content/Tag.aspx?tags=3DElasticsearch">Elasticsearch</a></li><li cl=
+ass=3D"cursor-pointer block relative leading-normal box-border"><a class=3D=
+"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.=
+com/script/Content/Tag.aspx?tags=3DLucene">Lucene</a></li><li class=3D"curs=
+or-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-=
+5 block !text-inherit relative" href=3D"https://www.codeproject.com/script/=
+Content/Tag.aspx?tags=3DMongoDB">mongodb</a></li><li class=3D"cursor-pointe=
+r block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !=
+text-inherit relative" href=3D"https://www.codeproject.com/script/Content/T=
+ag.aspx?tags=3DMySQL">MySQL</a></li><li class=3D"cursor-pointer block relat=
+ive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit =
+relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DNoSQL">NoSQL</a></li><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hr=
+ef=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DPostgreSQL=
+">PostgreSQL</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DRedis">Redis=
+</a></li><li class=3D"cursor-pointer block relative leading-normal box-bord=
+er"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://w=
+ww.codeproject.com/script/Content/Tag.aspx?tags=3DSQL-Server">SQL Server</a=
+></li></ul></li><li class=3D"cursor-pointer block relative leading-normal b=
+ox-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"ht=
+tps://www.codeproject.com/script/Content/Tag.aspx?tags=3DDesktop">Desktop P=
+rogramming<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</s=
+pan></a><ul class=3D"absolute border border-border-gray bg-white border-b-4=
+ border-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li=
+ class=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DATL">ATL</a></li><li class=3D"cursor-=
+pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 b=
+lock !text-inherit relative" href=3D"https://www.codeproject.com/script/Con=
+tent/Tag.aspx?tags=3DCocoa">Cocoa</a></li><li class=3D"cursor-pointer block=
+ relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-in=
+herit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx=
+?tags=3DMFC">MFC</a></li><li class=3D"cursor-pointer block relative leading=
+-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" h=
+ref=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DQT">QT</a=
+></li><li class=3D"cursor-pointer block relative leading-normal box-border"=
+><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.=
+codeproject.com/script/Content/Tag.aspx?tags=3DSwing">Swing</a></li><li cla=
+ss=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"=
+py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.c=
+om/script/Content/Tag.aspx?tags=3Dsystem">system</a></li><li class=3D"curso=
+r-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5=
+ block !text-inherit relative" href=3D"https://www.codeproject.com/script/C=
+ontent/Tag.aspx?tags=3DUWP">UWP</a></li><li class=3D"cursor-pointer block r=
+elative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inhe=
+rit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?t=
+ags=3DWin32">Win32</a></li><li class=3D"cursor-pointer block relative leadi=
+ng-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative"=
+ href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DWinForm=
+s">WinForms</a></li><li class=3D"cursor-pointer block relative leading-norm=
+al box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DWPF">WPF</a>=
+</li><li class=3D"cursor-pointer block relative leading-normal box-border">=
+<a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.c=
+odeproject.com/script/Content/Tag.aspx?tags=3DWTL">WTL</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DX11">X11</a></li><li class=3D"cursor-pointer b=
+lock relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !tex=
+t-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.=
+aspx?tags=3DXAML">XAML</a></li></ul></li><li class=3D"cursor-pointer block =
+relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inh=
+erit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?=
+tags=3DDevOps">DevOps<span class=3D"absolute top-1/2 right-1 -translate-y-1=
+/2">&gt;</span></a><ul class=3D"absolute border border-border-gray bg-white=
+ border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-=
+x-full"><li class=3D"cursor-pointer block relative leading-normal box-borde=
+r"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://ww=
+w.codeproject.com/script/Content/Tag.aspx?tags=3DAgile">Agile</a></li><li c=
+lass=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DContinuous-build">Continuous-build</a=
+></li><li class=3D"cursor-pointer block relative leading-normal box-border"=
+><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.=
+codeproject.com/script/Content/Tag.aspx?tags=3DContinuous-delivery">Continu=
+ous-delivery</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DDeployment">=
+Deployment</a></li><li class=3D"cursor-pointer block relative leading-norma=
+l box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D=
+"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DGit">Git</a></l=
+i><li class=3D"cursor-pointer block relative leading-normal box-border"><a =
+class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.code=
+project.com/script/Content/Tag.aspx?tags=3Dload-testing">load-testing</a></=
+li><li class=3D"cursor-pointer block relative leading-normal box-border"><a=
+ class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.cod=
+eproject.com/script/Content/Tag.aspx?tags=3Dtesting">testing</a></li><li cl=
+ass=3D"cursor-pointer block relative leading-normal box-border"><a class=3D=
+"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.=
+com/script/Content/Tag.aspx?tags=3DTFS">TFS</a></li><li class=3D"cursor-poi=
+nter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bloc=
+k !text-inherit relative" href=3D"https://www.codeproject.com/script/Conten=
+t/Tag.aspx?tags=3Dunit-testing">unit-testing</a></li></ul></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DGame">Game Development<span class=3D"absolute =
+top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute bord=
+er border-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden=
+ -top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3DUnity">Unity</a></li><li class=3D"cursor-pointer block relative leading=
+-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" h=
+ref=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DUnreal">U=
+nreal</a></li><li class=3D"cursor-pointer block relative leading-normal box=
+-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"http=
+s://www.codeproject.com/script/Content/Tag.aspx?tags=3DXBox">XBox</a></li><=
+/ul></li><li class=3D"cursor-pointer block relative leading-normal box-bord=
+er"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://w=
+ww.codeproject.com/script/Content/Tag.aspx?tags=3Dperformance">High Perform=
+ance Computing<span class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt=
+;</span></a><ul class=3D"absolute border border-border-gray bg-white border=
+-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"=
+><li class=3D"cursor-pointer block relative leading-normal box-border"><a c=
+lass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codep=
+roject.com/script/Content/Tag.aspx?tags=3DGPU">GPU</a></li><li class=3D"cur=
+sor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px=
+-5 block !text-inherit relative" href=3D"https://www.codeproject.com/script=
+/Content/Tag.aspx?tags=3Doptimization">optimization</a></li></ul></li><li c=
+lass=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DIoT">Internet of Things<span class=3D=
+"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"abs=
+olute border border-border-gray bg-white border-b-4 border-b-primary pb-2 z=
+-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer=
+ block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !t=
+ext-inherit relative" href=3D"https://www.codeproject.com/script/Content/Ta=
+g.aspx?tags=3Dwearables">wearable</a></li></ul></li><li class=3D"cursor-poi=
+nter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bloc=
+k !text-inherit relative" href=3D"https://www.codeproject.com/script/Conten=
+t/Tag.aspx?tags=3DMobile">Mobile Apps<span class=3D"absolute top-1/2 right-=
+1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute border border-bord=
+er-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden -top-[1px] ri=
+ght-0 translate-x-full"><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hr=
+ef=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DAndroid">A=
+ndroid</a></li><li class=3D"cursor-pointer block relative leading-normal bo=
+x-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"htt=
+ps://www.codeproject.com/script/Content/Tag.aspx?tags=3DAWS">AWS</a></li><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a clas=
+s=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproj=
+ect.com/script/Content/Tag.aspx?tags=3DAzure">Azure</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3DCordova">Cordova</a></li><li class=3D"cursor-poin=
+ter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block=
+ !text-inherit relative" href=3D"https://www.codeproject.com/script/Content=
+/Tag.aspx?tags=3DExtJS">ExtJS</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3Dgoogle-cloud">google-cloud</a></li><li class=3D"cursor-pointer block re=
+lative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inher=
+it relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?ta=
+gs=3DiOS">iOS</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dnativescript=
+">nativescript</a></li><li class=3D"cursor-pointer block relative leading-n=
+ormal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hre=
+f=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DPhoneGap">P=
+honeGap</a></li><li class=3D"cursor-pointer block relative leading-normal b=
+ox-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"ht=
+tps://www.codeproject.com/script/Content/Tag.aspx?tags=3Dstorage">storage</=
+a></li><li class=3D"cursor-pointer block relative leading-normal box-border=
+"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www=
+.codeproject.com/script/Content/Tag.aspx?tags=3DWinMobile">Windows Mobile</=
+a></li><li class=3D"cursor-pointer block relative leading-normal box-border=
+"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www=
+.codeproject.com/script/Content/Tag.aspx?tags=3DXamarin">Xamarin</a></li></=
+ul></li><li class=3D"cursor-pointer block relative leading-normal box-borde=
+r"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://ww=
+w.codeproject.com/script/Content/Tag.aspx?tags=3DMultimedia">Multimedia<spa=
+n class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul cl=
+ass=3D"absolute border border-border-gray bg-white border-b-4 border-b-prim=
+ary pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D"curs=
+or-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-=
+5 block !text-inherit relative" href=3D"https://www.codeproject.com/script/=
+Content/Tag.aspx?tags=3DASM">ASM</a></li><li class=3D"cursor-pointer block =
+relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inh=
+erit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?=
+tags=3DASP">ASP</a></li><li class=3D"cursor-pointer block relative leading-=
+normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hr=
+ef=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Daudio">aud=
+io</a></li><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/script/Content/Tag.aspx?tags=3Daudio-video">audio vide=
+o</a></li><li class=3D"cursor-pointer block relative leading-normal box-bor=
+der"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://=
+www.codeproject.com/script/Content/Tag.aspx?tags=3DBash">Bash</a></li><li c=
+lass=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DBasic">Basic</a></li><li class=3D"cur=
+sor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px=
+-5 block !text-inherit relative" href=3D"https://www.codeproject.com/script=
+/Content/Tag.aspx?tags=3DCsharp">C#</a></li><li class=3D"cursor-pointer blo=
+ck relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-=
+inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.as=
+px?tags=3DCplusplus">C++</a></li><li class=3D"cursor-pointer block relative=
+ leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit rel=
+ative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DC=
+OBOL">cobol</a></li><li class=3D"cursor-pointer block relative leading-norm=
+al box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DCompression"=
+>Compression</a></li><li class=3D"cursor-pointer block relative leading-nor=
+mal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DDart">Dart</=
+a></li><li class=3D"cursor-pointer block relative leading-normal box-border=
+"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www=
+.codeproject.com/script/Content/Tag.aspx?tags=3Ddbase">dbase</a></li><li cl=
+ass=3D"cursor-pointer block relative leading-normal box-border"><a class=3D=
+"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.=
+com/script/Content/Tag.aspx?tags=3DDesign">Design/Graphics</a></li><li clas=
+s=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"p=
+y-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.co=
+m/script/Content/Tag.aspx?tags=3DDirectX">DirectX</a></li><li class=3D"curs=
+or-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-=
+5 block !text-inherit relative" href=3D"https://www.codeproject.com/script/=
+Content/Tag.aspx?tags=3DEmulation">Emulation</a></li><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/Conte=
+nt/Tag.aspx?tags=3DExceptions">Exceptions</a></li><li class=3D"cursor-point=
+er block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block =
+!text-inherit relative" href=3D"https://www.codeproject.com/script/Content/=
+Tag.aspx?tags=3DFsharp">F#</a></li><li class=3D"cursor-pointer block relati=
+ve leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit r=
+elative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3Dfile">file</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DGDI">GDI</a>=
+</li><li class=3D"cursor-pointer block relative leading-normal box-border">=
+<a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.c=
+odeproject.com/script/Content/Tag.aspx?tags=3DGDIplus">GDI+</a></li><li cla=
+ss=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"=
+py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.c=
+om/script/Content/Tag.aspx?tags=3DImage-Processing">Image-Processing</a></l=
+i><li class=3D"cursor-pointer block relative leading-normal box-border"><a =
+class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.code=
+project.com/script/Content/Tag.aspx?tags=3DInternet">Internet</a></li><li c=
+lass=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DJava">Java</a></li><li class=3D"curso=
+r-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5=
+ block !text-inherit relative" href=3D"https://www.codeproject.com/script/C=
+ontent/Tag.aspx?tags=3DJavascript">Javascript</a></li><li class=3D"cursor-p=
+ointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bl=
+ock !text-inherit relative" href=3D"https://www.codeproject.com/script/Cont=
+ent/Tag.aspx?tags=3Dlocalization">localization</a></li><li class=3D"cursor-=
+pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 b=
+lock !text-inherit relative" href=3D"https://www.codeproject.com/script/Con=
+tent/Tag.aspx?tags=3DLua">Lua</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tag=
+s=3DMSIL">MSIL</a></li><li class=3D"cursor-pointer block relative leading-n=
+ormal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hre=
+f=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DObjective-C=
+">Objective C</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DOpenGL">Open=
+GL</a></li><li class=3D"cursor-pointer block relative leading-normal box-bo=
+rder"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:/=
+/www.codeproject.com/script/Content/Tag.aspx?tags=3DPascal">Pascal</a></li>=
+<li class=3D"cursor-pointer block relative leading-normal box-border"><a cl=
+ass=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepr=
+oject.com/script/Content/Tag.aspx?tags=3DPerl">Perl</a></li><li class=3D"cu=
+rsor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 p=
+x-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scrip=
+t/Content/Tag.aspx?tags=3DPHP">PHP</a></li><li class=3D"cursor-pointer bloc=
+k relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-i=
+nherit relative" href=3D"https://www.codeproject.com/script/Content/Tag.asp=
+x?tags=3DPowerShell">PowerShell</a></li><li class=3D"cursor-pointer block r=
+elative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inhe=
+rit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?t=
+ags=3Dprinting">printing</a></li><li class=3D"cursor-pointer block relative=
+ leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit rel=
+ative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DP=
+ython">Python</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DRazor">Razor=
+</a></li><li class=3D"cursor-pointer block relative leading-normal box-bord=
+er"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://w=
+ww.codeproject.com/script/Content/Tag.aspx?tags=3Dregular-expression">regul=
+ar expression</a></li><li class=3D"cursor-pointer block relative leading-no=
+rmal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=
+=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DRuby">Ruby</=
+a></li><li class=3D"cursor-pointer block relative leading-normal box-border=
+"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www=
+.codeproject.com/script/Content/Tag.aspx?tags=3DScala">scala</a></li><li cl=
+ass=3D"cursor-pointer block relative leading-normal box-border"><a class=3D=
+"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.=
+com/script/Content/Tag.aspx?tags=3DShell">Shell</a></li><li class=3D"cursor=
+-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 =
+block !text-inherit relative" href=3D"https://www.codeproject.com/script/Co=
+ntent/Tag.aspx?tags=3DSorting">Sorting</a></li><li class=3D"cursor-pointer =
+block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !te=
+xt-inherit relative" href=3D"https://www.codeproject.com/script/Content/Tag=
+.aspx?tags=3DSQL">SQL</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3Dstri=
+ng">string</a></li><li class=3D"cursor-pointer block relative leading-norma=
+l box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D=
+"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DSwift">Swift</a=
+></li><li class=3D"cursor-pointer block relative leading-normal box-border"=
+><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.=
+codeproject.com/script/Content/Tag.aspx?tags=3Dthreads">threads</a></li><li=
+ class=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3Dusability">usability</a></li><li clas=
+s=3D"cursor-pointer block relative leading-normal box-border"><a class=3D"p=
+y-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.co=
+m/script/Content/Tag.aspx?tags=3DVB">VB</a></li><li class=3D"cursor-pointer=
+ block relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !t=
+ext-inherit relative" href=3D"https://www.codeproject.com/script/Content/Ta=
+g.aspx?tags=3DVB.NET">VB.NET</a></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=
+=3DVBScript">VBScript</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DVide=
+o">Video</a></li><li class=3D"cursor-pointer block relative leading-normal =
+box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"h=
+ttps://www.codeproject.com/script/Content/Tag.aspx?tags=3DXML">XML</a></li>=
+</ul></li><li class=3D"cursor-pointer block relative leading-normal box-bor=
+der"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://=
+www.codeproject.com/script/Content/Tag.aspx?tags=3Dsecurity">Security<span =
+class=3D"absolute top-1/2 right-1 -translate-y-1/2">&gt;</span></a><ul clas=
+s=3D"absolute border border-border-gray bg-white border-b-4 border-b-primar=
+y pb-2 z-10 hidden -top-[1px] right-0 translate-x-full"><li class=3D"cursor=
+-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 =
+block !text-inherit relative" href=3D"https://www.codeproject.com/script/Co=
+ntent/Tag.aspx?tags=3Dblockchain">blockchain</a></li><li class=3D"cursor-po=
+inter block relative leading-normal box-border"><a class=3D"py-0.5 px-5 blo=
+ck !text-inherit relative" href=3D"https://www.codeproject.com/script/Conte=
+nt/Tag.aspx?tags=3Dcryptography">cryptography</a></li><li class=3D"cursor-p=
+ointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bl=
+ock !text-inherit relative" href=3D"https://www.codeproject.com/script/Cont=
+ent/Tag.aspx?tags=3DEncryption">Encryption</a></li></ul></li><li class=3D"c=
+ursor-pointer block relative leading-normal box-border"><a class=3D"py-0.5 =
+px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/scri=
+pt/Content/Tag.aspx?tags=3DWeb">Web Development<span class=3D"absolute top-=
+1/2 right-1 -translate-y-1/2">&gt;</span></a><ul class=3D"absolute border b=
+order-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden -to=
+p-[1px] right-0 translate-x-full"><li class=3D"cursor-pointer block relativ=
+e leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit re=
+lative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3D=
+Apache">Apache</a></li><li class=3D"cursor-pointer block relative leading-n=
+ormal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" hre=
+f=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DASP.NET">AS=
+P.NET</a></li><li class=3D"cursor-pointer block relative leading-normal box=
+-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"http=
+s://www.codeproject.com/script/Content/Tag.aspx?tags=3DCSS">CSS</a></li><li=
+ class=3D"cursor-pointer block relative leading-normal box-border"><a class=
+=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codeproje=
+ct.com/script/Content/Tag.aspx?tags=3DCSS3">CSS3</a></li><li class=3D"curso=
+r-pointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5=
+ block !text-inherit relative" href=3D"https://www.codeproject.com/script/C=
+ontent/Tag.aspx?tags=3DHTML">HTML</a></li><li class=3D"cursor-pointer block=
+ relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-in=
+herit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx=
+?tags=3DHTML5">HTML5</a></li><li class=3D"cursor-pointer block relative lea=
+ding-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relativ=
+e" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DIIS">=
+IIS</a></li><li class=3D"cursor-pointer block relative leading-normal box-b=
+order"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https:=
+//www.codeproject.com/script/Content/Tag.aspx?tags=3DKestrel">Kestrel</a></=
+li><li class=3D"cursor-pointer block relative leading-normal box-border"><a=
+ class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.cod=
+eproject.com/script/Content/Tag.aspx?tags=3DLESS">LESS</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/sc=
+ript/Content/Tag.aspx?tags=3DNode.js">Node.js</a></li><li class=3D"cursor-p=
+ointer block relative leading-normal box-border"><a class=3D"py-0.5 px-5 bl=
+ock !text-inherit relative" href=3D"https://www.codeproject.com/script/Cont=
+ent/Tag.aspx?tags=3DReact">React</a></li><li class=3D"cursor-pointer block =
+relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inh=
+erit relative" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?=
+tags=3DSpring">Spring</a></li><li class=3D"cursor-pointer block relative le=
+ading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relati=
+ve" href=3D"https://www.codeproject.com/script/Content/Tag.aspx?tags=3DXHTM=
+L">XHTML</a></li></ul></li></ul></li><li class=3D"cursor-pointer block rela=
+tive leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit=
+ relative" href=3D"https://www.codeproject.com/script/Articles/Latest.aspx"=
+>Latest articles</a></li><li class=3D"cursor-pointer block relative leading=
+-normal box-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" h=
+ref=3D"https://www.codeproject.com/script/Articles/TopArticles.aspx">Top ar=
+ticles</a></li></ul></li><li class=3D"relative leading-normal"><a class=3D"=
+block py-0.5 px-2 font-bold cursor-pointer !text-gray-light border border-t=
+ransparent" href=3D"https://forum.codeproject.com/">discussions</a></li><li=
+ class=3D"relative leading-normal"><a class=3D"block py-0.5 px-2 font-bold =
+cursor-pointer !text-gray-light border border-transparent" href=3D"https://=
+www.codeproject.com/Feature">features</a><ul class=3D"absolute border borde=
+r-border-gray bg-white border-b-4 border-b-primary pb-2 z-10 hidden bottom-=
+0 left-0 translate-y-full translate-x-0"><li class=3D"cursor-pointer block =
+relative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inh=
+erit relative" href=3D"https://www.codeproject.com/script/News/List.aspx">N=
+ews</a></li><li class=3D"cursor-pointer block relative leading-normal box-b=
+order"><a href=3D"https://sdnews.io/" class=3D"py-0.5 px-5 block !text-inhe=
+rit relative" rel=3D"nofollow noreferrer">The Insider Newsletter</a></li><l=
+i class=3D"cursor-pointer block relative leading-normal box-border"><a href=
+=3D"https://sdnews.io/" class=3D"py-0.5 px-5 block !text-inherit relative" =
+rel=3D"nofollow noreferrer">The Daily Build Newsletter</a></li><li class=3D=
+"cursor-pointer block relative leading-normal box-border"><a class=3D"py-0.=
+5 px-5 block !text-inherit relative" href=3D"https://www.codeproject.com/In=
+fo/Stuff.aspx">CodeProject Stuff</a></li></ul></li><li class=3D"relative le=
+ading-normal"><a class=3D"block py-0.5 px-2 font-bold cursor-pointer !text-=
+gray-light border border-transparent" href=3D"https://www.codeproject.com/K=
+B/FAQs">help</a><ul class=3D"absolute border border-border-gray bg-white bo=
+rder-b-4 border-b-primary pb-2 z-10 hidden bottom-0 left-0 translate-y-full=
+ translate-x-0"><li class=3D"cursor-pointer block relative leading-normal b=
+ox-border"><a class=3D"py-0.5 px-5 block !text-inherit relative" href=3D"ht=
+tps://www.codeproject.com/info/guide.aspx">What is 'CodeProject'?</a></li><=
+li class=3D"cursor-pointer block relative leading-normal box-border"><a cla=
+ss=3D"py-0.5 px-5 block !text-inherit relative" href=3D"https://www.codepro=
+ject.com/KB/FAQs">General FAQ</a></li><li class=3D"cursor-pointer block rel=
+ative leading-normal box-border"><a class=3D"py-0.5 px-5 block !text-inheri=
+t relative" href=3D"https://www.codeproject.com/info/about.aspx">About Us</=
+a></li></ul></li></ul></nav></header><main class=3D"px-2 py-10"><div class=
+=3D"custom-container flex px-2 gap-8 overflow-hidden"><div class=3D"w-[948p=
+x] max-w-full"><div class=3D"flex gap-2 mb-2 flex-wrap"><a rel=3D"tag" href=
+=3D"https://www.codeproject.com/Tags/TabletPC" class=3D"px-2 border border-=
+border-yellow rounded-l-full text-gray-light visited:text-gray-light hover:=
+underline hover:bg-yellow-light">Windows XP Tablet Ed.</a><a rel=3D"tag" hr=
+ef=3D"https://www.codeproject.com/Tags/Vista" class=3D"px-2 border border-b=
+order-yellow rounded-l-full text-gray-light visited:text-gray-light hover:u=
+nderline hover:bg-yellow-light">Windows Vista</a><a rel=3D"tag" href=3D"htt=
+ps://www.codeproject.com/Tags/Win2003" class=3D"px-2 border border-border-y=
+ellow rounded-l-full text-gray-light visited:text-gray-light hover:underlin=
+e hover:bg-yellow-light">Windows 2003</a><a rel=3D"tag" href=3D"https://www=
+.codeproject.com/Tags/Win2K" class=3D"px-2 border border-border-yellow roun=
+ded-l-full text-gray-light visited:text-gray-light hover:underline hover:bg=
+-yellow-light">Windows 2000</a><a rel=3D"tag" href=3D"https://www.codeproje=
+ct.com/Tags/WinXP" class=3D"px-2 border border-border-yellow rounded-l-full=
+ text-gray-light visited:text-gray-light hover:underline hover:bg-yellow-li=
+ght">Windows XP</a><a rel=3D"tag" href=3D"https://www.codeproject.com/Tags/=
+Intermediate" class=3D"px-2 border border-border-yellow rounded-l-full text=
+-gray-light visited:text-gray-light hover:underline hover:bg-yellow-light">=
+Intermediate</a><a rel=3D"tag" href=3D"https://www.codeproject.com/Tags/Dev=
+" class=3D"px-2 border border-border-yellow rounded-l-full text-gray-light =
+visited:text-gray-light hover:underline hover:bg-yellow-light">Dev</a><a re=
+l=3D"tag" href=3D"https://www.codeproject.com/Tags/Windows" class=3D"px-2 b=
+order border-border-yellow rounded-l-full text-gray-light visited:text-gray=
+-light hover:underline hover:bg-yellow-light">Windows</a><a rel=3D"tag" hre=
+f=3D"https://www.codeproject.com/Tags/.NET" class=3D"px-2 border border-bor=
+der-yellow rounded-l-full text-gray-light visited:text-gray-light hover:und=
+erline hover:bg-yellow-light">.NET</a><a rel=3D"tag" href=3D"https://www.co=
+deproject.com/Tags/C#" class=3D"px-2 border border-border-yellow rounded-l-=
+full text-gray-light visited:text-gray-light hover:underline hover:bg-yello=
+w-light">C#</a></div><h1 class=3D"text-4xl text-text-gray">Assigning an app=
+lication=E2=80=99s icon to all forms in the application</h1><div class=3D"m=
+ax-w-[600px]"><div class=3D"flex pt-4 justify-between"><div class=3D"text-b=
+ase hover:underline font-bold"><a class=3D"text-gray-lightest" href=3D"http=
+s://www.codeproject.com/script/Membership/View.aspx?mid=3D2323668">Sergiy S=
+toyan</a></div><div class=3D"flex items-center gap-2"><div class=3D"flex"><=
+img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decoding=
+=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.c=
+odeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=
+=3D75"><img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" de=
+coding=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=3D"https:/=
+/www.codeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&a=
+mp;q=3D75"><img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24=
+" decoding=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=3D"htt=
+ps://www.codeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D=
+48&amp;q=3D75"><img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=
+=3D"24" decoding=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=
+=3D"https://www.codeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&a=
+mp;w=3D48&amp;q=3D75"><div class=3D"relative"><img alt=3D"emptyStarIcon" lo=
+ading=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" data-nimg=3D"1=
+" style=3D"color:transparent" src=3D"https://www.codeproject.com/_next/imag=
+e?url=3D%2Ficons%2FemptyStarIcon.png&amp;w=3D48&amp;q=3D75"><div class=3D"a=
+bsolute left-0 top-0 overflow-hidden" style=3D"max-width:37.03703999999996%=
+"><img alt=3D"starIcon" loading=3D"lazy" width=3D"24" height=3D"24" decodin=
+g=3D"async" data-nimg=3D"1" style=3D"color:transparent" src=3D"https://www.=
+codeproject.com/_next/image?url=3D%2Ficons%2FstarIcon.png&amp;w=3D48&amp;q=
+=3D75"></div></div></div><p class=3D"text-sm">4.37<!-- -->/5 (<!-- -->19<!-=
+- --> vote<!-- -->s<!-- -->)</p></div></div><div class=3D"flex pt-2 gap-4">=
+<p class=3D"text-gray-lightest text-[13px]">Oct 5, 2008</p><a class=3D"text=
+-[13px] flex" href=3D"http://www.codeproject.com/info/cpol10.aspx">CPOL</a>=
+<p class=3D"text-gray-lightest text-[13px]">2<!-- --> min read</p><div clas=
+s=3D"flex gap-1 items-center"><img alt=3D"viewsIcon" loading=3D"lazy" width=
+=3D"16" height=3D"16" decoding=3D"async" data-nimg=3D"1" class=3D"w-4 h-4" =
+style=3D"color:transparent" src=3D"https://www.codeproject.com/_next/image?=
+url=3D%2Ficons%2FviewsIcon.png&amp;w=3D32&amp;q=3D75"><p class=3D"text-gray=
+-lightest text-[13px] pl-0.5">102927</p></div><div class=3D"flex gap-1 item=
+s-center"><img alt=3D"downloadIcon" loading=3D"lazy" width=3D"16" height=3D=
+"16" decoding=3D"async" data-nimg=3D"1" class=3D"w-4 h-4" style=3D"color:tr=
+ansparent" src=3D"https://www.codeproject.com/_next/image?url=3D%2Ficons%2F=
+downloadIcon.png&amp;w=3D32&amp;q=3D75"><p class=3D"text-gray-lightest text=
+-[13px] pl-0.5">1379</p></div></div></div><p class=3D"pt-6 pb-4 text-gray-l=
+ightest">It is a handy thing if all the windows in an application, by defau=
+lt, have the same icon like the application=E2=80=99s executable. Here is a=
+ tip: how to easily assign your application=E2=80=99s icon to all the hoste=
+d forms.</p><div class=3D"max-w-full"><template shadowmode=3D"open"><div><d=
+iv><div class=3D"article">
+<ul class=3D"download">
+<li><a href=3D"https://www.codeproject.com/kb/dialog/29923/assigningdefault=
+icon/_code.zip">Download source code - 45.3 KB</a></li>
+</ul>
+
+<h2>Introduction</h2>
+
+<p>While developing an application, often, it is a handy thing if all the w=
+indows of the application have, by default, the same icon like the applicat=
+ion=E2=80=99s executable. However, if you want to do so, you have to manual=
+ly assign the icon for each form in Visual Studio. If the executable icon i=
+s changed, you have to repeat this work again. This article describes a tip=
+ for how to assign your application=E2=80=99s icon to all the forms hosted =
+by the application with code.</p>
+
+<p>It is written in C#, and can be used in any .NET language as a DLL.</p>
+
+<p>The most important code for the icon extraction was gotten from <a href=
+=3D"http://www.vbaccelerator.com/home/NET/Utilities/Icon_Extractor/article.=
+asp" target=3D"_blank">here</a>. It was only slightly fixed and enhanced.</=
+p>
+
+<h2>Solution</h2>
+
+<p>All you have to do is:</p>
+
+<ol>
+<li>Assign an icon to your project in Visual Studio.</li>
+
+<li>Add the classes contained in the folder <em>IconRoutines</em> to your p=
+roject, or reference <em>IconRoutines.dll</em> in your project.</li>
+
+<li>Add the following line to each form constructor in your app where you w=
+ant to set the same icon as the application=E2=80=99s icon:</li>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><svg xmlns=3D"http://www.w3.org/2000/svg" version=3D=
+"1.1" viewBox=3D"0 0 460 460" width=3D"16px" height=3D"16px" fill=3D"curren=
+tColor" style=3D"color: inherit; cursor: pointer; transition: color 0.1s li=
+near;"><g><path d=3D"M425.934,0H171.662c-18.122,0-32.864,14.743-32.864,32.8=
+64v77.134h30V32.864c0-1.579,1.285-2.864,2.864-2.864h254.272 c1.579,0,2.864,=
+1.285,2.864,2.864v254.272c0,1.58-1.285,2.865-2.864,2.865h-74.729v30h74.729 =
+c18.121,0,32.864-14.743,32.864-32.865V32.864C458.797,14.743,444.055,0,425.9=
+34,0z"></path><path d=3D"M288.339,139.998H34.068c-18.122,0-32.865,14.743-32=
+.865,32.865v254.272C1.204,445.257,15.946,460,34.068,460h254.272 c18.122,0,3=
+2.865-14.743,32.865-32.864V172.863C321.206,154.741,306.461,139.998,288.339,=
+139.998z M288.341,430H34.068 c-1.58,0-2.865-1.285-2.865-2.864V172.863c0-1.5=
+8,1.285-2.865,2.865-2.865h254.272c1.58,0,2.865,1.285,2.865,2.865v254.273h0.=
+001 C291.206,428.715,289.92,430,288.341,430z"></path></g></svg></div></div>=
+</div><pre lang=3D"cs" style=3D"margin-top: 0px;"><span class=3D"code-keywo=
+rd">this</span>.icon =3D Cliver.IconRoutines.HostIcon;</pre>
+</ol>
+
+<p>This will make the windows of your app have the same icon like the app i=
+tself. That=E2=80=99s all.</p>
+
+<h2>How it works</h2>
+
+<p>This section is addressed to inquisitive guys, and can be omitted.</p>
+
+<p>The first step is getting the icon of the executable.</p>
+
+<p>After some time wasted with the .NET <code>Icon</code> class, I understo=
+od that correctly extracting the icon from an EXE file (or any file contain=
+ing icons) is not a simple thing. Why? Because of several hacks there:</p>
+
+<ul>
+<li><code>Icon.ExtractAssociatedIcon</code> extracts only a small image fro=
+m an icon stored in the file.</li>
+
+<li><code>Icon.Save</code> saves icons in a 16-color format only.</li>
+</ul>
+
+<p>That means the code for extracting icons from files must be written from=
+ scratch. Fortunately, such a code was done already by Steve McMahon, and o=
+nly needed some upgrade. It fetches an icon=E2=80=99s images from an execut=
+able. You can find it in the attached sources.</p>
+
+<p>The second step is creating an <code>Icon</code> type object from the fe=
+tched images. The following code does it:</p>
+
+<div><div style=3D"background-color: rgb(251, 237, 187); border-bottom: 1px=
+ solid rgb(255, 208, 68); color: rgb(153, 153, 153); display: flex; padding=
+: 4px 8px; justify-content: space-between;"><div>C#</div><div style=3D"alig=
+n-items: center; display: flex; gap: 0.5rem; justify-content: space-between=
+; position: relative;"><div style=3D"color: inherit; cursor: pointer; font-=
+size: 13px; transition: color 0.1s linear;">Shrink =E2=96=B2</div><svg xmln=
+s=3D"http://www.w3.org/2000/svg" version=3D"1.1" viewBox=3D"0 0 460 460" wi=
+dth=3D"16px" height=3D"16px" fill=3D"currentColor" style=3D"color: inherit;=
+ cursor: pointer; transition: color 0.1s linear;"><g><path d=3D"M425.934,0H=
+171.662c-18.122,0-32.864,14.743-32.864,32.864v77.134h30V32.864c0-1.579,1.28=
+5-2.864,2.864-2.864h254.272 c1.579,0,2.864,1.285,2.864,2.864v254.272c0,1.58=
+-1.285,2.865-2.864,2.865h-74.729v30h74.729 c18.121,0,32.864-14.743,32.864-3=
+2.865V32.864C458.797,14.743,444.055,0,425.934,0z"></path><path d=3D"M288.33=
+9,139.998H34.068c-18.122,0-32.865,14.743-32.865,32.865v254.272C1.204,445.25=
+7,15.946,460,34.068,460h254.272 c18.122,0,32.865-14.743,32.865-32.864V172.8=
+63C321.206,154.741,306.461,139.998,288.339,139.998z M288.341,430H34.068 c-1=
+.58,0-2.865-1.285-2.865-2.864V172.863c0-1.58,1.285-2.865,2.865-2.865h254.27=
+2c1.58,0,2.865,1.285,2.865,2.865v254.273h0.001 C291.206,428.715,289.92,430,=
+288.341,430z"></path></g></svg></div></div></div><pre lang=3D"cs" style=3D"=
+margin-top: 0px;"><span class=3D"code-SummaryComment">///</span><span class=
+=3D"code-comment"> <span class=3D"code-SummaryComment">&lt;</span><span cla=
+ss=3D"code-SummaryComment">summary</span><span class=3D"code-SummaryComment=
+">&gt;</span></span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ Extract all icon images from the library file like .exe, .dll, etc. </span=
+>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">/</span><span class=3D"code-SummaryComment">summary</span><span cl=
+ass=3D"code-SummaryComment">&gt;</span></span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">param</span> <span class=3D"code-SummaryComment">name=3D"file"</sp=
+an><span class=3D"code-SummaryComment">&gt;</span>file where icon is extrac=
+ted from<span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-=
+SummaryComment">/</span><span class=3D"code-SummaryComment">param</span><sp=
+an class=3D"code-SummaryComment">&gt;</span></span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">returns</span><span class=3D"code-SummaryComment">&gt;</span>extra=
+cted icon<span class=3D"code-SummaryComment">&lt;</span><span class=3D"code=
+-SummaryComment">/</span><span class=3D"code-SummaryComment">returns</span>=
+<span class=3D"code-SummaryComment">&gt;</span></span>
+<span class=3D"code-keyword">public</span> <span class=3D"code-keyword">sta=
+tic</span> Icon ExtractIconFromLibrary(<span class=3D"code-keyword">string<=
+/span> file)
+{
+    <span class=3D"code-comment">//</span><span class=3D"code-comment"> .NE=
+T Icon Explorer (http://www.vbaccelerator.com/home/NET/</span>
+    <span class=3D"code-comment">//</span><span class=3D"code-comment">    =
+                 Utilities/Icon_Extractor/article.asp) is used here.</span>
+    Icon icon =3D <span class=3D"code-keyword">null</span>;
+    <span class=3D"code-keyword">try</span>
+    {
+        vbAccelerator.Components.Win32.GroupIconResources gir =3D=20
+              <span class=3D"code-keyword">new</span> vbAccelerator.Compone=
+nts.Win32.GroupIconResources(file);
+        <span class=3D"code-keyword">if</span> (gir.Count &lt; <span class=
+=3D"code-digit">0</span>)
+            <span class=3D"code-keyword">return</span> icon;
+
+        vbAccelerator.Components.Win32.IconEx i =3D=20
+              <span class=3D"code-keyword">new</span> vbAccelerator.Compone=
+nts.Win32.IconEx();
+        <span class=3D"code-keyword">if</span> (gir[<span class=3D"code-dig=
+it">0</span>].IdIsNumeric)
+            i.FromLibrary(file, gir[<span class=3D"code-digit">0</span>].Id=
+);
+        <span class=3D"code-keyword">else</span>
+            i.FromLibrary(file, gir[<span class=3D"code-digit">0</span>].Na=
+me);
+
+        icon =3D i.GetIcon();
+    }
+    <span class=3D"code-keyword">catch</span> (Exception e)
+    {
+        <span class=3D"code-keyword">throw</span> (<span class=3D"code-keyw=
+ord">new</span> Exception(<span class=3D"code-string">"</span><span class=
+=3D"code-string">Could not extract the host icon."</span>, e));
+        icon =3D <span class=3D"code-keyword">null</span>;
+    }
+    <span class=3D"code-keyword">return</span> icon;
+}
+
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">summary</span><span class=3D"code-SummaryComment">&gt;</span></spa=
+n>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ Icon of the hosting application.</span>
+<span class=3D"code-SummaryComment">///</span><span class=3D"code-comment">=
+ <span class=3D"code-SummaryComment">&lt;</span><span class=3D"code-Summary=
+Comment">/</span><span class=3D"code-SummaryComment">summary</span><span cl=
+ass=3D"code-SummaryComment">&gt;</span></span>
+<span class=3D"code-keyword">public</span> <span class=3D"code-keyword">sta=
+tic</span> Icon HostIcon
+{
+    <span class=3D"code-keyword">get</span>
+    {
+        <span class=3D"code-keyword">if</span> (_HostIcon =3D=3D <span clas=
+s=3D"code-keyword">null</span>)
+            _HostIcon =3D IconRoutines.ExtractIconFromLibrary(
+                        Application.ExecutablePath);
+        <span class=3D"code-keyword">return</span> _HostIcon;
+    }
+}
+<span class=3D"code-keyword">static</span> Icon _HostIcon =3D <span class=
+=3D"code-keyword">null</span>;</pre>
+
+<p>Now, we only have to assign <code>IconRoutines.HostIcon</code> to the fo=
+rm=E2=80=99s icons.</p>
+
+<h2>Using the code</h2>
+
+<p>In the attached code, you can find:</p>
+
+<ul>
+<li>A project <em>IconRoutines</em> that contains the code for the icon man=
+agement. You can compile it as a DLL and link to your project; else, add <c=
+ode></code>the code of <em>IconRoutines</em> to your code.</li>
+
+<li>Project <em>Test</em> that references <em>IconRoutines.dll</em> and use=
+s it.</li>
+</ul>
+
+<p>Be happy!</p>
+
+</div></div></div></template></div></div><div><div id=3D"div-gpt-ad-1738591=
+766860-0" style=3D"min-width:300px;min-height:600px" class=3D"mt-40 sticky =
+top-40"></div></div></div><!--$--><!--/$--><!--$--><!--/$--></main><footer =
+class=3D"custom-container flex flex-col gap-3 px-2"><div class=3D"mt-2 py-4=
+ min-h-36 bg-primary"></div><div class=3D"border-t-4 border-primary p-3 fle=
+x justify-between"><nav class=3D"flex-1"><ul><li><a href=3D"http://develope=
+rmedia.com/" rel=3D"nofollow noreferrer">Advertise</a></li><li><a href=3D"h=
+ttps://www.codeproject.com/info/privacy.aspx">Privacy</a></li><li><a href=
+=3D"https://www.codeproject.com/info/cookie.aspx">Cookies</a></li><li><a hr=
+ef=3D"https://www.codeproject.com/info/TermsOfUse.aspx">Terms of Use</a></l=
+i></ul></nav><div class=3D"flex-1"></div><div class=3D"flex-1 text-gray tex=
+t-sm text-right">Copyright =C2=A9 <a href=3D"mailto:webmaster@codeproject.c=
+om">CodeProject</a>, 1999-2025<br>All Rights Reserved.</div></div></footer>=
+<next-route-announcer style=3D"position: absolute;"><template shadowmode=3D=
+"open"><div aria-live=3D"assertive" id=3D"__next-route-announcer__" role=3D=
+"alert" style=3D"position: absolute; border: 0px; height: 1px; margin: -1px=
+; padding: 0px; width: 1px; clip: rect(0px, 0px, 0px, 0px); overflow: hidde=
+n; white-space: nowrap; overflow-wrap: normal;"></div></template></next-rou=
+te-announcer></body></html>
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FdownloadIcon.png&w=32&q=75
+
+UklGRpgBAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSGYAAAABYFTbtpIfgAAMCUIAAjC0H4I+
+RNEghHC/yDecYUQoCAgAEWfIyepRpB/DAIyfhpZhsHnMApmmFgO/WjvcigWAw64agIH5SMwHYj/U
+/rHkU2qRA5qUAtERQuANafIDFjjB6LDkqARWUDggDAEAAPAHAJ0BKiAAIAA+kTiXR6WjIiEwCACw
+EglsALEbgfkG9NthnAnBv952iL+n7oDdAP+35gHsAegB5Nf7W/Av5FoISM8+94/7wAD+tP//Fy//
+hyP//DA9+LD/v/wX/fHAh2ukkjzgE4Eb/d1AEjdPjCO7gfqB9Ixlv7gSb8l9/8kvtih+f8m00U4+
+AZxX4/TfklB0oA9LHxliQfZ6Eooncwv/SM5+mLP/KcysGOp3Rrnn/2jlNf/DY2+L3bmSi3zaBTPB
++phnTbjjljmPuaWP7xv+ASPtIY//nmK5+6DBj3AHybf58MgbuVbAX95h0HXkEzqP/7UBhB8zIii/
+v/rD1uaX4eWxjC5aB5gAAAA=
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FviewsIcon.png&w=32&q=75
+
+UklGRqYCAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSFgBAAABkEPb2rFHt3iL339s25opbaO0
+p7Rt27Zt27YR23zHwS0+5O/SRsQEoCndYt7Bp4W1mQ/X9rE4wmlWKsk/Xx9mSrJyoVej+hZS7u3h
+B4MFos3KUsqR+ixXKSdZIKa9rGXqVicYxlXyrEWH5SGv+gFhbynvXq1kZnPA7yYfemkYnnKvAMTT
+2o0WQMyrzbQA4iy/uqmt5FYAGMeVUJ3FrQAsL3lSpU3tR4PirjSoicxSAPDK5UDFw9okKOVLaJ6k
+GwDEyULF1z9xjnIqlIqB/GhRvJQGjdRSKHdynAIbeVAxjyvVxnGvYhyfChXxkgsFYHhbO08AYlJt
+rhOAcSwMg7pfJh8GAVFfWXr1Yi4zmwNue1kYBW2no6wcaoBh6cdapm51AoaW8mEYdA+UlAe7CBgs
+EG1WprJyFBobtLKUrMzMzMyUpDzqBwca+l79KEmmbuxggOOdvNDUBFZQOCAoAQAAMAkAnQEqIAAg
+AD6RPptJP6M/v6gKq/ASCWwAsSVBOA/lfFWadmQcID8AaID9Tf1u7AHoAfsB1gHoAeUf+yHwH/uP
+7AH7Af/8MJKNPwQmSBVS/AD+ze//4J3/9/rv//AqXtmobyRSYSyKf9Hnvir+/59mty78v5iHvdgO
+Ro35IpK7W0Pn//g1vMGKO1EJdc4Y2AzUTIZ/1rV6MYOMCZnSubdigUVNt6r3irxPIhf8i2hfWqFv
+VNBY85wyrDkvvUbP//4Tf/9+6P//ABeP/+La8x+6U04gtWraZPh2+Hx8Xj+ofl/jVx/VQpP+Mp64
+cssZmI/3WWgWs/kh7jkCB66C/yck4Pis/s/Sf97m3ppRVCVhlEdGmOGOu3UFudr+51PtAhQDRlLL
+AAA=
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FemptyStarIcon.png&w=48&q=75
+
+UklGRroBAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSLAAAAABdyAQSFLYH3iFiEgN4NjWpjB5
+cfd0XrqnSpXgUEHnsgS3zt2d6XBqt9Wwl5nMGiL6PwHISTuak1adE6fOa0TnokdncFMn92po1XCe
+mFutWCft0rcQQhiTQgjRV9qvVoNQqbb/mLlLoZzOAC9mqbRsAPpHpCcz8pkJkmmUt2YoOVWvBvBH
+VJsMhOlV9ZZ2b4ybCn/kwzJZf1M0ljPw8GyWVvYN4P+zS/9WgCmPVEM5B1ZQOCDkAAAAEAcAnQEq
+GAAYAD6RPJdHpaOiITAIALASCWwAuzlBfgGkEsDLAsQGGA/V30AP1V1gD0AP0A9Jv9lvgA8oAEuA
+AcAA/u9MP/0sP/xNP/+j3zkIXaELf+Kcqx6jXa2PFMMbbeHODTBQImlZkztNS2jCNlLM5/uz/hCr
+//x5ofz+hXeHqjcFCu/nJuphPixD9BP8o7PMjDlG1/gwKarmSWhtDLBfv4Y9Fdqmn/8PDP+L/uZf
+9PNLfEhb8JDTGmMsFA6r/opd/Q3cnMO5Xh6Aokb3aIfQYr25rsoy/kWUlpQ9f9grfIAA
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Ficons%2FstarIcon.png&w=48&q=75
+
+UklGRpoBAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSJUAAAABbyAQICxY8N+pISKSzIGbatuW
+5cFdClgBGrjtRPgD8HcgAhMzBWx3mdwdnjTv+38ZIvo/AZDZMAzbQZNF1OSSM3naJr+pCelyapI+
+px4ZFpvJePwnD+PxrlWmoQ8rpzyAj9Z3AbA0P+Ra5KEuRFS7ipT2Erb24/THqZIkgx1SsZgH7vSJ
+0dQFJP9hcQ4BQC8mGlC7AABWUDgg3gAAAFAHAJ0BKhgAGAA+kTqXR6WjIiEwCACwEglsALs5QX4B
+pBXIOEJMB4gMMB+uXoAfqBrAHoAfoB6TH7M/AB5QAJcAA4AA/u9MP/0sP/xNP/+j3zkIYiEJ4XeM
+qx6kvRA2E/uaeKrssGX7eUlsdpR6Qv8IVf/+PNDaecrePVF4J/fnk3UwkWIlUWXWYIBGgvcsf4MD
+2tpv++vYgv7+GA995/C/8PDP+L/9i0f6eaW+JC3YPNK+X69Fbhf+il39Dfyt6QbkeHoCg9vPeN3Q
+Yr25rsotHkWUjwqrmyn+9IAAAA==
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: image/webp
+Content-Transfer-Encoding: base64
+Content-Location: https://www.codeproject.com/_next/image?url=%2Flogo250x135.gif&w=640&q=75
+
+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
+
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.codeproject.com/_next/static/css/f00fbee724adea66.css
+
+@charset "utf-8";
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/b55e164a6e=
+7ce445-s.p.ttf") format("truetype"); font-display: swap; font-weight: 400; =
+font-style: normal; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/f7794ce324=
+83498f-s.p.ttf") format("truetype"); font-display: swap; font-weight: 400; =
+font-style: italic; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/945b7384c5=
+256ec3-s.p.ttf") format("truetype"); font-display: swap; font-weight: 700; =
+font-style: normal; }
+
+@font-face { font-family: segoeUI; src: url("/_next/static/media/e337cf18f0=
+f81cb9-s.p.ttf") format("truetype"); font-display: swap; font-weight: 700; =
+font-style: italic; }
+
+@font-face { font-family: "segoeUI Fallback"; src: local("Arial"); ascent-o=
+verride: 108.25%; descent-override: 25.18%; line-gap-override: 0%; size-adj=
+ust: 99.69%; }
+
+.__className_2277ee { font-family: segoeUI, "segoeUI Fallback", Arial, sans=
+-serif; }
+
+*, ::after, ::before { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
+--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
+-tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: =
+; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-=
+from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ;=
+ --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-s=
+pacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-widt=
+h: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246/0.5);=
+ --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shad=
+ow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness=
+: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --=
+tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw=
+-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: =
+; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity=
+: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; -=
+-tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
+late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
+: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pin=
+ch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-posit=
+ion: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordi=
+nal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; =
+--tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --=
+tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246/0.5); --tw-ring=
+-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0=
+000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-c=
+ontrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturat=
+e: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-=
+brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-bac=
+kdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-b=
+ackdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contai=
+n-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+*, ::after, ::before { box-sizing: border-box; border: 0px solid; }
+
+::after, ::before { --tw-content: ""; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-f=
+amily: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI=
+ Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-settings: norm=
+al; font-variation-settings: normal; -webkit-tap-highlight-color: transpare=
+nt; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-variation-settings: normal; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-feat=
+ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden]:where(:not([hidden=3D"until-found"])) { display: none; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.sticky { position: sticky; }
+
+.\!-bottom-4 { bottom: -1rem !important; }
+
+.-top-\[1px\] { top: -1px; }
+
+.-top-\[31px\] { top: -31px; }
+
+.bottom-0 { bottom: 0px; }
+
+.left-0 { left: 0px; }
+
+.right-0 { right: 0px; }
+
+.right-1 { right: 0.25rem; }
+
+.right-3 { right: 0.75rem; }
+
+.top-0 { top: 0px; }
+
+.top-1\/2 { top: 50%; }
+
+.top-3 { top: 0.75rem; }
+
+.top-40 { top: 10rem; }
+
+.z-10 { z-index: 10; }
+
+.my-3 { margin-top: 0.75rem; margin-bottom: 0.75rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.mb-9 { margin-bottom: 2.25rem; }
+
+.mt-10 { margin-top: 2.5rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.mt-3 { margin-top: 0.75rem; }
+
+.mt-40 { margin-top: 10rem; }
+
+.box-border { box-sizing: border-box; }
+
+.block { display: block; }
+
+.flex { display: flex; }
+
+.grid { display: grid; }
+
+.hidden { display: none; }
+
+.h-4 { height: 1rem; }
+
+.h-\[300px\] { height: 300px; }
+
+.h-\[90px\] { height: 90px; }
+
+.h-\[94px\] { height: 94px; }
+
+.h-full { height: 100%; }
+
+.max-h-\[500px\] { max-height: 500px; }
+
+.min-h-36 { min-height: 9rem; }
+
+.w-4 { width: 1rem; }
+
+.w-\[224px\] { width: 224px; }
+
+.w-\[240px\] { width: 240px; }
+
+.w-\[948px\] { width: 948px; }
+
+.w-\[calc\(100\%-300px\)\] { width: calc(100% - 300px); }
+
+.w-full { width: 100%; }
+
+.min-w-\[70px\] { min-width: 70px; }
+
+.min-w-full { min-width: 100%; }
+
+.max-w-\[60\%\] { max-width: 60%; }
+
+.max-w-\[600px\] { max-width: 600px; }
+
+.max-w-full { max-width: 100%; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.-translate-y-1\/2 { --tw-translate-y: -50%; }
+
+.-translate-y-1\/2, .translate-x-0 { transform: translate(var(--tw-translat=
+e-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)=
+) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y=
+)); }
+
+.translate-x-0 { --tw-translate-x: 0px; }
+
+.translate-x-\[300px\] { --tw-translate-x: 300px; }
+
+.translate-x-\[300px\], .translate-x-full { transform: translate(var(--tw-t=
+ranslate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-=
+skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-=
+scale-y)); }
+
+.translate-x-full { --tw-translate-x: 100%; }
+
+.translate-y-\[2px\] { --tw-translate-y: 2px; }
+
+.translate-y-\[2px\], .translate-y-full { transform: translate(var(--tw-tra=
+nslate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-sk=
+ew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-sc=
+ale-y)); }
+
+.translate-y-full { --tw-translate-y: 100%; }
+
+.transform { transform: translate(var(--tw-translate-x),var(--tw-translate-=
+y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)=
+) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.cursor-pointer { cursor: pointer; }
+
+.list-inside { list-style-position: inside; }
+
+.list-disc { list-style-type: disc; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.flex-col { flex-direction: column; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.items-start { align-items: flex-start; }
+
+.items-center { align-items: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-1 { gap: 0.25rem; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-3 { gap: 0.75rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-8 { gap: 2rem; }
+
+.overflow-hidden { overflow: hidden; }
+
+.whitespace-nowrap { white-space: nowrap; }
+
+.rounded-l-full { border-top-left-radius: 9999px; border-bottom-left-radius=
+: 9999px; }
+
+.rounded-l-xl { border-top-left-radius: 0.75rem; border-bottom-left-radius:=
+ 0.75rem; }
+
+.border { border-width: 1px; }
+
+.border-b { border-bottom-width: 1px; }
+
+.border-b-4 { border-bottom-width: 4px; }
+
+.border-t-4 { border-top-width: 4px; }
+
+.border-border-gray { border-color: var(--border); }
+
+.border-border-yellow { border-color: var(--border-yellow); }
+
+.border-primary { border-color: var(--primary); }
+
+.border-transparent { border-color: transparent; }
+
+.border-b-primary { border-bottom-color: var(--primary); }
+
+.bg-black\/20 { background-color: rgba(0, 0, 0, 0.2); }
+
+.bg-black\/40 { background-color: rgba(0, 0, 0, 0.4); }
+
+.bg-blue-dark { background-color: var(--blue-dark); }
+
+.bg-gray-lightest { background-color: var(--gray-lightest); }
+
+.bg-primary { background-color: var(--primary); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-=
+bg-opacity,1)); }
+
+.object-cover { object-fit: cover; }
+
+.object-center { object-position: center center; }
+
+.object-left { object-position: left center; }
+
+.object-right { object-position: right center; }
+
+.p-2 { padding: 0.5rem; }
+
+.p-3 { padding: 0.75rem; }
+
+.px-1 { padding-left: 0.25rem; padding-right: 0.25rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+
+.py-0\.5 { padding-top: 0.125rem; padding-bottom: 0.125rem; }
+
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+.py-10 { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+
+.py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+
+.pb-1 { padding-bottom: 0.25rem; }
+
+.pb-2 { padding-bottom: 0.5rem; }
+
+.pb-4 { padding-bottom: 1rem; }
+
+.pb-5 { padding-bottom: 1.25rem; }
+
+.pb-6 { padding-bottom: 1.5rem; }
+
+.pl-0\.5 { padding-left: 0.125rem; }
+
+.pl-3 { padding-left: 0.75rem; }
+
+.pr-1 { padding-right: 0.25rem; }
+
+.pt-16 { padding-top: 4rem; }
+
+.pt-2 { padding-top: 0.5rem; }
+
+.pt-4 { padding-top: 1rem; }
+
+.pt-6 { padding-top: 1.5rem; }
+
+.text-center { text-align: center; }
+
+.text-right { text-align: right; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+
+.text-\[13px\] { font-size: 13px; }
+
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-bold { font-weight: 700; }
+
+.italic { font-style: italic; }
+
+.leading-normal { line-height: 1.5; }
+
+.\!text-gray-light { color: var(--gray-light) !important; }
+
+.\!text-gray-lightest { color: var(--gray-lightest) !important; }
+
+.\!text-inherit { color: inherit !important; }
+
+.\!text-white { --tw-text-opacity: 1 !important; color: rgb(255 255 255/var=
+(--tw-text-opacity,1)) !important; }
+
+.text-gray { color: var(--gray); }
+
+.text-gray-light { color: var(--gray-light); }
+
+.text-gray-lightest { color: var(--gray-lightest); }
+
+.text-inherit { color: inherit; }
+
+.text-primary { color: var(--primary); }
+
+.text-text-gray { color: var(--text-gray); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-op=
+acity,1)); }
+
+.shadow { --tw-shadow: 0 1px 3px 0 rgb(0 0 0/0.1),0 1px 2px -1px rgb(0 0 0/=
+0.1); --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1p=
+x var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow,0 0 #0000=
+),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+.filter { filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) va=
+r(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) =
+var(--tw-sepia) var(--tw-drop-shadow); }
+
+.transition { transition-property: color, background-color, border-color, t=
+ext-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,=
+ backdrop-filter; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);=
+ transition-duration: 0.15s; }
+
+:root { --primary: #f90; --text: #111; --text-gray: #333; --link: #005782; =
+--link-visited: #800080; --gray-lightest: #808080; --gray-light: #666; --gr=
+ay: #999; --gray-dark: #4d4d4d; --border: #cccccc; --border-yellow: #fbedbb=
+; --blue-dark: #3a4140; --green-light: #b7ddca; --yellow-light: #fff8df; }
+
+::selection { background-color: var(--primary); color: rgb(255, 255, 255); =
+text-shadow: none; }
+
+body, dd, dt, h1, h2, h3, h4, h5, h6, li, p, td, th, tr { color: var(--text=
+); line-height: 1.4; font-size: 16px; }
+
+a:visited { color: var(--link-visited); }
+
+a { text-decoration: none; color: var(--link); }
+
+img, video { max-width: none; }
+
+.custom-container { max-width: 1280px; margin: 0px auto; }
+
+.visited\:text-gray-light:visited { color: var(--gray-light); }
+
+.hover\:bg-primary:hover { background-color: var(--primary); }
+
+.hover\:bg-yellow-light:hover { background-color: var(--yellow-light); }
+
+.hover\:text-white:hover { --tw-text-opacity: 1; color: rgb(255 255 255/var=
+(--tw-text-opacity,1)); }
+
+.hover\:underline:hover { text-decoration-line: underline; }
+
+@media (min-width: 768px) {
+  .md\:relative { position: relative; }
+  .md\:right-0 { right: 0px; }
+  .md\:top-0 { top: 0px; }
+  .md\:ml-20 { margin-left: 5rem; }
+  .md\:mt-0 { margin-top: 0px; }
+  .md\:block { display: block; }
+  .md\:hidden { display: none; }
+  .md\:h-\[320px\] { height: 320px; }
+  .md\:w-\[400px\] { width: 400px; }
+  .md\:w-full { width: 100%; }
+  .md\:max-w-\[300px\] { max-width: 300px; }
+  .md\:max-w-full { max-width: 100%; }
+  .md\:flex-1 { flex: 1 1 0%; }
+  .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .md\:flex-row { flex-direction: row; }
+  .md\:rounded-md { border-radius: 0.375rem; }
+  .md\:bg-transparent { background-color: transparent; }
+  .md\:bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var=
+(--tw-bg-opacity,1)); }
+  .md\:p-4 { padding: 1rem; }
+  .md\:px-0 { padding-left: 0px; padding-right: 0px; }
+  .md\:px-8 { padding-left: 2rem; padding-right: 2rem; }
+  .md\:pt-24 { padding-top: 6rem; }
+  .md\:text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+  .md\:drop-shadow-lg { --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0/=
+0.04)) drop-shadow(0 4px 3px rgb(0 0 0/0.1)); filter: var(--tw-blur) var(--=
+tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) =
+var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); =
+}
+}
+
+@media (min-width: 1024px) {
+  .lg\:h-\[360px\] { height: 360px; }
+  .lg\:min-w-\[calc\(1280px-300px-16px\)\] { min-width: calc(964px); }
+  .lg\:max-w-\[360px\] { max-width: 360px; }
+  .lg\:pt-28 { padding-top: 7rem; }
+  .lg\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+}
+------MultipartBoundary--yjneq9g1HKmow0EpJOe0he5p3J25bYFbL42dmnNTiM------
